@@ -362,6 +362,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      CIKM 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557262), [[Code]](https://github.com/cjx96/C2DSR)
 
-21. **Prototypical Contrastive Learning and Adaptive Interest Selection for Candidate Generation in Recommendations** (Short Paper, Industry + CL + DA)
+22. **Prototypical Contrastive Learning and Adaptive Interest Selection for Candidate Generation in Recommendations** (Short Paper, Industry + CL + DA)
 
      CIKM 2022, [[PDF]](https://arxiv.org/pdf/2211.12893.pdf), [[Code]](https://github.com/cjx96/C2DSR)
