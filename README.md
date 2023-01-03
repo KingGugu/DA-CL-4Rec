@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 14
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 27
 - [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 20
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 22
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 23
 
 
 ## Survey/Tutorial
@@ -365,3 +365,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 22. **Prototypical Contrastive Learning and Adaptive Interest Selection for Candidate Generation in Recommendations** (Short Paper, Industry + CL + DA)
 
      CIKM 2022, [[PDF]](https://arxiv.org/pdf/2211.12893.pdf), [[Code]](https://github.com/cjx96/C2DSR)
+
+23. **Spatio-Temporal Contrastive Learning Enhanced GNNs for Session-based Recommendation** (GNN + CL)
+
+     TOIS 2022, under review, [[PDF]](https://arxiv.org/pdf/2209.11461v2.pdf)
