@@ -192,6 +192,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     CIKM 2021, [[PDF]](https://arxiv.org/abs/2109.04200), [[Code]](https://github.com/0411tony/HHGR)
 
+28. **Self-Supervised Hypergraph Transformer for Recommender Systems** (Graph + SSL)
+
+    KDD 2022, [[PDF]](https://arxiv.org/pdf/2207.14338.pdf), [[Code]](https://github.com/akaxlh/SHT)
 
 ## Sequential Models with CL
 
