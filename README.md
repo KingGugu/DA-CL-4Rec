@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 2
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 14
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 27
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 29
 - [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 20
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 23
 
@@ -79,7 +79,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 14. **MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems** (Graph + DA)
 
      KDD 2021, [[PDF]](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD21-Huang-et-al-MixGCF.pdf), [[Code]](https://github.com/huangtinglin/MixGCF)
-
 
 
 ## Graph Models with CL
@@ -195,6 +194,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 28. **Self-Supervised Hypergraph Transformer for Recommender Systems** (Graph + SSL)
 
     KDD 2022, [[PDF]](https://arxiv.org/pdf/2207.14338.pdf), [[Code]](https://github.com/akaxlh/SHT)
+
+29. **Episodes Discovery Recommendation with Multi-Source Augmentations** (Graph + DA + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2301.01737.pdf)
+
 
 ## Sequential Models with CL
 
