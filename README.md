@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 2
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 14
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 29
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 30
 - [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 20
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 23
 
@@ -198,6 +198,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 29. **Episodes Discovery Recommendation with Multi-Source Augmentations** (Graph + DA + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2301.01737.pdf)
+
+30. **Poincaré Heterogeneous Graph Neural Networks for Sequential Recommendation** (Graph + Sequential + CL)
+
+     TOIS 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3568395)
 
 
 ## Sequential Models with CL
