@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 2
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 14
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 30
-- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 20
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 23
+- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 21
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 24
 
 
 ## Survey/Tutorial
@@ -285,6 +285,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 20. **Hyperbolic Hypergraphs for Sequential Recommendation** (Sequential + Graph + CL + DA)
 
     CIKM 2021, [[PDF]](https://arxiv.org/pdf/2108.08134.pdf), [[Code]](https://github.com/Abigale001/h2seqrec)
+    
+21. **Mutual Wasserstein Discrepancy Minimization for Sequential  Recommendation** (Sequential + CL)
+
+    WWW 2023, [[PDF]](https://arxiv.org/pdf/2301.12197.pdf), [[Code]](https://github.com/zfan20/MStein)
 
 
 ## Other Tasks with CL
