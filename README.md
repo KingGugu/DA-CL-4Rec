@@ -380,3 +380,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 23. **Spatio-Temporal Contrastive Learning Enhanced GNNs for Session-based Recommendation** (GNN + CL)
 
      TOIS 2022, under review, [[PDF]](https://arxiv.org/pdf/2209.11461v2.pdf)
+    
+24. **Unsupervised Legal Evidence Retrieval via Contrastive Learning with Approximate Aggregated Positive** (CL)
+
+     AAAI 2023    
