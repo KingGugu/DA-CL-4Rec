@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 2
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 14
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 30
-- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 21
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 24
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 32
+- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 22
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 26
 
 
 ## Survey/Tutorial
@@ -202,6 +202,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 30. **Poincaré Heterogeneous Graph Neural Networks for Sequential Recommendation** (Graph + Sequential + CL)
 
      TOIS 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3568395)
+     
+31. **Adversarial Learning Data Augmentation for Graph Contrastive Learning in Recommendation** (Graph + DA + CL)
+
+     DASFAA 2023, [[PDF]](https://arxiv.org/pdf/2302.02317.pdf)
+     
+32. **SimCGNN: Simple Contrastive Graph Neural Network for Session-based Recommendation** (Graph + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03997.pdf)
 
 
 ## Sequential Models with CL
@@ -289,6 +297,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 21. **Mutual Wasserstein Discrepancy Minimization for Sequential  Recommendation** (Sequential + CL)
 
     WWW 2023, [[PDF]](https://arxiv.org/pdf/2301.12197.pdf), [[Code]](https://github.com/zfan20/MStein)
+    
+22. **Dual-interest Factorization-heads Attention for Sequential Recommendation** (Sequential + CL)
+
+    WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.03965.pdf), [[Code]](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)
 
 
 ## Other Tasks with CL
@@ -387,4 +399,13 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
     
 24. **Unsupervised Legal Evidence Retrieval via Contrastive Learning with Approximate Aggregated Positive** (CL)
 
-     AAAI 2023    
+     AAAI 2023
+
+25. **Disentangled Causal Embedding With Contrastive Learning For Recommender System** (Causal + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03248.pdf), [[Code]](https://github.com/somestudies/DCCL)
+
+26. **Contrastive Collaborative Filtering for Cold-Start Item
+    Recommendation** (CF + Cold Start +  CL)
+
+     WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.02151.pdf), [[Code]](https://github.com/zzhin/CCFCRec)
