@@ -5,8 +5,8 @@ Comments and contributions are welcome.
 
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
-- [Survey/Tutorial](#Survey/Tutorial) Total Papers: 2
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 14
+- [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 16
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 32
 - [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 22
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 26
@@ -20,6 +20,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 2. **Self-Supervised Learning in Recommendation: Fundamentals and Advances** (Tutorial)
    
    WWW 2022, [[Web]](https://ssl-recsys.github.io/)
+   
+3. **Tutorial: Self-Supervised Learning for Recommendation: Foundations, Methods and Prospects** (Tutorial)
+   
+   DASFAA 2023, [[Web]](https://junliang-yu.github.io/publications/)
 
 
 ## Only Data Augmentation
@@ -79,6 +83,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 14. **MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems** (Graph + DA)
 
      KDD 2021, [[PDF]](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD21-Huang-et-al-MixGCF.pdf), [[Code]](https://github.com/huangtinglin/MixGCF)
+
+15. **Improving Recommendation Fairness via Data Augmentation** (Fairness + DA)
+
+     WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.06333.pdf), [[Code]](https://github.com/newlei/FDA)
+
+16. **Fairly Adaptive Negative Sampling for Recommendations** (Fairness + DA)
+
+     WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.08266.pdf)
 
 
 ## Graph Models with CL
@@ -202,11 +214,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 30. **Poincaré Heterogeneous Graph Neural Networks for Sequential Recommendation** (Graph + Sequential + CL)
 
      TOIS 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3568395)
-     
+    
 31. **Adversarial Learning Data Augmentation for Graph Contrastive Learning in Recommendation** (Graph + DA + CL)
 
      DASFAA 2023, [[PDF]](https://arxiv.org/pdf/2302.02317.pdf)
-     
+    
 32. **SimCGNN: Simple Contrastive Graph Neural Network for Session-based Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03997.pdf)
