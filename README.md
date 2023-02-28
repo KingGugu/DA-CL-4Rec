@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 16
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 33
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 35
 - [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 22
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 28
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
 
 
 ## Survey/Tutorial
@@ -222,10 +222,18 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 32. **SimCGNN: Simple Contrastive Graph Neural Network for Session-based Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03997.pdf)
-     
+    
 33. **MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning** (Graph + DA + CL)
 
      AAAI 2023, [[PDF]](https://arxiv.org/pdf/2212.07035.pdf), [[Code]](https://github.com/GXM1141/MA-GCL)
+     
+34. **Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation** (Graph + Session + CL)
+
+     AAAI 2021, [[PDF]](https://arxiv.org/pdf/2012.06852.pdf), [[Code]](https://github.com/xiaxin1998/DHCN)
+     
+35. **Self-Supervised Graph Co-Training for Session-based Recommendation** (Graph + Session + CL)
+
+     CIMK 2021, [[PDF]](https://arxiv.org/pdf/2108.10560.pdf), [[Code]](https://github.com/xiaxin1998/COTREC)
 
 
 ## Sequential Models with CL
@@ -425,11 +433,19 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
     Recommendation** (CF + Cold Start +  CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.02151.pdf), [[Code]](https://github.com/zzhin/CCFCRec)
-     
+    
 27. **Cross-domain recommendation via user interest alignment** (Cross-domain Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2301.11467.pdf), [[Code]](https://github/anonymous/COAST)
-     
+    
 28. **Multi-Modal Self-Supervised Learning for Recommendation** (Multi-Modal Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.10632.pdf), [[Code]](https://github.com/HKUDS/MMSSL)
+     
+29. **Efficient On-Device Session-Based Recommendation** (Session + DA + CL)
+
+     TOIS 2023, [[PDF]](https://arxiv.org/pdf/2209.13422.pdf), [[Code]](https://github.com/xiaxin1998/EODRec)
+
+30. **On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation** (Session + DA + CL)
+
+     SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2204.11091.pdf), [[Code]](https://github.com/xiaxin1998/OD-Rec)
