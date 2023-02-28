@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 16
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 32
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 33
 - [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 22
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 26
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 28
 
 
 ## Survey/Tutorial
@@ -222,6 +222,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 32. **SimCGNN: Simple Contrastive Graph Neural Network for Session-based Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03997.pdf)
+     
+33. **MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning** (Graph + DA + CL)
+
+     AAAI 2023, [[PDF]](https://arxiv.org/pdf/2212.07035.pdf), [[Code]](https://github.com/GXM1141/MA-GCL)
 
 
 ## Sequential Models with CL
@@ -397,7 +401,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      KDD 2022, [[PDF]](https://arxiv.org/pdf/2112.00999.pdf), [[Code]](https://github.com/lqfarmer/CCDR)
 
-21. **Contrastive Cross-domain Recommendation in Matching** (Cross-domain Rec + Sequential + CL)
+21. **Contrastive Cross-Domain Sequential Recommendation** (Cross-domain Rec + Sequential + CL)
 
      CIKM 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557262), [[Code]](https://github.com/cjx96/C2DSR)
 
@@ -421,3 +425,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
     Recommendation** (CF + Cold Start +  CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.02151.pdf), [[Code]](https://github.com/zzhin/CCFCRec)
+     
+27. **Cross-domain recommendation via user interest alignment** (Cross-domain Rec + CL)
+
+     WWW 2023, [[PDF]](https://arxiv.org/pdf/2301.11467.pdf), [[Code]](https://github/anonymous/COAST)
+     
+28. **Multi-Modal Self-Supervised Learning for Recommendation** (Multi-Modal Rec + CL)
+
+     WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.10632.pdf), [[Code]](https://github.com/HKUDS/MMSSL)
