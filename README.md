@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 16
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 36
 - [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 24
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
@@ -230,11 +230,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 33. **MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning** (Graph + DA + CL)
 
      AAAI 2023, [[PDF]](https://arxiv.org/pdf/2212.07035.pdf), [[Code]](https://github.com/GXM1141/MA-GCL)
-     
+    
 34. **Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation** (Graph + Session + CL)
 
      AAAI 2021, [[PDF]](https://arxiv.org/pdf/2012.06852.pdf), [[Code]](https://github.com/xiaxin1998/DHCN)
-     
+    
 35. **Self-Supervised Graph Co-Training for Session-based Recommendation** (Graph + Session + CL)
 
      CIMK 2021, [[PDF]](https://arxiv.org/pdf/2108.10560.pdf), [[Code]](https://github.com/xiaxin1998/COTREC)
@@ -457,7 +457,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 28. **Multi-Modal Self-Supervised Learning for Recommendation** (Multi-Modal Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.10632.pdf), [[Code]](https://github.com/HKUDS/MMSSL)
-     
+    
 29. **Efficient On-Device Session-Based Recommendation** (Session + DA + CL)
 
      TOIS 2023, [[PDF]](https://arxiv.org/pdf/2209.13422.pdf), [[Code]](https://github.com/xiaxin1998/EODRec)
