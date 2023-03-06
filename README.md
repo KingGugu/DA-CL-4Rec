@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 36
 - [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 24
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 29
 
 
 ## Survey/Tutorial
@@ -437,10 +437,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TOIS 2022, under review, [[PDF]](https://arxiv.org/pdf/2209.11461v2.pdf)
     
-24. **Unsupervised Legal Evidence Retrieval via Contrastive Learning with Approximate Aggregated Positive** (CL)
-
-     AAAI 2023, [[PDF]](https://assets.underline.io/lecture/68500/paper/5304d10bc8f7976bba1fa4998d66c0b1.pdf)
-
 25. **Disentangled Causal Embedding With Contrastive Learning For Recommender System** (Causal + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03248.pdf), [[Code]](https://github.com/somestudies/DCCL)
