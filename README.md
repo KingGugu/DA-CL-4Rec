@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 16
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 35
-- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 22
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 36
+- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 24
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
 
 
@@ -91,6 +91,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 16. **Fairly Adaptive Negative Sampling for Recommendations** (Fairness + DA)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.08266.pdf)
+
+17. **Creating Synthetic Datasets for Collaborative Filtering Recommender  Systems using Generative Adversarial Networks** (CF + DA)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.01297.pdf)
 
 
 ## Graph Models with CL
@@ -235,6 +239,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      CIMK 2021, [[PDF]](https://arxiv.org/pdf/2108.10560.pdf), [[Code]](https://github.com/xiaxin1998/COTREC)
 
+36. **Heterogeneous Graph Contrastive Learning for Recommendation** (Graph + CL)
+
+     WSDM 2023, [[PDF]](https://arxiv.org/pdf/2303.00995.pdf), [[Code]]( https://github.com/HKUDS/HGCL)
+
 
 ## Sequential Models with CL
 
@@ -325,6 +333,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 22. **Dual-interest Factorization-heads Attention for Sequential Recommendation** (Sequential + CL)
 
     WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.03965.pdf), [[Code]](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)
+
+23. **GUESR: A Global Unsupervised Data-Enhancement with Bucket-Cluster  Sampling for Sequential Recommendation** (Sequential + DA + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.00243.pdf)
+
+24. **Self-Supervised Interest Transfer Network via Prototypical Contrastive  Learning for Recommendation** (Sequential + CL)
+
+    AAAI 2023, [[PDF]](https://arxiv.org/pdf/2302.14438.pdf), [[Code]](https://github.com/fanqieCoffee/SITN-Supplement.)
 
 
 ## Other Tasks with CL
@@ -423,7 +439,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
     
 24. **Unsupervised Legal Evidence Retrieval via Contrastive Learning with Approximate Aggregated Positive** (CL)
 
-     AAAI 2023
+     AAAI 2023, [[PDF]](https://assets.underline.io/lecture/68500/paper/5304d10bc8f7976bba1fa4998d66c0b1.pdf)
 
 25. **Disentangled Causal Embedding With Contrastive Learning For Recommender System** (Causal + CL)
 
