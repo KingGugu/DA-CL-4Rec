@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 36
-- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 24
+- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 25
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 29
 
 
@@ -340,7 +340,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 24. **Self-Supervised Interest Transfer Network via Prototypical Contrastive  Learning for Recommendation** (Sequential + CL)
 
-    AAAI 2023, [[PDF]](https://arxiv.org/pdf/2302.14438.pdf), [[Code]](https://github.com/fanqieCoffee/SITN-Supplement.)
+    AAAI 2023, [[PDF]](https://arxiv.org/pdf/2302.14438.pdf), [[Code]](https://github.com/fanqieCoffee/SITN-Supplement)
+
+25. **A Self-Correcting Sequential Recommender** (Sequential + DA + SSL)
+
+    WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.02297.pdf), [[Code]](https://github.com/TempSDU/STEAM)
 
 
 ## Other Tasks with CL
