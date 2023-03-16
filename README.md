@@ -245,7 +245,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 37. **Automated Self-Supervised Learning for Recommendation** (Graph + DA + CL)
 
-     WSDM 2023, [[PDF]](https://akaxlh.github.io/), [[Code]](https://github.com/HKUDS/AutoCF)
+     WSDM 2023, [[PDF]](https://arxiv.org/pdf/2303.07797.pdf), [[Code]](https://github.com/HKUDS/AutoCF)
 
 
 ## Sequential Models with CL
