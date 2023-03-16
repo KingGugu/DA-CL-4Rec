@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 37
 - [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 25
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 29
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
 
 
 ## Survey/Tutorial
@@ -445,27 +445,31 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TOIS 2022, under review, [[PDF]](https://arxiv.org/pdf/2209.11461v2.pdf)
     
-25. **Disentangled Causal Embedding With Contrastive Learning For Recommender System** (Causal + CL)
+24. **Disentangled Causal Embedding With Contrastive Learning For Recommender System** (Causal + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03248.pdf), [[Code]](https://github.com/somestudies/DCCL)
 
-26. **Contrastive Collaborative Filtering for Cold-Start Item
+25. **Contrastive Collaborative Filtering for Cold-Start Item
     Recommendation** (CF + Cold Start +  CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.02151.pdf), [[Code]](https://github.com/zzhin/CCFCRec)
     
-27. **Cross-domain recommendation via user interest alignment** (Cross-domain Rec + CL)
+26. **Cross-domain recommendation via user interest alignment** (Cross-domain Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2301.11467.pdf), [[Code]](https://github/anonymous/COAST)
     
-28. **Multi-Modal Self-Supervised Learning for Recommendation** (Multi-Modal Rec + CL)
+27. **Multi-Modal Self-Supervised Learning for Recommendation** (Multi-Modal Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.10632.pdf), [[Code]](https://github.com/HKUDS/MMSSL)
     
-29. **Efficient On-Device Session-Based Recommendation** (Session + DA + CL)
+28. **Efficient On-Device Session-Based Recommendation** (Session + DA + CL)
 
      TOIS 2023, [[PDF]](https://arxiv.org/pdf/2209.13422.pdf), [[Code]](https://github.com/xiaxin1998/EODRec)
 
-30. **On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation** (Session + DA + CL)
+29. **On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation** (Session + DA + CL)
 
      SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2204.11091.pdf), [[Code]](https://github.com/xiaxin1998/OD-Rec)
+
+30. **Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation** (Multi-Modal Rec + CL)
+
+     WWW 2022, [[PDF]](https://web.archive.org/web/20220428140054id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512079), [[Code]](https://github.com/hantengyue/PAMD)
