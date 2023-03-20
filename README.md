@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 37
-- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 25
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
+- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 26
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
 
 
@@ -245,7 +245,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 37. **Automated Self-Supervised Learning for Recommendation** (Graph + DA + CL)
 
-     WSDM 2023, [[PDF]](https://arxiv.org/pdf/2303.07797.pdf), [[Code]](https://github.com/HKUDS/AutoCF)
+     WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.07797.pdf), [[Code]](https://github.com/HKUDS/AutoCF)
+
+37. **Graph-less Collaborative Filtering** (Graph + CL)
+
+     WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.08537.pdf), [[Code]](https://github.com/HKUDS/SimRec)
 
 
 ## Sequential Models with CL
@@ -349,6 +353,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 25. **A Self-Correcting Sequential Recommender** (Sequential + DA + SSL)
 
     WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.02297.pdf), [[Code]](https://github.com/TempSDU/STEAM)
+
+26. **User Retention-oriented Recommendation with Decision Transformer** (Sequential + CL)
+
+    WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.06347.pdf), [[Code]](https://github.com/kesenzhao/DT4Rec)
 
 
 ## Other Tasks with CL
