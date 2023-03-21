@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Graph-Models-with-CL) Total Papers: 26
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 26
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
 
 
