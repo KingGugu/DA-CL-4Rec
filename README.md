@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 26
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 27
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
 
 
@@ -133,7 +133,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 9. **Simple Yet Effective Graph Contrastive Learning for Recommendation** (Graph + CL + DA)
 
-    ICLR 2023, Under double-blind review, [[PDF]](https://openreview.net/pdf?id=FKXVK9dyMM), [[Code]](https://anonymous.4open.science/r/LightGCL/)
+    ICLR 2023, [[PDF]](https://arxiv.org/pdf/2302.08191.pdf), [[Code]](https://github.com/HKUDS/LightGCL)
 
 10. **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** (Graph + CL + DA)
 
@@ -357,6 +357,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 26. **User Retention-oriented Recommendation with Decision Transformer** (Sequential + CL)
 
     WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.06347.pdf), [[Code]](https://github.com/kesenzhao/DT4Rec)
+
+27. **Debiased Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+    WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.11780.pdf), [[Code]](https://github.com/kesenzhao/DT4Rec)
 
 
 ## Other Tasks with CL
