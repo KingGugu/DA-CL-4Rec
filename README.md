@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 27
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 29
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
 
 
@@ -360,7 +360,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 27. **Debiased Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
-    WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.11780.pdf), [[Code]](https://github.com/kesenzhao/DT4Rec)
+    WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.11780.pdf), [[Code]](https://github.com/HKUDS/DCRec)
+
+28. **Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders** (Sequential + CL)
+
+    WWW 2023, [[PDF]](https://arxiv.org/pdf/2210.12316.pdf), [[Code]](https://github.com/RUCAIBox/VQ-Rec)
+
+29. **Dual-interest Factorization-heads Attention for Sequential Recommendation** (Sequential + CL)
+
+    WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.03965.pdf), [[Code]](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)
 
 
 ## Other Tasks with CL
