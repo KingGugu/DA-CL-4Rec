@@ -5,7 +5,7 @@ Comments and contributions are welcome.
 
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
-- [Survey/Tutorial](#Survey/Tutorial) Total Papers: 3
+- [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 29
@@ -13,15 +13,19 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 
 ## Survey/Tutorial
-1. **Self-Supervised Learning for Recommender Systems A Survey** (Survey)
+1. **Contrastive Self-supervised Learning in Recommender Systems: A Survey** (Survey)
+   
+   arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.09902.pdf)
+
+2. **Self-Supervised Learning for Recommender Systems A Survey** (Survey)
    
    TKDE 2022, [[PDF]](https://arxiv.org/pdf/2203.15876.pdf), [[Code]](https://github.com/Coder-Yu/SELFRec)
 
-2. **Self-Supervised Learning in Recommendation: Fundamentals and Advances** (Tutorial)
+3. **Self-Supervised Learning in Recommendation: Fundamentals and Advances** (Tutorial)
    
    WWW 2022, [[Web]](https://ssl-recsys.github.io/)
    
-3. **Tutorial: Self-Supervised Learning for Recommendation: Foundations, Methods and Prospects** (Tutorial)
+4. **Tutorial: Self-Supervised Learning for Recommendation: Foundations, Methods and Prospects** (Tutorial)
    
    DASFAA 2023, [[Web]](https://junliang-yu.github.io/publications/)
 
