@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 29
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 30
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 30
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 31
 
 
 ## Survey/Tutorial
@@ -374,6 +374,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.03965.pdf), [[Code]](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)
 
+30. **Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning** (Multi-Modal + Sequential + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.11879.pdf)
+
 
 ## Other Tasks with CL
 
@@ -497,3 +501,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 30. **Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation** (Multi-Modal Rec + CL)
 
      WWW 2022, [[PDF]](https://web.archive.org/web/20220428140054id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512079), [[Code]](https://github.com/hantengyue/PAMD)
+
+31. **End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling** (POI Rec + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/abs/2303.12507)
