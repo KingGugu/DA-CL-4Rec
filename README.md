@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 30
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 31
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 32
 
 
 ## Survey/Tutorial
@@ -505,3 +505,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 31. **End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling** (POI Rec + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/abs/2303.12507)
+
+32. **Bootstrap Latent Representations for Multi-modal Recommendation** (Multi-Modal Rec + CL)
+
+     WWW 2023, [[PDF]](https://arxiv.org/abs/2207.05969), [[Code]](https://github.com/enoche/BM3)
