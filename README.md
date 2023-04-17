@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 18
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 30
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 34
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 33
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 36
 
 
 ## Survey/Tutorial
@@ -99,6 +99,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 17. **Creating Synthetic Datasets for Collaborative Filtering Recommender  Systems using Generative Adversarial Networks** (CF + DA)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.01297.pdf)
+
+18. **Graph Collaborative Signals Denoising and Augmentation for Recommendation** (CF + DA)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.03344.pdf), [[Code]](https://github.com/zfan20/GraphDA)
 
 
 ## Graph Models with CL
@@ -378,6 +382,18 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.11879.pdf)
 
+31. **Sequential Recommendation with Diffusion Models** (Diffsion + Sequential + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.04541.pdf)
+
+32. **Triple Sequence Learning for Cross-domain Recommendation** (Sequential + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.05027.pdf)
+
+33. **Contrastive Cross-Domain Sequential Recommendation** (Cross-domain + Sequential + CL)
+
+    CIMK 2022, [[PDF]](https://arxiv.org/pdf/2304.03891.pdf), [[Code]](https://github.com/cjx96/C2DSR)
+
 
 ## Other Tasks with CL
 
@@ -517,3 +533,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 34. **Hierarchically Fusing Long and Short-Term User Interests for Click-Through Rate Prediction in Product Search** (CTR + CL)
 
      CIKM 2022, [[PDF]](https://arxiv.org/abs/2304.02089)
+
+35. **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck** (Cross domain + CL)
+
+     ICDE 2022, [[PDF]](https://arxiv.org/abs/2304.02089), [[Code]](https://github.com/cjx96/CDRIB)
+
+36. **DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation** (Cross domain + CL)
+
+     SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531967), [[Code]](https://github.com/cjx96/DisenCDR)
+
+37. **Towards Universal Cross-Domain Recommendation** (Cross domain + CL)
+
+     WSDM 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570366), [[Code]](https://github.com/cjx96/UniCDR)
