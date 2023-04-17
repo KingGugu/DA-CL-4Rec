@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 18
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 33
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 36
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 37
 
 
 ## Survey/Tutorial
@@ -255,7 +255,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.07797.pdf), [[Code]](https://github.com/HKUDS/AutoCF)
 
-37. **Graph-less Collaborative Filtering** (Graph + CL)
+38. **Graph-less Collaborative Filtering** (Graph + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.08537.pdf), [[Code]](https://github.com/HKUDS/SimRec)
 
