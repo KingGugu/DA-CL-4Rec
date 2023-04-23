@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 18
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 33
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 34
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 37
 
 
@@ -393,6 +393,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 33. **Contrastive Cross-Domain Sequential Recommendation** (Cross-domain + Sequential + CL)
 
     CIMK 2022, [[PDF]](https://arxiv.org/pdf/2304.03891.pdf), [[Code]](https://github.com/cjx96/C2DSR)
+
+34. **Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation** (VAE + Sequential + CL)
+
+    WWW 2021, [[PDF]](https://arxiv.org/pdf/2103.10693.pdf), [[Code]](https://github.com/ACVAE/ACVAE-PyTorch)
+
 
 
 ## Other Tasks with CL
