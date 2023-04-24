@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 18
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 34
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 37
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 36
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 41
 
 
 ## Survey/Tutorial
@@ -398,6 +398,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WWW 2021, [[PDF]](https://arxiv.org/pdf/2103.10693.pdf), [[Code]](https://github.com/ACVAE/ACVAE-PyTorch)
 
+35. **Meta-optimized Contrastive Learning for Sequential Recommendation** (Meta + Sequential + CL)
+
+    SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.07763.pdf), [[Code]](https://github.com/QinHsiu/MCLRec)
+
+36. **Frequency Enhanced Hybrid Attention Network for Sequential Recommendation** (Sequential + CL)
+
+    SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.09184.pdf), [[Code]](https://github.com/sudaada/FEARec)
+
 
 
 ## Other Tasks with CL
@@ -550,3 +558,19 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 37. **Towards Universal Cross-Domain Recommendation** (Cross domain + CL)
 
      WSDM 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570366), [[Code]](https://github.com/cjx96/UniCDR)
+
+38. **Dual-Ganularity Contrastive Learning for Session-based Recommendation** (Session + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.08873.pdf)
+
+39. **Discreetly Exploiting Inter-session Information for Session-based Recommendation** (Session + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.08894.pdf)
+
+40. **PerCoNet: News Recommendation with Explicit Persona and Contrastive Learning** (News Rec + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.07923.pdf)
+
+41. **Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation** (Knowledge aware + CL)
+
+    ICME 2023, [[PDF]](https://arxiv.org/pdf/2304.07506.pdf)
