@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 38
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 39
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 42
 
 
@@ -99,6 +99,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 17. **Graph Collaborative Signals Denoising and Augmentation for Recommendation** (CF + DA)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.03344.pdf), [[Code]](https://github.com/zfan20/GraphDA)
+
+18. **Data Augmented Sequential Recommendation based on Counterfactual Thinking** (Sequential + DA)
+
+    TKDE 2022, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9950302)
 
 
 ## Graph Models with CL
@@ -409,7 +413,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 38. **Conditional Denoising Diffusion for Sequential Recommendation** (Diffusion + Sequential + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.11433.pdf)
-
 
 
 ## Other Tasks with CL
