@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 18
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 38
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 42
@@ -56,51 +56,47 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
    
     SIGIR 2021, [[PDF]](https://arxiv.org/pdf/2109.05261.pdf)
 
-7. **Explicit Counterfactual Data Augmentation for Recommendation** (Sequential + Counterfactual + DA)
-   
-    WSDM 2023
-
-8. **Effective and Efficient Training for Sequential Recommendation using Recency Sampling** (Sequential + DA)
+7. **Effective and Efficient Training for Sequential Recommendation using Recency Sampling** (Sequential + DA)
    
     RecSys 2022, [[PDF]](https://arxiv.org/pdf/2207.02643.pdf)
 
-9. **Data Augmentation Strategies for Improving Sequential Recommender Systems** (Sequential + DA)
+8. **Data Augmentation Strategies for Improving Sequential Recommender Systems** (Sequential + DA)
 
     arXiv 2022, [[PDF]](https://arxiv.org/pdf/2203.14037.pdf), [[Code]](https://github.com/saladsong/DataAugForSeqRec)
 
-10. **Learning to Augment for Casual User Recommendation** (Sequential + DA)
+9. **Learning to Augment for Casual User Recommendation** (Sequential + DA)
 
     WWW 2022, [[PDF]](https://arxiv.org/pdf/2204.00926.pdf)
 
-11. **Recency Dropout for Recurrent Recommender Systems** (RNN + DA)
+10. **Recency Dropout for Recurrent Recommender Systems** (RNN + DA)
    
      arXiv 2022, [[PDF]](https://arxiv.org/pdf/2201.11016.pdf)
 
-12. **Improved Recurrent Neural Networks for Session-based Recommendations** (RNN + DA)
+11. **Improved Recurrent Neural Networks for Session-based Recommendations** (RNN + DA)
 
      DLRS 2016, [[PDF]](https://arxiv.org/pdf/1606.08117.pdf)
 
-13. **Bootstrapping User and Item Representations for One-Class Collaborative Filtering** (CF + Graph + DA)
+12. **Bootstrapping User and Item Representations for One-Class Collaborative Filtering** (CF + Graph + DA)
 
      SIGIR 2021, [[PDF]](https://arxiv.org/pdf/2105.06323.pdf), [[Code]](https://github.com/donalee/BUIR)
 
-14. **MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems** (Graph + DA)
+13. **MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems** (Graph + DA)
 
      KDD 2021, [[PDF]](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD21-Huang-et-al-MixGCF.pdf), [[Code]](https://github.com/huangtinglin/MixGCF)
 
-15. **Improving Recommendation Fairness via Data Augmentation** (Fairness + DA)
+14. **Improving Recommendation Fairness via Data Augmentation** (Fairness + DA)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.06333.pdf), [[Code]](https://github.com/newlei/FDA)
 
-16. **Fairly Adaptive Negative Sampling for Recommendations** (Fairness + DA)
+15. **Fairly Adaptive Negative Sampling for Recommendations** (Fairness + DA)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.08266.pdf)
 
-17. **Creating Synthetic Datasets for Collaborative Filtering Recommender  Systems using Generative Adversarial Networks** (CF + DA)
+16. **Creating Synthetic Datasets for Collaborative Filtering Recommender  Systems using Generative Adversarial Networks** (CF + DA)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.01297.pdf)
 
-18. **Graph Collaborative Signals Denoising and Augmentation for Recommendation** (CF + DA)
+17. **Graph Collaborative Signals Denoising and Augmentation for Recommendation** (CF + DA)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.03344.pdf), [[Code]](https://github.com/zfan20/GraphDA)
 
