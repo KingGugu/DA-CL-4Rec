@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 18
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 36
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 41
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 38
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 42
 
 
 ## Survey/Tutorial
@@ -406,6 +406,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.09184.pdf), [[Code]](https://github.com/sudaada/FEARec)
 
+37. **Self-Supervised Multi-Modal Sequential Recommendation** (Multi-Moda + Sequential + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.13277.pdf), [[Code]](https://github.com/kz-song/MMSRec)
+
+38. **Conditional Denoising Diffusion for Sequential Recommendation** (Diffusion + Sequential + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.11433.pdf)
+
 
 
 ## Other Tasks with CL
@@ -574,3 +582,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 41. **Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation** (Knowledge aware + CL)
 
     ICME 2023, [[PDF]](https://arxiv.org/pdf/2304.07506.pdf)
+
+42. **Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation** (Multi Modal + CL)
+
+    SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.11979.pdf)
