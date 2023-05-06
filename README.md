@@ -414,6 +414,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.11433.pdf)
 
+39. **Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation** (Diffusion + Sequential + CL)
+
+    SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.14668.pdf), [[Code]](https://github.com/hw-du/EMKD)
+
 
 ## Other Tasks with CL
 
