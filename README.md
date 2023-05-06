@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 39
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 40
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 42
 
 
@@ -417,6 +417,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 39. **Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation** (Diffusion + Sequential + CL)
 
     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.14668.pdf), [[Code]](https://github.com/hw-du/EMKD)
+
+40. **Multi-view Multi-behavior Contrastive Learning in Recommendation** (Sequential + Graph + CL)
+
+    DASFAA 2022, [[PDF]](https://arxiv.org/pdf/2203.10576.pdf), [[Code]](https://github.com/wyqing20/MMCLR)
 
 
 ## Other Tasks with CL
