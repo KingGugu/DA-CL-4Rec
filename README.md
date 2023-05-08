@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 40
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 39
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 41
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 42
 
 
@@ -259,6 +259,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.08537.pdf), [[Code]](https://github.com/HKUDS/SimRec)
 
+39. **Disentangled Contrastive Collaborative Filtering** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.02759.pdf), [[Code]](https://github.com/HKUDS/DCCF)
+
+40. **Knowledge-refined Denoising Network for Robust Recommendation** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.14987.pdf), [[Code]](https://github.com/xj-zhu98/KRDN)
+
 
 ## Sequential Models with CL
 
@@ -421,6 +429,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 40. **Multi-view Multi-behavior Contrastive Learning in Recommendation** (Sequential + Graph + CL)
 
     DASFAA 2022, [[PDF]](https://arxiv.org/pdf/2203.10576.pdf), [[Code]](https://github.com/wyqing20/MMCLR)
+
+41. **Denoising Multi-modal Sequential Recommenders with Contrastive Learning** (Sequential + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2305.01915.pdf)
 
 
 ## Other Tasks with CL
