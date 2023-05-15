@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 40
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 41
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 42
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 41
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 43
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 43
 
 
 ## Survey/Tutorial
@@ -267,6 +267,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.14987.pdf), [[Code]](https://github.com/xj-zhu98/KRDN)
 
+41. **Disentangled Graph Contrastive Learning for Review-based Recommendation** (Graph + CL)
+
+     IJCAI 2023, [[PDF]](https://arxiv.org/pdf/2209.01524.pdf)
+
 
 ## Sequential Models with CL
 
@@ -433,6 +437,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 41. **Denoising Multi-modal Sequential Recommenders with Contrastive Learning** (Sequential + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2305.01915.pdf)
+
+42. **Multi-view Multi-behavior Contrastive Learning in Recommendation** (Sequential + Graph + CL)
+
+    SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2305.04619.pdf), [[Code]](https://github.com/HKUDS/MAERec)
+
+43. **Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation** (Sequential + CL)
+
+    ICDE 2023, [[PDF]](https://arxiv.org/pdf/2305.04322.pdf), [[Code]](https://github.com/sudaada/SLIME4Rec)
 
 
 ## Other Tasks with CL
@@ -605,3 +617,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 42. **Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation** (Multi Modal + CL)
 
     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.11979.pdf)
+
+43. **PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training** (Fed Rec + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/abs/2305.06622)
