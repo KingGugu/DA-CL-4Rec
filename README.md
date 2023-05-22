@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 41
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 43
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 42
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 45
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 43
 
 
@@ -271,6 +271,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      IJCAI 2023, [[PDF]](https://arxiv.org/pdf/2209.01524.pdf)
 
+42. **Adaptive Graph Contrastive Learning for Recommendation** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/abs/2305.10837), [[Code]](https://github.com/ZzMeei/AdaptiveGCL)
+
 
 ## Sequential Models with CL
 
@@ -445,6 +449,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 43. **Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation** (Sequential + CL)
 
     ICDE 2023, [[PDF]](https://arxiv.org/pdf/2305.04322.pdf), [[Code]](https://github.com/sudaada/SLIME4Rec)
+
+44. **Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems** (Sequential + DA + CL)
+
+    SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.11081.pdf), [[Code]](https://github.com/HN-RS)
+
+45. **When Search Meets Recommendation: Learning Disentangled Search Representation for Recommendation** (Sequential + CL)
+
+    SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.10822.pdf), [[Code]](https://github.com/Ethan00Si/SESREC-SIGIR-2023)
 
 
 ## Other Tasks with CL
