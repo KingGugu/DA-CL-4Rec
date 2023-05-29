@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 42
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 45
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 46
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 43
 
 
@@ -458,6 +458,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.10822.pdf), [[Code]](https://github.com/Ethan00Si/SESREC-SIGIR-2023)
 
+46. **Text Is All You Need: Learning Language Representations for Sequential Recommendation** (Sequential + CL)
+
+    KDD 2023, [[PDF]](https://arxiv.org/pdf/2305.13731.pdf)
+
 
 ## Other Tasks with CL
 
@@ -633,3 +637,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 43. **PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training** (Fed Rec + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/abs/2305.06622)
+
+44. **UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation** (Text Based Rec + CL)
+
+    ACL 2023, [[PDF]](https://arxiv.org/pdf/2305.15756.pdf), [[Code]](https://github.com/Veason-silverbullet/UniTRec)
