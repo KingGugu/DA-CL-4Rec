@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 44
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 47
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 43
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 45
 
 
 ## Survey/Tutorial
@@ -481,11 +481,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WSDM 2023, [[PDF]](https://arxiv.org/pdf/2212.00522.pdf), [[Code]](https://github.com/cl4ctr/cl4ctr)
 
-2. **CCL4Rec: Contrast over Contrastive Learning for Micro-video Recommendation** (Micro-video + CL)
+2. **CCL4Rec: Contrast over Contrastive Learning for Micro-video Recommendation** (Micro Video + CL)
 
     arXiv 2022, [[PDF]](https://arxiv.org/pdf/2208.08024.pdf)
 
-3. **Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation** (Multi-interest + CL)
+3. **Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation** (Multi Interest + CL)
 
     WWW 2022, [[PDF]](https://arxiv.org/pdf/2208.08011.pdf), [[Code]](https://github.com/DeerSheep0314/Re4-Learning-to-Re-contrast-Re-attend-Re-construct-for-Multi-interest-Recommendation)
 
@@ -497,7 +497,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2022, [[PDF]](https://arxiv.org/pdf/2207.01387.pdf)
 
-6. **Improving Micro-video Recommendation via Contrastive Multiple Interests** (Short paper, Micro-video + CL)
+6. **Improving Micro-video Recommendation via Contrastive Multiple Interests** (Short paper, Micro Video + CL)
 
     SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2205.09593.pdf)
 
@@ -525,7 +525,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531780)
 
-13. **Self-supervised Learning for Multimedia Recommendation** (Multimedia Rec + Graph + DA + CL)
+13. **Self-supervised Learning for Multimedia Recommendation** (Multi Media + Graph + DA + CL)
 
     TMM (IEEE Transactions on Multimedia) 2022, [[PDF]](https://arxiv.org/pdf/2107.05315v1.pdf), [[Code]](https://github.com/zltao/SLMRec/)
 
@@ -545,7 +545,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      CIKM 2022, [[PDF]](https://arxiv.org/pdf/2110.11570.pdf)
 
-18. **A Contrastive Sharing Model for Multi-Task Recommendation** (Multi-Task + CL)
+18. **A Contrastive Sharing Model for Multi-Task Recommendation** (Multi Task + CL)
 
      WWW 2022, [[PDF]](https://dl.acm.org/doi/10.1145/3485447.3512043)
 
@@ -557,7 +557,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      KDD 2022, [[PDF]](https://arxiv.org/pdf/2112.00999.pdf), [[Code]](https://github.com/lqfarmer/CCDR)
 
-21. **Contrastive Cross-Domain Sequential Recommendation** (Cross-domain Rec + Sequential + CL)
+21. **Contrastive Cross-Domain Sequential Recommendation** (Cross Domain + Sequential + CL)
 
      CIKM 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557262), [[Code]](https://github.com/cjx96/C2DSR)
 
@@ -573,16 +573,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03248.pdf), [[Code]](https://github.com/somestudies/DCCL)
 
-25. **Contrastive Collaborative Filtering for Cold-Start Item
-    Recommendation** (CF + Cold Start +  CL)
+25. **Contrastive Collaborative Filtering for Cold-Start Item Recommendation** (CF + Cold Start +  CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.02151.pdf), [[Code]](https://github.com/zzhin/CCFCRec)
     
-26. **Cross-domain recommendation via user interest alignment** (Cross-domain Rec + CL)
+26. **Cross-domain recommendation via user interest alignment** (Cross Domain Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2301.11467.pdf), [[Code]](https://github/anonymous/COAST)
     
-27. **Multi-Modal Self-Supervised Learning for Recommendation** (Multi-Modal Rec + CL)
+27. **Multi-Modal Self-Supervised Learning for Recommendation** (Multi Modal Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.10632.pdf), [[Code]](https://github.com/HKUDS/MMSSL)
     
@@ -594,7 +593,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2204.11091.pdf), [[Code]](https://github.com/xiaxin1998/OD-Rec)
 
-30. **Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation** (Multi-Modal Rec + CL)
+30. **Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation** (Multi Modal Rec + CL)
 
      WWW 2022, [[PDF]](https://web.archive.org/web/20220428140054id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512079), [[Code]](https://github.com/hantengyue/PAMD)
 
@@ -602,7 +601,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/abs/2303.12507)
 
-32. **Bootstrap Latent Representations for Multi-modal Recommendation** (Multi-Modal Rec + CL)
+32. **Bootstrap Latent Representations for Multi-modal Recommendation** (Multi Modal Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/abs/2207.05969), [[Code]](https://github.com/enoche/BM3)
 
@@ -614,11 +613,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      CIKM 2022, [[PDF]](https://arxiv.org/abs/2304.02089)
 
-35. **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck** (Cross domain + CL)
+35. **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck** (Cross Domain + CL)
 
      ICDE 2022, [[PDF]](https://arxiv.org/abs/2304.02089), [[Code]](https://github.com/cjx96/CDRIB)
 
-36. **DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation** (Cross domain + CL)
+36. **DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation** (Cross Domain + CL)
 
      SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531967), [[Code]](https://github.com/cjx96/DisenCDR)
 
@@ -638,7 +637,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.07923.pdf)
 
-41. **Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation** (Knowledge aware + CL)
+41. **Hierarchical and Contrastive Representation Learning for Knowledge-aware Recommendation** (Knowledge Aware + CL)
 
     ICME 2023, [[PDF]](https://arxiv.org/pdf/2304.07506.pdf)
 
@@ -653,3 +652,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 44. **UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation** (Text Based Rec + CL)
 
     ACL 2023, [[PDF]](https://arxiv.org/pdf/2305.15756.pdf), [[Code]](https://github.com/Veason-silverbullet/UniTRec)
+
+45. **Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation** (Multi Behavior + CL)
+
+    SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.18238v1.pdf), [[Code]](https://github.com/Scofield666/MBSSL)
