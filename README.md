@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 44
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 45
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 48
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 45
 
@@ -282,6 +282,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 44. **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** (Graph + CL)
 
      WSDM 2022, [[PDF]](https://arxiv.org/pdf/2202.08523.pdf), [[Code]](https://github.com/weiwei1206/CML)
+
+45. **Graph Transformer for Recommendation** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2306.02330.pdf), [[Code]](https://github.com/HKUDS/GFormer)
 
 
 ## Sequential Models with CL
