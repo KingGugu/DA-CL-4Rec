@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 18
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 45
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 48
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 45
@@ -103,6 +103,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 18. **Data Augmented Sequential Recommendation based on Counterfactual Thinking** (Sequential + DA)
 
     TKDE 2022, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9950302)
+
+19. **Data Augmented Sequential Recommendation based on Counterfactual Thinking** (CRT + DA)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2305.19531.pdf)
 
 
 ## Graph Models with CL
