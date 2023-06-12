@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 18
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 45
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 20
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 46
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 48
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 45
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 46
 
 
 ## Survey/Tutorial
@@ -107,6 +107,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 19. **Data Augmented Sequential Recommendation based on Counterfactual Thinking** (CRT + DA)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2305.19531.pdf)
+
+20. **Improving Conversational Recommendation Systems via Counterfactual Data Simulation** (Conversational Rec + DA)
+
+    KDD 2023, [[PDF]](https://arxiv.org/pdf/2306.02842.pdf), [[Code]](https://github.com/RUCAIBox/CFCRS)
 
 
 ## Graph Models with CL
@@ -291,6 +295,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2306.02330.pdf), [[Code]](https://github.com/HKUDS/GFormer)
 
+46. **PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation** (Graph + CL)
+
+     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2306.04095.pdf)
+
 
 ## Sequential Models with CL
 
@@ -300,11 +308,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 2. **Contrastive Learning for Sequential Recommendation** (Sequential + CL + DA)
    
-    SIGIR 2021, [[PDF]](https://arxiv.org/pdf/2010.14395.pdf), [[Code]](https://github.com/RUCAIBox/RecBole-DA/blob/master/recbole/model/sequential_recommender/cl4srec.py)
+    ICDE 2022, [[PDF]](https://arxiv.org/pdf/2010.14395.pdf), [[Code]](https://github.com/RUCAIBox/RecBole-DA/blob/master/recbole/model/sequential_recommender/cl4srec.py)
 
 3. **Contrastive Self-supervised Sequential Recommendation with Robust Augmentation** (Sequential + CL + DA)
    
-    SIGIR 2021, [[PDF]](https://arxiv.org/pdf/2108.06479.pdf), [[Code]](https://github.com/YChen1993/CoSeRec)
+    arXiv 2021, [[PDF]](https://arxiv.org/pdf/2108.06479.pdf), [[Code]](https://github.com/YChen1993/CoSeRec)
 
 4. **Learnable Model Augmentation Self-Supervised Learning for Sequential Recommendation** (Sequential + CL + DA)
 
@@ -324,7 +332,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 8. **Memory Augmented Multi-Instance Contrastive Predictive Coding for Sequential Recommendation** (Sequential + CL + DA)
 
-   arXiv 2021, [[PDF]](https://arxiv.org/pdf/2109.00368.pdf)
+   ICDM 2021, [[PDF]](https://arxiv.org/pdf/2109.00368.pdf)
 
 9. **Contrastive Learning with Bidirectional Transformers for Sequential Recommendation** (Sequential + CL + DA)
 
@@ -641,7 +649,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.08873.pdf)
 
-39. **Discreetly Exploiting Inter-session Information for Session-based Recommendation** (Session + CL)
+39. **Discreetly Exploiting Inter-session Information for Session-based Recommendation** (Session Rec + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.08894.pdf)
 
@@ -668,3 +676,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 45. **Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation** (Multi Behavior + CL)
 
     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.18238v1.pdf), [[Code]](https://github.com/Scofield666/MBSSL)
+
+46. **Learning Similarity among Users for Personalized Session-Based Recommendation from hierarchical structure of User-Session-Item** (Session Rec + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.03040.pdf)
