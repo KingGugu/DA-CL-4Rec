@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 20
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 46
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 48
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 46
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 47
 
 
 ## Survey/Tutorial
@@ -680,3 +680,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 46. **Learning Similarity among Users for Personalized Session-Based Recommendation from hierarchical structure of User-Session-Item** (Session Rec + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.03040.pdf)
+
+47. **Securing Visually-Aware Recommender Systems: An Adversarial Image Reconstruction and Detection Framework** (Visually Rec + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.07992.pdf)
