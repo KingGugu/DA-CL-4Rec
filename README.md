@@ -684,3 +684,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 47. **Securing Visually-Aware Recommender Systems: An Adversarial Image Reconstruction and Detection Framework** (Visually Rec + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.07992.pdf)
+
+47. **Disentangled Contrastive Learning for Cross-Domain Recommendation** (Cross Domain + CL)
+
+    DASFAA 2023, [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_11)
