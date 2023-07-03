@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 20
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 46
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 48
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 47
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 49
 
 
 ## Survey/Tutorial
@@ -685,6 +685,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.07992.pdf)
 
-47. **Disentangled Contrastive Learning for Cross-Domain Recommendation** (Cross Domain + CL)
+48. **Disentangled Contrastive Learning for Cross-Domain Recommendation** (Cross Domain + CL)
 
     DASFAA 2023, [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_11)
+
+49. **ContentCTR: Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer** (CTR + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.14392.pdf)
