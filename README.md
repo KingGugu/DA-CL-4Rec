@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 20
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 46
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 47
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 48
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 49
 
@@ -298,6 +298,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 46. **PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation** (Graph + CL)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2306.04095.pdf)
+
+47. **Knowledge Graph Self-Supervised Rationalization for Recommendation** (Graph + CL)
+
+     KDD 2023, [[PDF]](https://arxiv.org/pdf/2307.02759.pdf), [[Code]](https://github.com/HKUDS/KGRec)
 
 
 ## Sequential Models with CL
