@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 21
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 47
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 48
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 49
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 50
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 50
 
 
@@ -307,6 +307,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      KDD 2023, [[PDF]](https://arxiv.org/pdf/2307.02759.pdf), [[Code]](https://github.com/HKUDS/KGRec)
 
+48. **Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization** (Graph + CL)
+
+     SIGIR 2021, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)
+
+49. **Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2307.05100.pdf)
+
 
 ## Sequential Models with CL
 
@@ -501,6 +509,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 48. **Robust Reinforcement Learning Objectives for Sequential Recommender Systems** (Sequential + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2305.18820.pdf), [[Code]](https://github.com/melfm/sasrec-ccql)
+
+49. **AdaptiveRec: Adaptively Construct Pairs for Contrastive Learning in Sequential Recommendation** (Sequential + CL)
+
+    PMLR 2023, [[PDF]](https://arxiv.org/pdf/2307.05469.pdf)
+
+50. **Fisher-Weighted Merge of Contrastive Learning Models in Sequential Recommendation** (Sequential + CL)
+
+    PMLR 2023, [[PDF]](https://arxiv.org/pdf/2307.05476.pdf)
 
 
 ## Other Tasks with CL
