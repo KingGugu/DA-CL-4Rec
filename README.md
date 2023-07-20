@@ -311,7 +311,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2021, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)
 
-49. **Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization** (Graph + CL)
+49. **Generative-Contrastive Graph Learning for Recommendation** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2307.05100.pdf)
 
