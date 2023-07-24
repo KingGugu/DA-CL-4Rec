@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 21
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 49
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 50
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 50
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 51
 
 
 ## Survey/Tutorial
@@ -720,3 +720,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 50. **ContentCTR: Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer** (CVR + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2307.05974.pdf), [[Code]](https://github.com/DongRuiHust/CL4CVR)
+
+51. **Language-Enhanced Session-Based Recommendation with Decoupled Contrastive Learning** (Session Rec + CL)
+
+     KDD 2023, [[PDF]](https://arxiv.org/pdf/2307.10650.pdf), [[Code]](https://github.com/gaozhanfire//KDDCup2023)
