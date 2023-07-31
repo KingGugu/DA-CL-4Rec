@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 21
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 23
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 49
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 50
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 51
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 53
 
 
 ## Survey/Tutorial
@@ -115,6 +115,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 21. **Disentangled Variational Auto-encoder Enhanced by Counterfactual Data for Debiasing Recommendation** (Debias Rec + DA)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.15961.pdf)
+
+22. **Domain Disentanglement with Interpolative Data Augmentation for Dual-Target Cross-Domain Recommendation** (Cross-domain + DA)
+
+    RecSys 2023, [[PDF]](https://arxiv.org/pdf/2307.13910.pdf)
+
+23. **Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions** (Session + DA)
+
+    RecSys 2023, [[PDF]](https://arxiv.org/pdf/2307.14906.pdf), [[Code]](https://github.com/otto-de/TRON)
 
 
 ## Graph Models with CL
@@ -724,3 +732,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 51. **Language-Enhanced Session-Based Recommendation with Decoupled Contrastive Learning** (Session Rec + CL)
 
      KDD 2023, [[PDF]](https://arxiv.org/pdf/2307.10650.pdf), [[Code]](https://github.com/gaozhanfire//KDDCup2023)
+
+52. **Multi-view Hypergraph Contrastive Policy Learning for Conversational Recommendation** (Conversational Rec + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2307.14024.pdf), [[Code]](https://github.com/Snnzhao/MH)
+
+53. **Gaussian Graph with Prototypical Contrastive Learning in E-Commerce Bundle Recommendation** (Bundle Rec + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/abs/2307.13468), [[Code]](https://github.com/Snnzhao/MH)
