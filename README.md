@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 23
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 49
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 51
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 49
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 53
 
@@ -322,6 +322,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 49. **Generative-Contrastive Graph Learning for Recommendation** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2307.05100.pdf)
+
+50. **AdaMCL: Adaptive Fusion Multi-View Contrastive Learning for Collaborative Filtering** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591632), [[Code]](https://github.com/PasaLab/AdaMCL)
+
+51. **Candidate–aware Graph Contrastive Learning for Recommendation** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591647), [[Code]](https://github.com/WeiHeCnSH/CGCL-Pytorch-master)
 
 
 ## Sequential Models with CL
