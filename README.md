@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 23
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 51
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 49
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 53
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 50
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 53
 
 
@@ -331,6 +331,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591647), [[Code]](https://github.com/WeiHeCnSH/CGCL-Pytorch-master)
 
+52. **Multi-View Graph Convolutional Network for Multimedia Recommendation** (Graph + CL)
+
+     MM 2023, [[PDF]](https://arxiv.org/ftp/arxiv/papers/2308/2308.03588.pdf), [[Code]](https://github.com/demonph10/MGCN)
+
+53. **Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2308.03470.pdf)
+
 
 ## Sequential Models with CL
 
@@ -422,7 +430,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.03965.pdf), [[Code]](https://github.com/tsinghua-fib-lab/WWW2023-DFAR)
 
-23. **GUESR: A Global Unsupervised Data-Enhancement with Bucket-Cluster  Sampling for Sequential Recommendation** (Sequential + DA + CL)
+23. **GUESR: A Global Unsupervised Data-Enhancement with Bucket-Cluster Sampling for Sequential Recommendation** (Sequential + DA + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.00243.pdf)
 
@@ -529,6 +537,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 49. **Fisher-Weighted Merge of Contrastive Learning Models in Sequential Recommendation** (Sequential + CL)
 
     PMLR 2023, [[PDF]](https://arxiv.org/pdf/2307.05476.pdf)
+
+50. **Hierarchical Contrastive Learning with Multiple Augmentation for Sequential Recommendation** (Sequential + DA + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2308.03400.pdf)
 
 
 ## Other Tasks with CL
