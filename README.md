@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 24
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 53
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 50
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 51
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 53
 
 
@@ -545,6 +545,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 50. **Hierarchical Contrastive Learning with Multiple Augmentation for Sequential Recommendation** (Sequential + DA + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2308.03400.pdf)
+
+51. **Poisoning Self-supervised Learning Based Sequential Recommendations** (Sequential + Attack + DA + CL)
+
+    SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591751), [[Code]](https://github.com/CongGroup/Poisoning-SSL-based-RS)
 
 
 ## Other Tasks with CL
