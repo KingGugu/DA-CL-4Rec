@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 23
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 24
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 53
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 50
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 53
@@ -123,6 +123,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 23. **Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions** (Session + DA)
 
     RecSys 2023, [[PDF]](https://arxiv.org/pdf/2307.14906.pdf), [[Code]](https://github.com/otto-de/TRON)
+
+24. **Intrinsically Motivated Reinforcement Learning based Recommendation with Counterfactual Data Augmentation** (RL Rec + DA)
+
+     arXiv 2022, [[PDF]](https://arxiv.org/pdf/2209.08228.pdf)
 
 
 ## Graph Models with CL
