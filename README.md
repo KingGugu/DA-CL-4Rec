@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 24
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 53
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 27
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 56
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 52
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 53
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 56
 
 
 ## Survey/Tutorial
@@ -122,11 +122,23 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 23. **Scaling Session-Based Transformer Recommendations using Optimized Negative Sampling and Loss Functions** (Session + DA)
 
-    RecSys 2023, [[PDF]](https://arxiv.org/pdf/2307.14906.pdf), [[Code]](https://github.com/otto-de/TRON)
+    RecSys 2023, [[PDF]](https://arxiv.org/pdf/2307.14906.pdf)
 
 24. **Intrinsically Motivated Reinforcement Learning based Recommendation with Counterfactual Data Augmentation** (RL Rec + DA)
 
      arXiv 2022, [[PDF]](https://arxiv.org/pdf/2209.08228.pdf)
+
+25. **Augmented Negative Sampling for Collaborative Filtering** (CF + DA)
+
+     RecSys 2023, [[PDF]](https://arxiv.org/pdf/2308.05972.pdf), [[Code]](https://github.com/Asa9aoTK/ANS-Recbole
+
+26. **gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling** (Sequential + DA)
+
+     RecSys 2023, [[PDF]](https://arxiv.org/pdf/2308.07192.pdf)
+
+27. **Learning from All Sides: Diversified Positive Augmentation via Self-distillation in Recommendation** (DA)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2308.07629.pdf)
 
 
 ## Graph Models with CL
@@ -155,7 +167,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WSDM 2023, [[PDF]](https://arxiv.org/pdf/2210.16591.pdf), [[Code]](https://github.com/Fang6ang/DisenPOI)
 
-7. **An MLP-based Algorithm for Efficient Contrastive Graph Recommendations** (Short paper, Graph + CL + DA)
+7. **An MLP-based Algorithm for Efficient Contrastive Graph Recommendations** (Graph + CL + DA)
 
     SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531874)
 
@@ -171,7 +183,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WSDM 2022, [[PDF]](https://arxiv.org/pdf/2202.08523.pdf), [[Code]](https://github.com/weiwei1206/CML)
 
-11. **Disentangled Contrastive Learning for Social Recommendation** (Short paper, Graph + CL + DA)
+11. **Disentangled Contrastive Learning for Social Recommendation** (Graph + CL + DA)
 
     CIKM 2022, [[PDF]](https://arxiv.org/pdf/2208.08723.pdf)
 
@@ -231,7 +243,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2204.12200.pdf), [[Code]]( https://github.com/akaxlh/HCCF)
 
-26. **Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems** (Short paper, Graph + CL)
+26. **Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems** (Graph + CL)
 
     CIKM 2021, [[PDF]](https://dl.acm.org/doi/10.1145/3459637.3482117), [[Code]](https://github.com/syxkason/SCVG)
 
@@ -343,6 +355,18 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2308.03470.pdf)
 
+54. **uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.12768.pdf), [[Code]](https://github.com/Jaewoong-Lee/sigir_2023_uCTRL)
+
+55. **Contrastive Box Embedding for Collaborative Reasoning** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591654)
+
+56. **Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph** (Graph + CL)
+
+     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.07752.pdf)
+
 
 ## Sequential Models with CL
 
@@ -406,7 +430,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WWW 2022, [[PDF]](https://arxiv.org/pdf/2202.02519.pdf), [[Code]](https://github.com/salesforce/ICLRec)
 
-16. **Dual Contrastive Network for Sequential Recommendation** (Short paper, Sequential + CL)
+16. **Dual Contrastive Network for Sequential Recommendation** (Sequential + CL)
 
     SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531918)
 
@@ -577,7 +601,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2022, [[PDF]](https://arxiv.org/pdf/2207.01387.pdf)
 
-6. **Improving Micro-video Recommendation via Contrastive Multiple Interests** (Short paper, Micro Video + CL)
+6. **Improving Micro-video Recommendation via Contrastive Multiple Interests** (Micro Video + CL)
 
     SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2205.09593.pdf)
 
@@ -593,15 +617,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     KDD 2023, [[PDF]](https://arxiv.org/pdf/2206.00242.pdf), [[Code]](https://github.com/mysbupt/CrossCBR)
 
-10. **Contrastive Learning for Cold-start Recommendation** (Short paper, Cold Start + CL)
+10. **Contrastive Learning for Cold-start Recommendation** (Cold Start + CL)
 
     ACM MM (ACM International Conference on Multimedia) 2021, [[PDF]](https://arxiv.org/pdf/2107.05315v1.pdf), [[Code]](https://github.com/weiyinwei/CLCRec)
 
-11. **Socially-aware Dual Contrastive Learning for Cold-Start Recommendation** (Short paper, Cold Start + CL)
+11. **Socially-aware Dual Contrastive Learning for Cold-Start Recommendation** (Cold Start + CL)
 
     SIGIR 2022, [[PDF]](https://dl.acm.org/doi/10.1145/3477495.3531780)
 
-12. **Multi-modal Graph Contrastive Learning for Micro-video Recommendation** (Short paper, Cold Start + Graph + CL)
+12. **Multi-modal Graph Contrastive Learning for Micro-video Recommendation** (Cold Start + Graph + CL)
 
     SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531780)
 
@@ -641,7 +665,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      CIKM 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557262), [[Code]](https://github.com/cjx96/C2DSR)
 
-22. **Prototypical Contrastive Learning and Adaptive Interest Selection for Candidate Generation in Recommendations** (Short Paper, Industry + CL + DA)
+22. **Prototypical Contrastive Learning and Adaptive Interest Selection for Candidate Generation in Recommendations** (Industry + CL + DA)
 
      CIKM 2022, [[PDF]](https://arxiv.org/pdf/2211.12893.pdf), [[Code]](https://github.com/cjx96/C2DSR)
 
@@ -768,3 +792,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 53. **Gaussian Graph with Prototypical Contrastive Learning in E-Commerce Bundle Recommendation** (Bundle Rec + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/abs/2307.13468), [[Code]](https://github.com/Snnzhao/MH)
+
+54. **Contrastive Learning for Conversion Rate Prediction** (CVR + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2307.05974.pdf), [[Code]](https://github.com/DongRuiHust/CL4CVR)
+
+55. **Review-based Multi-intention Contrastive Learning for Recommendation** (Review + CL)
+
+     SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3592053)
+
+56. **CSPM: A Contrastive Spatiotemporal Preference Model for CTR Prediction  in On-Demand Food Delivery Services** (CTR + CL)
+
+     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.08446.pdf)
