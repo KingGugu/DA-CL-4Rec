@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 27
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 56
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 57
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 52
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 56
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 58
 
 
 ## Survey/Tutorial
@@ -130,7 +130,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 25. **Augmented Negative Sampling for Collaborative Filtering** (CF + DA)
 
-     RecSys 2023, [[PDF]](https://arxiv.org/pdf/2308.05972.pdf), [[Code]](https://github.com/Asa9aoTK/ANS-Recbole
+     RecSys 2023, [[PDF]](https://arxiv.org/pdf/2308.05972.pdf), [[Code]](https://github.com/Asa9aoTK/ANS-Recbole)
 
 26. **gSASRec: Reducing Overconfidence in Sequential Recommendation Trained with Negative Sampling** (Sequential + DA)
 
@@ -139,6 +139,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 27. **Learning from All Sides: Diversified Positive Augmentation via Self-distillation in Recommendation** (DA)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2308.07629.pdf)
+
+28. **Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in  Recommender Systems** (Graph + DA)
+
+     CIKM 2023, [[PDF]](https://arxiv.org/abs/2308.12083), [[Code]](https://github.com/jackmedda/RS-BGExplainer/tree/cikm2023)
 
 
 ## Graph Models with CL
@@ -366,6 +370,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 56. **Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph** (Graph + CL)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.07752.pdf)
+
+57. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation** (Graph + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2308.10685.pdf)
 
 
 ## Sequential Models with CL
@@ -804,3 +812,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 56. **CSPM: A Contrastive Spatiotemporal Preference Model for CTR Prediction  in On-Demand Food Delivery Services** (CTR + CL)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.08446.pdf)
+
+57. **MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation** (Multi Modal + CL)
+
+     MM 2023, [[PDF]](https://arxiv.org/pdf/2308.11175.pdf)
+
+58. **MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement** (Music Rec + DA + CL)
+
+     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.09649.pdf), [[Code]](https://github.com/yunhak0/MUSE)
