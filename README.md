@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 59
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 60
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 52
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 58
 
@@ -382,6 +382,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 59. **Group Identification via Transitional Hypergraph Convolution with Cross-view Self-supervised Learning** (Graph + CL)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.08620.pdf), [[Code]](https://github.com/mdyfrank/GTGS)
+
+60. **Multi-Relational Contrastive Learning for Recommendation** (Graph + CL)
+
+     RecSys 2023, [[PDF]](https://arxiv.org/pdf/2309.01103.pdf), [[Code]](https://github.com/HKUDS/RCL)
 
 
 ## Sequential Models with CL
