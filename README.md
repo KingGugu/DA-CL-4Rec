@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 60
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 52
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 58
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 59
 
 
 ## Survey/Tutorial
@@ -832,3 +832,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 58. **MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement** (Music Rec + DA + CL)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.09649.pdf), [[Code]](https://github.com/yunhak0/MUSE)
+
+59. **Multi-aspect Graph Contrastive Learning for Review-enhanced Recommendation** (Review + CL)
+
+     TOIS 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3618106)
