@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 60
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 61
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 52
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 59
 
@@ -386,6 +386,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 60. **Multi-Relational Contrastive Learning for Recommendation** (Graph + CL)
 
      RecSys 2023, [[PDF]](https://arxiv.org/pdf/2309.01103.pdf), [[Code]](https://github.com/HKUDS/RCL)
+
+61. **Multi-behavior Recommendation with SVD Graph Neural Networks** (Graph + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2309.06912.pdf)
 
 
 ## Sequential Models with CL
