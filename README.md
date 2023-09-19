@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 61
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 62
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 52
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 59
 
@@ -390,6 +390,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 61. **Multi-behavior Recommendation with SVD Graph Neural Networks** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2309.06912.pdf)
+
+62. **E-commerce Search via Content Collaborative Graph Neural Network** (Graph + DA + CL)
+
+     KDD 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599320), [[Code]](https://github.com/XMUDM/CC-GNN)
 
 
 ## Sequential Models with CL
