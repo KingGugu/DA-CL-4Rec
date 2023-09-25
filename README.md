@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 62
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 52
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 63
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 55
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 59
 
 
@@ -395,6 +395,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      KDD 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599320), [[Code]](https://github.com/XMUDM/CC-GNN)
 
+63. **Long-tail Augmented Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
+
+     PKDD 2023, [[PDF]](https://arxiv.org/pdf/2309.11177.pdf), [[Code]](https://github.com/im0qianqian/LAGCL)
+
 
 ## Sequential Models with CL
 
@@ -605,6 +609,18 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 52. **Dual Contrastive Transformer for Hierarchical Preference Modeling in Sequential Recommendation** (Sequential + CL)
 
     SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591672)
+
+53. **Leveraging Negative Signals with Self-Attention for Sequential Music Recommendation** (Sequential + CL)
+
+    RecSys 2023, [[PDF]](https://arxiv.org/pdf/2309.11623.pdf)
+
+54. **RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendationn** (Sequential + DA + CL)
+
+    CIKM 2023, [[PDF]](https://arxiv.org/pdf/2309.10469.pdf)
+
+55. **FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning** (Sequential + DA + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2309.08420.pdf), [[Code]](https://github.com/orion-orion/FedDCSR)
 
 
 ## Other Tasks with CL
