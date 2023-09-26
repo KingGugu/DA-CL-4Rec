@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 63
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 64
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 55
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 59
 
@@ -398,6 +398,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 63. **Long-tail Augmented Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
 
      PKDD 2023, [[PDF]](https://arxiv.org/pdf/2309.11177.pdf), [[Code]](https://github.com/im0qianqian/LAGCL)
+
+64. **uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering** (Graph + CL)
+
+     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.12768.pdf), [[Code]](https://github.com/Jaewoong-Lee/sigir_2023_uCTRL)
 
 
 ## Sequential Models with CL
