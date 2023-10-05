@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 64
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 65
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 55
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 60
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 61
 
 
 ## Survey/Tutorial
@@ -402,6 +402,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 64. **uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.12768.pdf), [[Code]](https://github.com/Jaewoong-Lee/sigir_2023_uCTRL)
+
+65. **On the Sweet Spot of Contrastive Views for Knowledge-enhanced Recommendation** (Graph + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2309.13384.pdf), [[Code]](https://figshare.com/articles/conference_contribution/SimKGCL/22783382)
 
 
 ## Sequential Models with CL
@@ -868,3 +872,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 60. **Interpretable User Retention Modeling in Recommendation** (User Modelling + CL)
 
      RecSys 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608818), [[Code]](https://github.com/dinry/IURO)
+
+61. **Beyond Co-occurrence: Multi-modal Session-based Recommendation** (Session Rec + CL)
+
+     TKDE 2023, [[PDF]](https://arxiv.org/pdf/2309.17037.pdf), [[Code]](https://github.com/Zhang-xiaokun/MMSBR)
