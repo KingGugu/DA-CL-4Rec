@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 65
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 66
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 55
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 61
 
@@ -406,6 +406,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 65. **On the Sweet Spot of Contrastive Views for Knowledge-enhanced Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2309.13384.pdf), [[Code]](https://figshare.com/articles/conference_contribution/SimKGCL/22783382)
+
+66. **Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering** (Graph + CL)
+
+     TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/document/10255367), [[Code]](https://gitee.com/peijie_hfut/nescl)
 
 
 ## Sequential Models with CL
