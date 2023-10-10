@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 68
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 55
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 56
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 61
 
 
@@ -641,6 +641,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 55. **FedDCSR: Federated Cross-domain Sequential Recommendation via Disentangled Representation Learning** (Sequential + DA + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2309.08420.pdf), [[Code]](https://github.com/orion-orion/FedDCSR)
+
+56. **Unbiased and Robust: External Attention-enhanced Graph Contrastive Learning for Cross-domain Sequential Recommendation** (Sequential + Graph + DA + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.04633.pdf), [[Code]](https://github.com/HoupingY/EA-GCL)
 
 
 ## Other Tasks with CL
