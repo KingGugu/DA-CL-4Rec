@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 68
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 56
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 57
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 61
 
 
@@ -645,6 +645,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 56. **Unbiased and Robust: External Attention-enhanced Graph Contrastive Learning for Cross-domain Sequential Recommendation** (Sequential + Graph + DA + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.04633.pdf), [[Code]](https://github.com/HoupingY/EA-GCL)
+
+57. **Dual-Scale Interest Extraction Framework with Self-Supervision for Sequential Recommendation** (Sequential + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.10025.pdf)
 
 
 ## Other Tasks with CL
