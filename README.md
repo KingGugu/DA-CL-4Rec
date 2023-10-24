@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 68
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 57
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 59
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 61
 
 
@@ -649,6 +649,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 57. **Dual-Scale Interest Extraction Framework with Self-Supervision for Sequential Recommendation** (Sequential + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.10025.pdf)
+
+58. **Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation** (Sequential + DA + CL)
+
+    WSDM 2024, [[PDF]](https://arxiv.org/pdf/2310.14318.pdf), [[Code]](https://github.com/QinHsiu/ICSRec)
+
+59. **Meta-optimized Joint Generative and Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.13925.pdf), [[Code]](https://anonymous.4open.science/status/Meta-SGCL-05B5)
 
 
 ## Other Tasks with CL
