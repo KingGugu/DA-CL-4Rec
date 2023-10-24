@@ -879,7 +879,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 57. **MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation** (Multi Modal + CL)
 
-     MM 2023, [[PDF]](https://arxiv.org/pdf/2308.11175.pdf)
+     MM 2023, [[PDF]](https://arxiv.org/pdf/2308.11175.pdf), [[Code]](https://github.com/gimpong/MM23-MISSRec)
 
 58. **MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement** (Music Rec + DA + CL)
 
