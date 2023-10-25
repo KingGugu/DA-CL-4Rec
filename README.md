@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 68
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 69
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 59
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 61
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 62
 
 
 ## Survey/Tutorial
@@ -418,6 +418,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 68. **TDCGL: Two-Level Debiased Contrastive Graph Learning for Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://browse.arxiv.org/pdf/2310.00569.pdf)
+
+69. **Topology-aware Debiased Self-supervised Graph Learning for Recommendation** (Graph + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.15858.pdf), [[Code]](https://github.com/malajikuai/TDSGL)
 
 
 ## Sequential Models with CL
@@ -904,3 +908,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 61. **Beyond Co-occurrence: Multi-modal Session-based Recommendation** (Session Rec + CL)
 
      TKDE 2023, [[PDF]](https://arxiv.org/pdf/2309.17037.pdf), [[Code]](https://github.com/Zhang-xiaokun/MMSBR)
+
+62. **Representation Learning with Large Language Models for Recommendation** (LLM + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.15950.pdf), [[Code]](https://github.com/HKUDS/RLMRec)
