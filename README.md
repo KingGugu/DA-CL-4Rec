@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 69
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 59
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 60
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 62
 
 
@@ -661,6 +661,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 59. **Meta-optimized Joint Generative and Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.13925.pdf), [[Code]](https://anonymous.4open.science/status/Meta-SGCL-05B5)
+
+60. **Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation** (Sequential + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.16566.pdf)
 
 
 ## Other Tasks with CL
