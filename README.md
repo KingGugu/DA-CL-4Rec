@@ -5,19 +5,19 @@ Comments and contributions are welcome.
 
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
-- [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
+- [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 69
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 60
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 62
 
 
-## Survey/Tutorial
+## Survey/Tutorial/Framework
 1. **Contrastive Self-supervised Learning in Recommender Systems: A Survey** (Survey)
    
    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.09902.pdf)
 
-2. **Self-Supervised Learning for Recommender Systems A Survey** (Survey)
+2. **Self-Supervised Learning for Recommender Systems A Survey** (Survey + Framework)
    
    TKDE 2022, [[PDF]](https://arxiv.org/pdf/2203.15876.pdf), [[Code]](https://github.com/Coder-Yu/SELFRec)
 
@@ -28,6 +28,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 4. **Tutorial: Self-Supervised Learning for Recommendation: Foundations, Methods and Prospects** (Tutorial)
    
    DASFAA 2023, [[Web]](https://junliang-yu.github.io/publications/)
+
+5. **SSLRec: A Self-Supervised Learning Framework for Recommendation** (Framework)
+   
+   WSDM 2024, [[PDF]](https://arxiv.org/pdf/2308.05697.pdf), [[Code]](https://github.com/HKUDS/SSLRec)
 
 
 ## Only Data Augmentation
