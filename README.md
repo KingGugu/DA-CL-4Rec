@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 28
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 29
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 69
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 60
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 62
@@ -147,6 +147,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 28. **Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in  Recommender Systems** (Graph + DA)
 
      CIKM 2023, [[PDF]](https://arxiv.org/abs/2308.12083), [[Code]](https://github.com/jackmedda/RS-BGExplainer/tree/cikm2023)
+
+29. **Bayes-enhanced Multi-view Attention Networks for Robust POI Recommendation** (Graph + DA)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.00491.pdf)
 
 
 ## Graph Models with CL
