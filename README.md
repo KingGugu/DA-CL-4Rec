@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 29
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 69
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 70
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 60
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 62
 
@@ -430,6 +430,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 69. **Topology-aware Debiased Self-supervised Graph Learning for Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.15858.pdf), [[Code]](https://github.com/malajikuai/TDSGL)
+
+70. **Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering** (Graph + DA + CL)
+
+     SIGIR 2022, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3477495.3531889), [[Code]](https://github.com/ChangxinTian/RGCF)
 
 
 ## Sequential Models with CL
