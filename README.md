@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 29
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 70
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 60
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 62
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 71
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 62
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 63
 
 
 ## Survey/Tutorial/Framework
@@ -435,6 +435,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2022, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3477495.3531889), [[Code]](https://github.com/ChangxinTian/RGCF)
 
+71. **Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation** (Graph + CL)
+
+     TMM 2023, [[PDF]](https://arxiv.org/pdf/2311.02938.pdf)
+
 
 ## Sequential Models with CL
 
@@ -677,6 +681,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 60. **Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation** (Sequential + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.16566.pdf)
+
+61. **Periodicity May Be Emanative: Hierarchical Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+    CIKM 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3615007), [[Code]](https://github.com/RUCAIBox/RecBole)
+
+62. **APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation** (Sequential + Graph + CL)
+
+    CIKM 2023, [[PDF]](https://arxiv.org/pdf/2311.02816.pdf), [[Code]](https://github.com/Graph-Team/APGL4SR)
 
 
 ## Other Tasks with CL
@@ -928,3 +940,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 62. **Representation Learning with Large Language Models for Recommendation** (LLM + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.15950.pdf), [[Code]](https://github.com/HKUDS/RLMRec)
+
+63. **Universal Multi-modal Multi-domain Pre-trained Recommendation** (Pre-trained + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.01831.pdf)
