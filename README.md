@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 29
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 71
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 62
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 63
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 64
 
 
 ## Survey/Tutorial/Framework
@@ -944,3 +944,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 63. **Universal Multi-modal Multi-domain Pre-trained Recommendation** (Pre-trained + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.01831.pdf)
+
+64. **Towards Hierarchical Intent Disentanglement for Bundle Recommendation** (Bundle Rec + CL)
+
+     TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10304376)
