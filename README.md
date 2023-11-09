@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 29
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 73
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 62
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 63
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 64
 
 
@@ -697,6 +697,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 62. **APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation** (Sequential + Graph + CL)
 
     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2311.02816.pdf), [[Code]](https://github.com/Graph-Team/APGL4SR)
+
+63. **Towards Open-world Cross-Domain Sequential Recommendation: A Model-Agnostic Contrastive Denoising Approach** (Sequential + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.04760.pdf)
 
 
 ## Other Tasks with CL
