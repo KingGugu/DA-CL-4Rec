@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 29
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 73
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 63
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 65
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 64
 
 
@@ -701,6 +701,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 63. **Towards Open-world Cross-Domain Sequential Recommendation: A Model-Agnostic Contrastive Denoising Approach** (Sequential + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.04760.pdf)
+
+64. **Feature-Level Deeper Self-Attention Network With Contrastive Learning for Sequential Recommendation** (Sequential + CL)
+
+    TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/document/10059216)
+
+65. **Learnable Model Augmentation Contrastive Learning for Sequential Recommendation** (Sequential + CL)
+
+    TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/document/10313990)
 
 
 ## Other Tasks with CL
