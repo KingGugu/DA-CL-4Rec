@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 29
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 73
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 75
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 65
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 64
 
@@ -446,6 +446,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 73. **An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations** (Graph + CL)
 
      ICDM 2021, [[PDF]](https://ieeexplore.ieee.org/document/9678992), [[Code]](https://github.com/Haoran-Young/HMG-CR)
+
+74. **Denoised Self-Augmented Learning for Social Recommendation** (Graph + CL)
+
+     IJCAI 2023, [[PDF]](https://arxiv.org/pdf/2305.12685.pdf), [[Code]](https://github.com/HKUDS/DSL)
+
+75. **Intent-aware Recommendation via Disentangled Graph Contrastive Learning** (Graph + CL)
+
+     IJCAI 2023, [[PDF]](https://www.ijcai.org/proceedings/2023/0260.pdf)
 
 
 ## Sequential Models with CL
