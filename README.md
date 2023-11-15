@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 29
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 75
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 65
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 66
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 64
 
 
@@ -717,6 +717,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 65. **Learnable Model Augmentation Contrastive Learning for Sequential Recommendation** (Sequential + CL)
 
     TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/document/10313990)
+
+66. **Learnable Model Augmentation Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+    WSDM 2023, [[PDF]](https://www.atailab.cn/seminar2023Spring/pdf/2023_WSDM_Multi-Intention%20Oriented%20Contrastive%20Learning%20for%20Sequential%20Recommendation.pdf), [[Code]](https://github.com/LFM-bot/IOCRec)
 
 
 ## Other Tasks with CL
