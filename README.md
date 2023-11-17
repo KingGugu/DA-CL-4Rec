@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 29
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 75
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 66
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 64
@@ -151,6 +151,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 29. **Bayes-enhanced Multi-view Attention Networks for Robust POI Recommendation** (Graph + DA)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.00491.pdf)
+
+30. **Diffusion Augmentation for Sequential Recommendation** (Sequential + DA)
+
+     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2309.12858.pdf), [[Code]](https://github.com/liuqidong07/DiffuASR)
 
 
 ## Graph Models with CL
