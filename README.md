@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 75
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 67
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 76
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 68
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 64
 
 
@@ -459,6 +459,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      IJCAI 2023, [[PDF]](https://www.ijcai.org/proceedings/2023/0260.pdf)
 
+76. **GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training** (Graph + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.13121.pdf)
+
 
 ## Sequential Models with CL
 
@@ -729,6 +733,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 67. **Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation** (Sequential + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.10501.pdf), [[Code]](https://github.com/ysh-1998/CoWPiRec)
+
+68. **Cracking the Code of Negative Transfer:A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation** (Sequential + Cross Domain + CL)
+
+    CIKM 2023, [[PDF]](https://arxiv.org/pdf/2311.13188.pdf)
 
 
 ## Other Tasks with CL
