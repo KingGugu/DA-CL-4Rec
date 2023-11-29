@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 76
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 78
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 68
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 64
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 67
 
 
 ## Survey/Tutorial/Framework
@@ -462,6 +462,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 76. **GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.13121.pdf)
+
+77. **Graph Pre-training and Prompt Learning for Recommendation** (Graph + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.16716.pdf)
+
+78. **Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning** (Graph + CL)
+
+     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2311.16334.pdf), [[Code]](https://github.com/Xinrui17/BNCL)
 
 
 ## Sequential Models with CL
@@ -996,3 +1004,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 64. **Towards Hierarchical Intent Disentanglement for Bundle Recommendation** (Bundle Rec + CL)
 
      TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10304376)
+
+65. **ControlRec: Bridging the Semantic Gap between Language Model and Personalized Recommendation** (LLM + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.16441.pdf)
+
+66. **Enhancing Item-level Bundle Representation for Bundle Recommendation** (Bundle Rec + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.16892.pdf), [[Code]](https://github.com/answermycode/EBRec)
+
+67. **MultiCBR: Multi-view Contrastive Learning for Bundle Recommendation** (Bundle Rec + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.16751.pdf), [[Code]](https://github.com/HappyPointer/MultiCBR)
