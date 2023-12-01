@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 78
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 68
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 67
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 69
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 68
 
 
 ## Survey/Tutorial/Framework
@@ -746,6 +746,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2311.13188.pdf)
 
+69. **Contrastive Multi-View Interest Learning for Cross-Domain Sequential Recommendation** (Sequential + Cross Domain + CL)
+
+    TOIS 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3632402), [[Code]](https://github.com/ZSHKJWBY/CMVCDR)
+
 
 ## Other Tasks with CL
 
@@ -1016,3 +1020,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 67. **MultiCBR: Multi-view Contrastive Learning for Bundle Recommendation** (Bundle Rec + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.16751.pdf), [[Code]](https://github.com/HappyPointer/MultiCBR)
+
+68. **Poisoning Attacks Against Contrastive Recommender Systems** (Attack Rec + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.18244.pdf)
