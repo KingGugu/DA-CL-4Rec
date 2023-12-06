@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 78
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 69
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 79
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 70
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 69
 
 
@@ -471,6 +471,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2311.16334.pdf), [[Code]](https://github.com/Xinrui17/BNCL)
 
+79. **ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation** (Graph + Multi-Modal + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.05956.pdf)
+
 
 ## Sequential Models with CL
 
@@ -749,6 +753,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 69. **Contrastive Multi-View Interest Learning for Cross-Domain Sequential Recommendation** (Sequential + Cross Domain + CL)
 
     TOIS 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3632402), [[Code]](https://github.com/ZSHKJWBY/CMVCDR)
+
+70. **E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation** (Sequential + LLM + CL)
+
+    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.02443.pdf), [[Code]](https://github.com/HestiaSky/E4SRec/)
 
 
 ## Other Tasks with CL
