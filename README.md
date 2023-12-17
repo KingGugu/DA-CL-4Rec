@@ -1036,3 +1036,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 69. **PEACE: Prototype lEarning Augmented transferable framework for Cross-domain rEcommendation** (Cross-domain + CL)
 
      WSDM 2024, [[PDF]](https://arxiv.org/pdf/2312.01916.pdf)
+
+70. **(Debiased) Contrastive Learning Loss for Recommendation (Technical Report)** (Analysis + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.08517.pdf)
+
+71. **Revisiting Recommendation Loss Functions through Contrastive Learning (Technical Report)** (Analysis + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.08520.pdf)
