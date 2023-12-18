@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 79
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 70
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 72
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 74
 
 
 ## Survey/Tutorial/Framework
@@ -1048,3 +1048,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 72. **Hierarchical Alignment With Polar Contrastive Learning for Next-Basket Recommendation** (Next Basket + CL)
 
      TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/document/10144403)
+
+73. **CETN: Contrast-enhanced Through Network for CTR Prediction** (CTR + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.09715.pdf)
+
+74. **Multi-Modality is All You Need for Transferable Recommender Systems** (Transferable Rec + CL)
+
+     ICDE 2024, [[PDF]](https://arxiv.org/pdf/2312.09602.pdf), [[Code]](https://github.com/ICDE24/PMMRec)
