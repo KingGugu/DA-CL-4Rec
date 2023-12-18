@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 79
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 70
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 69
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 72
 
 
 ## Survey/Tutorial/Framework
@@ -19,7 +19,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 2. **Self-Supervised Learning for Recommender Systems A Survey** (Survey + Framework)
    
-   TKDE 2022, [[PDF]](https://arxiv.org/pdf/2203.15876.pdf), [[Code]](https://github.com/Coder-Yu/SELFRec)
+   TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/document/10144391), [[Code]](https://github.com/Coder-Yu/SELFRec)
 
 3. **Self-Supervised Learning in Recommendation: Fundamentals and Advances** (Tutorial)
    
@@ -1044,3 +1044,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 71. **Revisiting Recommendation Loss Functions through Contrastive Learning (Technical Report)** (Analysis + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.08520.pdf)
+
+72. **Hierarchical Alignment With Polar Contrastive Learning for Next-Basket Recommendation** (Next Basket + CL)
+
+     TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/document/10144403)
