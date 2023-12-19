@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 79
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 80
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 70
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 74
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 75
 
 
 ## Survey/Tutorial/Framework
@@ -474,6 +474,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 79. **ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation** (Graph + Multi-Modal + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.05956.pdf)
+
+80. **Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems** (Graph + LLM + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.10967.pdf)
 
 
 ## Sequential Models with CL
@@ -1056,3 +1060,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 74. **Multi-Modality is All You Need for Transferable Recommender Systems** (Transferable Rec + CL)
 
      ICDE 2024, [[PDF]](https://arxiv.org/pdf/2312.09602.pdf), [[Code]](https://github.com/ICDE24/PMMRec)
+
+75. **RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation** (Hashtag Rec + CL)
+
+     ECIR 2024, [[PDF]](https://arxiv.org/pdf/2312.10466.pdf), [[Code]](https://github.com/ict-bigdatalab/RIGHT)
