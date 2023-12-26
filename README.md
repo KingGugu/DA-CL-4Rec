@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 80
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 70
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 75
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 77
 
 
 ## Survey/Tutorial/Framework
@@ -1064,3 +1064,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 75. **RIGHT: Retrieval-augmented Generation for Mainstream Hashtag Recommendation** (Hashtag Rec + CL)
 
      ECIR 2024, [[PDF]](https://arxiv.org/pdf/2312.10466.pdf), [[Code]](https://github.com/ict-bigdatalab/RIGHT)
+
+76. **AT4CTR: Auxiliary Match Tasks for Enhancing Click-Through Rate Prediction** (CTR + CL)
+
+     AAAI 2024, [[PDF]](https://arxiv.org/pdf/2312.06683.pdf)
+
+77. **Attribute-driven Disentangled Representation Learning for Multimodal Recommendation** (Multi Modal + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.14433.pdf)
