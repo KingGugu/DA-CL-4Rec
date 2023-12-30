@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 80
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 82
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 70
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 77
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 78
 
 
 ## Survey/Tutorial/Framework
@@ -478,6 +478,18 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 80. **Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems** (Graph + LLM + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.10967.pdf)
+
+81. **LGMRec: Local and Global Graph Learning for Multimodal Recommendation** (Graph + Multi-Modal + CL)
+
+     AAAI 2024, [[PDF]](https://arxiv.org/pdf/2312.16400.pdf), [[Code]](https://github.com/georgeguo-cn/LGMRec)
+
+82. **RDGCL: Reaction-Diffusion Graph Contrastive Learning for Recommendation** (Graph + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.16563.pdf)
+
+83. **DiffKG: Knowledge Graph Diffusion Model for Recommendation** (Graph + CL)
+
+     WSDM 2024, [[PDF]](https://arxiv.org/pdf/2312.16890.pdf), [[Code]](https://github.com/HKUDS/DiffKG)
 
 
 ## Sequential Models with CL
@@ -1072,3 +1084,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 77. **Attribute-driven Disentangled Representation Learning for Multimodal Recommendation** (Multi Modal + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.14433.pdf)
+
+78. **TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation** (Multi Modal + CL)
+
+     MM 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548294), [[Code]](https://github.com/georgeguo-cn/TopicVAE)
