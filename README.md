@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 82
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 70
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 84
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 71
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 78
 
 
@@ -491,6 +491,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WSDM 2024, [[PDF]](https://arxiv.org/pdf/2312.16890.pdf), [[Code]](https://github.com/HKUDS/DiffKG)
 
+84. **QoS-Aware Graph Contrastive Learning for Web Service Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2401.03162.pdf)
+
 
 ## Sequential Models with CL
 
@@ -773,6 +777,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 70. **E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation** (Sequential + LLM + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.02443.pdf), [[Code]](https://github.com/HestiaSky/E4SRec/)
+
+71. **TFCSRec: Time-Frequency Consistency Based Contrastive Learning for Sequential Recommendation** (Sequential + CL)
+
+    Expert Systems with Applications 2024, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417423036229)
 
 
 ## Other Tasks with CL
