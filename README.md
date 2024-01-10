@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 84
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 71
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 78
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 72
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 79
 
 
 ## Survey/Tutorial/Framework
@@ -782,6 +782,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     Expert Systems with Applications 2024, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417423036229)
 
+72. **A Relevant and Diverse Retrieval-enhanced Data Augmentation Framework for Sequential Recommendation** (Sequential + DA + CL)
+
+    CIMK 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557071), [[Code]](https://github.com/RUCAIBox/ReDA)
+
 
 ## Other Tasks with CL
 
@@ -1096,3 +1100,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 78. **TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation** (Multi Modal + CL)
 
      MM 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548294), [[Code]](https://github.com/georgeguo-cn/TopicVAE)
+
+79. **Disentangled CVAEs with Contrastive Learning for Explainable Recommendation** (Explainable + CL)
+
+     AAAI 2023, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/26604/26376)
