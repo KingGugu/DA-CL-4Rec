@@ -1104,3 +1104,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 79. **Disentangled CVAEs with Contrastive Learning for Explainable Recommendation** (Explainable + CL)
 
      AAAI 2023, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/26604/26376)
+
+80. **DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation** (Rec + CL)
+
+     SIAM 2024, [[PDF]](https://arxiv.org/pdf/2401.04914.pdf), [[Code]](https://github.com/georgeguo-cn/DualVAE)
