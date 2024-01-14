@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 84
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 72
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 80
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 76
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 81
 
 
 ## Survey/Tutorial/Framework
@@ -790,13 +790,17 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     Arxiv 2023, [[PDF]](https://assets.researchsquare.com/files/rs-3825823/v1_covered_773bc524-1cf2-454b-88cb-52e5bf0386b0.pdf?c=1704709556)
 
-74. **feature-aware contrastive learning with bidirectional transformers for sequential recommendation** (sequential + CL)
+74. **Feature-Aware Contrastive Learning with Bidirectional Transformers for Sequential Recommendation** (Sequential + CL)
 
-   TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10375742/)
+    TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10375742/)
     
-75. **linkFND: simple framework for false negative detection in recommendation tasks with graph contrastive learning** (Sequential + Graph + CL)
+75. **LinkFND: Simple Framework for False Negative Detection in Recommendation Tasks with Graph Contrastive Learning** (Sequential + Graph + CL)
 
     Access 2023, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10368024)
+
+76. **End-to-end Learnable Clustering for Intent Learning in Recommendation** (Sequential + CL)
+
+    arXiv 2024, [[PDF]](https://arxiv.org/pdf/2401.05975.pdf)
     
 
 
@@ -1122,10 +1126,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIAM 2024, [[PDF]](https://arxiv.org/pdf/2401.04914.pdf), [[Code]](https://github.com/georgeguo-cn/DualVAE)
 
-81. **self-supervised learning for user sequence modeling** (Rec + CL)
+81. **Self-Supervised Learning for User Sequence Modeling** (Rec + CL)
 
-    Arxiv 2023, [[PDF]](https://sslneurips23.github.io/paper_pdfs/paper_39.pdf)
-
-82. **RDGCL: reaction-difussion graph contrastive learning for recommendation** (Rec + CL)
-
-    Arxiv 2023, [[PDF]](RDGCL: reaction-difussion graph contrastive learning for recommendation)
+     arXiv 2023, [[PDF]](https://sslneurips23.github.io/paper_pdfs/paper_39.pdf)
