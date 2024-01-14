@@ -786,6 +786,19 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     CIMK 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557071), [[Code]](https://github.com/RUCAIBox/ReDA)
 
+73. **high-level preferences as positive examples in contrastive learning for multi-interest sequential recommendation** （Sequential + CL）
+
+    Arxiv 2023, [[PDF]](https://assets.researchsquare.com/files/rs-3825823/v1_covered_773bc524-1cf2-454b-88cb-52e5bf0386b0.pdf?c=1704709556)
+
+74. **feature-aware contrastive learning with bidirectional transformers for sequential recommendation** (sequential + CL)
+
+   TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10375742/)
+    
+75. **linkFND: simple framework for false negative detection in recommendation tasks with graph contrastive learning** (Sequential + Graph + CL)
+
+    Access 2023, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10368024)
+    
+
 
 ## Other Tasks with CL
 
@@ -1108,3 +1121,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 80. **DualVAE: Dual Disentangled Variational AutoEncoder for Recommendation** (Rec + CL)
 
      SIAM 2024, [[PDF]](https://arxiv.org/pdf/2401.04914.pdf), [[Code]](https://github.com/georgeguo-cn/DualVAE)
+
+81. **self-supervised learning for user sequence modeling** (Rec + CL)
+
+    Arxiv 2023, [[PDF]](https://sslneurips23.github.io/paper_pdfs/paper_39.pdf)
+
+82. **RDGCL: reaction-difussion graph contrastive learning for recommendation** (Rec + CL)
+
+    Arxiv 2023, [[PDF]](RDGCL: reaction-difussion graph contrastive learning for recommendation)
