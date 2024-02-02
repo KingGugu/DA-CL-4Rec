@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 86
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 87
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 76
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 81
 
@@ -502,6 +502,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 86. **RecDCL: Dual Contrastive Learning for Recommendation** (Graph + CL)
 
      WWW 2024, [[PDF]](https://arxiv.org/pdf/2401.15635.pdf), [[Code]](https://github.com/THUDM/RecDCL)
+
+87. **Prerequisite-Enhanced Category-Aware Graph Neural Networks for Course Recommendation** (Graph + CL)
+
+     TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3643644)
 
 
 ## Sequential Models with CL
