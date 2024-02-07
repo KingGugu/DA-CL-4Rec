@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 88
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 76
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 77
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 81
 
 
@@ -564,7 +564,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 13. **Equivariant Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
-    arXiv 2022, [[PDF]](https://arxiv.org/pdf/2211.05290.pdf)
+    RecSys 2023, [[PDF]](https://arxiv.org/pdf/2211.05290.pdf), [[Code]](https://github.com/Tokkiu/ECL)
 
 14. **Explanation Guided Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
@@ -818,6 +818,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2401.05975.pdf)
     
+77. **End-to-end Learnable Clustering for Intent Learning in Recommendation** (Sequential + CL)
+
+    RecSys 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608790), [[Code]](https://github.com/zhangyichi1Z/CFIT4SRec)
 
 
 ## Other Tasks with CL
