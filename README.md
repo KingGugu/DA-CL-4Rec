@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 87
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 88
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 76
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 81
 
@@ -506,6 +506,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 87. **Prerequisite-Enhanced Category-Aware Graph Neural Networks for Course Recommendation** (Graph + CL)
 
      TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3643644)
+
+88. **Graph Contrastive Learning With Negative Propagation for Recommendation** (Graph + CL)
+
+     TCSS 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10419035)
 
 
 ## Sequential Models with CL
