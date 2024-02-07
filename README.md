@@ -818,7 +818,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2401.05975.pdf)
     
-77. **End-to-end Learnable Clustering for Intent Learning in Recommendation** (Sequential + CL)
+77. **End-to-end Learnable Clustering for Intent Learning in Recommendation** (Sequential + DA + CL)
 
     RecSys 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608790), [[Code]](https://github.com/zhangyichi1Z/CFIT4SRec)
 
