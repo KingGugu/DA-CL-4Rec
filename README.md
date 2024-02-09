@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 88
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 77
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 81
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 82
 
 
 ## Survey/Tutorial/Framework
@@ -1148,3 +1148,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 81. **Self-Supervised Learning for User Sequence Modeling** (Rec + CL)
 
      arXiv 2023, [[PDF]](https://sslneurips23.github.io/paper_pdfs/paper_39.pdf)
+
+82. **RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation** (LLM + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.04527.pdf)
+
+83. **RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation** (Counterfactual + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.05740.pdf)
