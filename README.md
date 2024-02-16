@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 88
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 77
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 78
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 85
 
 
@@ -821,6 +821,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 77. **End-to-end Learnable Clustering for Intent Learning in Recommendation** (Sequential + DA + CL)
 
     RecSys 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608790), [[Code]](https://github.com/zhangyichi1Z/CFIT4SRec)
+
+78. **Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention** (Sequential + CL)
+
+    WWW 2024, [[PDF]](https://arxiv.org/pdf/2402.09784.pdf), [[Code]](https://github.com/TemProxRec)
 
 
 ## Other Tasks with CL
