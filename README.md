@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 30
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 31
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 88
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 78
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 85
@@ -155,6 +155,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 30. **Diffusion Augmentation for Sequential Recommendation** (Sequential + DA)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2309.12858.pdf), [[Code]](https://github.com/liuqidong07/DiffuASR)
+
+31. **Large Language Models as Data Augmenters for Cold-Start Item Recommendation** (DA)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.11724.pdf)
 
 
 ## Graph Models with CL
