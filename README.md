@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 31
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 88
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 90
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 78
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 85
 
@@ -514,6 +514,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 88. **Graph Contrastive Learning With Negative Propagation for Recommendation** (Graph + CL)
 
      TCSS 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10419035)
+
+89. **General Debiasing for Graph-based Collaborative Filtering via Adversarial Graph Dropout** (Graph + CL)
+
+     WWW 2024, [[PDF]](https://arxiv.org/pdf/2402.13769.pdf), [[Code]](https://github.com/Arthurma71/AdvDrop)
+
+90. **Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.13750.pdf)
 
 
 ## Sequential Models with CL
