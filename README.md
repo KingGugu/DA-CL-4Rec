@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 31
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 90
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 78
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 85
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 86
 
 
 ## Survey/Tutorial/Framework
@@ -1180,3 +1180,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 85. **Modeling Balanced Explicit and Implicit Relations with Contrastive Learning for Knowledge Concept Recommendation in MOOCs** (MOOC Rec + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.08256.pdf)
+
+86. **MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation** (Multi Modal + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.19407.pdf), [[Code]](https://github.com/Jinfeng-Xu/MENTOR)
