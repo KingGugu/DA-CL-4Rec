@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 31
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 90
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 78
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 79
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 86
 
 
@@ -837,6 +837,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 78. **Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention** (Sequential + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2402.09784.pdf), [[Code]](https://github.com/TemProxRec)
+
+79. **End-to-end Graph-Sequential Representation Learning for Accurate Recommendations** (Sequential + Graph + CL)
+
+    WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.00895.pdf), [[Code]](https://github.com/NonameUntitled/MRGSRec)
 
 
 ## Other Tasks with CL
