@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 31
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 90
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 91
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 79
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 86
 
@@ -522,6 +522,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 90. **Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.13750.pdf)
+
+91. **FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling** (Graph + CL)
+
+     SIAM 2024, [[PDF]](https://arxiv.org/pdf/2403.02630.pdf), [[Code]](https://github.com/orion-orion/FedHCDR)
 
 
 ## Sequential Models with CL
