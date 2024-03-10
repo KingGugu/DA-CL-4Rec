@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 31
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 91
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 79
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 80
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 86
 
 
@@ -845,6 +845,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 79. **End-to-end Graph-Sequential Representation Learning for Accurate Recommendations** (Sequential + Graph + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.00895.pdf), [[Code]](https://github.com/NonameUntitled/MRGSRec)
+
+80. **End-to-end Graph-Sequential Representation Learning for Accurate Recommendations** (Sequential + CL)
+
+    WSDM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635815), [[Code]](https://github.com/xiaolLIN/MSSR)
 
 
 ## Other Tasks with CL
