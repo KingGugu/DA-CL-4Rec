@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 31
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 91
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 80
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 86
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 88
 
 
 ## Survey/Tutorial/Framework
@@ -1196,3 +1196,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 86. **MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation** (Multi Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.19407.pdf), [[Code]](https://github.com/Jinfeng-Xu/MENTOR)
+
+87. **NoteLLM: A Retrievable Large Language Model for Note Recommendation** (Note Rec + CL)
+
+     WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.01744.pdf)
+
+88. **A Privacy-Preserving Framework with Multi-Modal Data for Cross-Domain Recommendation** (Cross-Domain + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.03600.pdf)
