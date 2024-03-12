@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 32
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 34
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 91
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 80
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 88
@@ -163,6 +163,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 32. **SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation** (Sequential + DA)
 
      ICDE 2024, [[PDF]](https://arxiv.org/pdf/2403.04278.pdf), [[Code]](https://github.com/zc-97/SSDRec)
+
+33. **CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation** (DA)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.06447.pdf)
+
+34. **Repeated Padding as Data Augmentation for Sequential Recommendation** (Sequential + DA)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.06372.pdf)
 
 
 ## Graph Models with CL
