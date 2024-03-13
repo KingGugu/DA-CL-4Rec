@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 35
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 91
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 80
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 92
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 81
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 88
 
 
@@ -543,6 +543,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIAM 2024, [[PDF]](https://arxiv.org/pdf/2403.02630.pdf), [[Code]](https://github.com/orion-orion/FedHCDR)
 
+92. **Self-supervised Contrastive Learning for Implicit Collaborative Filtering** (Graph + DA + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.07265.pdf)
+
 
 ## Sequential Models with CL
 
@@ -865,6 +869,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 80. **End-to-end Graph-Sequential Representation Learning for Accurate Recommendations** (Sequential + CL)
 
     WSDM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635815), [[Code]](https://github.com/xiaolLIN/MSSR)
+
+81. **Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness** (Sequential + CL)
+
+    arxiv 2024, [[PDF]](https://arxiv.org/pdf/2403.07623.pdf)
 
 
 ## Other Tasks with CL
