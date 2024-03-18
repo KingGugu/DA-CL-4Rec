@@ -6,9 +6,9 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 35
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 36
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 92
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 81
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 82
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 88
 
 
@@ -175,6 +175,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 35. **Repeated Padding as Data Augmentation for Sequential Recommendation** (Sequential + DA)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.06372.pdf)
+
+36. **Rethinking sequential relationships: Improving sequential recommenders with inter-sequence data augmentation** (Sequential + DA)
+
+     amazon.science 2024, [[PDF]](https://www.amazon.science/publications/rethinking-sequential-relationships-improving-sequential-recommenders-with-inter-sequence-data-augmentation)
 
 
 ## Graph Models with CL
@@ -873,6 +877,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 81. **Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness** (Sequential + CL)
 
     arxiv 2024, [[PDF]](https://arxiv.org/pdf/2403.07623.pdf)
+
+82. **Collaborative Sequential Recommendations via Multi-View GNN-Transformers** (Sequential + Graph + CL)
+
+    TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3649436)
 
 
 ## Other Tasks with CL
