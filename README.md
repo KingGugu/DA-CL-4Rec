@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 36
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 92
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 93
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 83
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 89
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 90
 
 
 ## Survey/Tutorial/Framework
@@ -550,6 +550,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 92. **Self-supervised Contrastive Learning for Implicit Collaborative Filtering** (Graph + DA + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.07265.pdf)
+
+93. **Dual-Channel Multiplex Graph Neural Networks for Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.11624.pdf)
 
 
 ## Sequential Models with CL
@@ -1244,3 +1248,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 89. **PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction** (CTR + CL)
 
      WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.10049.pdf)
+
+90. **An Aligning and Training Framework for Multimodal Recommendations** (Multi Modal + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.12384.pdf)
