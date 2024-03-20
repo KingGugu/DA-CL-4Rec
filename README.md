@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 36
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 93
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 83
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 84
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 90
 
 
@@ -889,6 +889,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 83. **Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation** (Sequential + DA + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.11136.pdf), [[Code]](https://github.com/AIM-SE/DA4Rec)
+
+84. **https://dl.acm.org/doi/pdf/10.1145/3653016** (Sequential + CL)
+
+    TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3653016), [[Code]](https://github.com/chaoyushi/TRIER)
 
 
 ## Other Tasks with CL
