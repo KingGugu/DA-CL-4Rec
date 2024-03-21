@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 36
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 93
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 84
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 85
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 90
 
 
@@ -890,9 +890,13 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.11136.pdf), [[Code]](https://github.com/AIM-SE/DA4Rec)
 
-84. **https://dl.acm.org/doi/pdf/10.1145/3653016** (Sequential + CL)
+84. **Diversifying Sequential Recommendation with Retrospective and Prospective Transformers** (Sequential + CL)
 
     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3653016), [[Code]](https://github.com/chaoyushi/TRIER)
+
+85. **A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation** (Sequential + CL)
+
+    arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.13574.pdf), [[Code]](https://github.com/RUCAIBox/LSVCR/)
 
 
 ## Other Tasks with CL
