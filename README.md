@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 36
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 93
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 94
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 85
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 90
 
@@ -554,6 +554,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 93. **Dual-Channel Multiplex Graph Neural Networks for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.11624.pdf)
+
+94. **Bilateral Unsymmetrical Graph Contrastive Learning for Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.15075.pdf)
 
 
 ## Sequential Models with CL
