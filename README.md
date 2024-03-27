@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 36
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 97
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 85
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 90
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 86
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 91
 
 
 ## Survey/Tutorial/Framework
@@ -914,6 +914,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.13574.pdf), [[Code]](https://github.com/RUCAIBox/LSVCR/)
 
+86. **Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation** (Sequential + CL)
+
+    WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.17603.pdf)
+
 
 ## Other Tasks with CL
 
@@ -1276,3 +1280,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 90. **An Aligning and Training Framework for Multimodal Recommendations** (Multi Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.12384.pdf)
+
+91. **Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling** (RL Rec + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.16948.pdf)
