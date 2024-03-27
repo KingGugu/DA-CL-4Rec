@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 36
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 95
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 97
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 85
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 90
 
@@ -562,6 +562,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 95. **Knowledge-aware Dual-side Attribute-enhanced Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.16037.pdf), [[Code]](https://github.com/TJTP/KDAR)
+
+96. **A Progressively-Passing-then-Disentangling Approach to Recipe Recommendation** (Graph + CL)
+
+     TMM 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10460165/)
+
+97. **Graph Augmentation for Recommendation** (Graph + DA + CL)
+
+     ICDE 2024, [[PDF]](https://arxiv.org/pdf/2403.16656.pdf), [[Code]](https://github.com/HKUDS/GraphAug)
 
 
 ## Sequential Models with CL
