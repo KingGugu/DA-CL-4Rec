@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 36
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 37
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 97
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 86
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 91
@@ -179,6 +179,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 36. **Rethinking sequential relationships: Improving sequential recommenders with inter-sequence data augmentation** (Sequential + DA)
 
      amazon.science 2024, [[PDF]](https://www.amazon.science/publications/rethinking-sequential-relationships-improving-sequential-recommenders-with-inter-sequence-data-augmentation)
+
+37. **Beyond Relevance: Factor-level Causal Explanation for User Travel Decisions with Counterfactual Data Augmentation** (POI Rec + DA)
+
+     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3653673)
 
 
 ## Graph Models with CL
@@ -878,7 +882,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2401.05975.pdf)
     
-77. **End-to-end Learnable Clustering for Intent Learning in Recommendation** (Sequential + DA + CL)
+77. **Contrastive Learning with Frequency-Domain Interest Trends for Sequential Recommendation** (Sequential + DA + CL)
 
     RecSys 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608790), [[Code]](https://github.com/zhangyichi1Z/CFIT4SRec)
 
@@ -890,7 +894,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.00895.pdf), [[Code]](https://github.com/NonameUntitled/MRGSRec)
 
-80. **End-to-end Graph-Sequential Representation Learning for Accurate Recommendations** (Sequential + CL)
+80. **Multi-Sequence Attentive User Representation Learning for Side-information Integrated Sequential Recommendation** (Sequential + CL)
 
     WSDM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635815), [[Code]](https://github.com/xiaolLIN/MSSR)
 
@@ -1043,7 +1047,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 31. **End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling** (POI Rec + CL)
 
-    arXiv 2023, [[PDF]](https://arxiv.org/abs/2303.12507)
+     arXiv 2023, [[PDF]](https://arxiv.org/abs/2303.12507)
 
 32. **Bootstrap Latent Representations for Multi-modal Recommendation** (Multi Modal Rec + CL)
 
