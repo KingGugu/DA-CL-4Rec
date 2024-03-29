@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 37
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 97
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 86
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 91
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 38
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 101
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 88
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 95
 
 
 ## Survey/Tutorial/Framework
@@ -183,6 +183,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 37. **Beyond Relevance: Factor-level Causal Explanation for User Travel Decisions with Counterfactual Data Augmentation** (POI Rec + DA)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3653673)
+
+38. **TAU: Trajectory Data Augmentation with Uncertainty for Next POI Recommendation** (POI Rec + DA)
+
+     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/30265/32257)
 
 
 ## Graph Models with CL
@@ -575,6 +579,22 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      ICDE 2024, [[PDF]](https://arxiv.org/pdf/2403.16656.pdf), [[Code]](https://github.com/HKUDS/GraphAug)
 
+98. **One Backpropagation in Two Tower Recommendation Models** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.18227.pdf)
+
+99. **Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users** (Graph + CL)
+
+     COLING 2024, [[PDF]](https://arxiv.org/pdf/2403.18667.pdf)
+
+100. **Dual Homogeneity Hypergraph Motifs with Cross-view Contrastive Learning for Multiple Social Recommendations** (Graph + Social Rec + CL)
+
+     TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3653976), [[Code]](https://github.com/chenai2024/DH-HGCNplusplus)
+
+101. **Graph Disentangled Contrastive Learning with Personalized Transfer for Cross-Domain Recommendation** (Graph + CL)
+
+     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28723/29398)
+
 
 ## Sequential Models with CL
 
@@ -812,7 +832,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 59. **Meta-optimized Joint Generative and Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
-    arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.13925.pdf), [[Code]](https://anonymous.4open.science/status/Meta-SGCL-05B5)
+    ICDE 2024, [[PDF]](https://arxiv.org/pdf/2310.13925.pdf), [[Code]](https://anonymous.4open.science/status/Meta-SGCL-05B5)
 
 60. **Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation** (Sequential + CL)
 
@@ -921,6 +941,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 86. **Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation** (Sequential + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.17603.pdf)
+
+87. **Temporal Graph Contrastive Learning for Sequential Recommendation** (Sequential + Graph + CL)
+
+    AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28789/29511)
+
+88. **Sparse Enhanced Network: An Adversarial Generation Method for Robust Augmentation in Sequential Recommendation** (Sequential + DA+ CL)
+
+    AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28669/29299), [[Code]](https://github.com/junyachen/SparseEnNet)
 
 
 ## Other Tasks with CL
@@ -1288,3 +1316,19 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 91. **Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling** (RL Rec + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.16948.pdf)
+
+92. **Enhanced Generative Recommendation via Content and Collaboration Integration** (Generative Rec + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.18480.pdf)
+
+93. **End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling** (POI Rec + CL)
+
+     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.12507.pdf)
+
+94. **Preference Aware Dual Contrastive Learning for Item Cold-Start Recommendation** (Cold Start + CL)
+
+     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28763/29465)
+
+95. **Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation** (Friend Rec + CL)
+
+     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28737/29421), [[Code]](https://github.com/antman9914/Tail-STEAK)
