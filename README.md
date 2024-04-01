@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 38
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 101
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 88
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 95
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 96
 
 
 ## Survey/Tutorial/Framework
@@ -120,7 +120,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.15961.pdf)
 
-22. **Domain Disentanglement with Interpolative Data Augmentation for Dual-Target Cross-Domain Recommendation** (Cross-domain + DA)
+22. **Domain Disentanglement with Interpolative Data Augmentation for Dual-Target Cross-Domain Recommendation** (Cross-Domain + DA)
 
     RecSys 2023, [[PDF]](https://arxiv.org/pdf/2307.13910.pdf)
 
@@ -722,7 +722,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.05027.pdf)
 
-32. **Contrastive Cross-Domain Sequential Recommendation** (Cross-domain + Sequential + CL)
+32. **Contrastive Cross-Domain Sequential Recommendation** (Cross-Domain + Sequential + CL)
 
     CIMK 2022, [[PDF]](https://arxiv.org/pdf/2304.03891.pdf), [[Code]](https://github.com/cjx96/C2DSR)
 
@@ -778,7 +778,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     KDD 2023, [[PDF]](https://arxiv.org/pdf/2305.13731.pdf)
 
-46. **Text Is All You Need: Learning Language Representations for Sequential Recommendation** (Sequential + CL)
+46. **Sequential Recommendation with Multiple Contrast Signals** (Sequential + CL)
 
     TOIS 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3522673), [[Code]](https://github.com/THUwangcy/ReChorus/tree/TOIS22)
 
@@ -866,11 +866,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.10501.pdf), [[Code]](https://github.com/ysh-1998/CoWPiRec)
 
-68. **Cracking the Code of Negative Transfer:A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation** (Sequential + Cross Domain + CL)
+68. **Cracking the Code of Negative Transfer:A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation** (Sequential + Cross-Domain + CL)
 
     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2311.13188.pdf)
 
-69. **Contrastive Multi-View Interest Learning for Cross-Domain Sequential Recommendation** (Sequential + Cross Domain + CL)
+69. **Contrastive Multi-View Interest Learning for Cross-Domain Sequential Recommendation** (Sequential + Cross-Domain + CL)
 
     TOIS 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3632402), [[Code]](https://github.com/ZSHKJWBY/CMVCDR)
 
@@ -1033,7 +1033,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      KDD 2022, [[PDF]](https://arxiv.org/pdf/2112.00999.pdf), [[Code]](https://github.com/lqfarmer/CCDR)
 
-21. **Contrastive Cross-Domain Sequential Recommendation** (Cross Domain + Sequential + CL)
+21. **Contrastive Cross-Domain Sequential Recommendation** (Cross-Domain + Sequential + CL)
 
      CIKM 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3511808.3557262), [[Code]](https://github.com/cjx96/C2DSR)
 
@@ -1053,7 +1053,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.02151.pdf), [[Code]](https://github.com/zzhin/CCFCRec)
     
-26. **Cross-domain recommendation via user interest alignment** (Cross Domain Rec + CL)
+26. **Cross-domain recommendation via user interest alignment** (Cross-Domain Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2301.11467.pdf), [[Code]](https://github/anonymous/COAST)
     
@@ -1089,15 +1089,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      CIKM 2022, [[PDF]](https://arxiv.org/abs/2304.02089)
 
-35. **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck** (Cross Domain + CL)
+35. **Cross-Domain Recommendation to Cold-Start Users via Variational Information Bottleneck** (Cross-Domain + CL)
 
      ICDE 2022, [[PDF]](https://arxiv.org/abs/2304.02089), [[Code]](https://github.com/cjx96/CDRIB)
 
-36. **DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation** (Cross Domain + CL)
+36. **DisenCDR: Learning Disentangled Representations for Cross-Domain Recommendation** (Cross-Domain + CL)
 
      SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3531967), [[Code]](https://github.com/cjx96/DisenCDR)
 
-37. **Towards Universal Cross-Domain Recommendation** (Cross domain + CL)
+37. **Towards Universal Cross-Domain Recommendation** (Cross-domain + CL)
 
      WSDM 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539597.3570366), [[Code]](https://github.com/cjx96/UniCDR)
 
@@ -1141,7 +1141,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.07992.pdf)
 
-48. **Disentangled Contrastive Learning for Cross-Domain Recommendation** (Cross Domain + CL)
+48. **Disentangled Contrastive Learning for Cross-Domain Recommendation** (Cross-Domain + CL)
 
     DASFAA 2023, [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_11)
 
@@ -1332,3 +1332,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 95. **Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation** (Friend Rec + CL)
 
      AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28737/29421), [[Code]](https://github.com/antman9914/Tail-STEAK)
+
+96. **Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation** (Cross-Domain + CL)
+
+     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2403.20296.pdf), [[Code]](https://anonymous.4open.science/r/CUT_anonymous-9815)
+
+96. **Robust Federated Contrastive Recommender System against Model Poisoning Attack** (Fed Rec + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.20107.pdf), [[Code]](https://anonymous.4open.science/r/CUT_anonymous-9815)
