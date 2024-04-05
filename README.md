@@ -5,10 +5,10 @@ Comments and contributions are welcome.
 
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
-- [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 5
+- [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 38
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 101
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 88
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 102
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 89
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 96
 
 
@@ -32,6 +32,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 5. **SSLRec: A Self-Supervised Learning Framework for Recommendation** (Framework)
    
    WSDM 2024, [[PDF]](https://arxiv.org/pdf/2308.05697.pdf), [[Code]](https://github.com/HKUDS/SSLRec)
+
+6. **A Comprehensive Survey on Self-Supervised Learning for Recommendation** (Survey)
+   
+   arXive 2024, [[PDF]](https://arxiv.org/pdf/2404.03354.pdf), [[Code]](https://github.com/HKUDS/Awesome-SSLRec-Papers)
 
 
 ## Only Data Augmentation
@@ -595,6 +599,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28723/29398)
 
+102. **A Directional Diffusion Graph Transformer for Recommendation** (Graph + CL)
+
+     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2404.03326.pdf)
+
 
 ## Sequential Models with CL
 
@@ -946,9 +954,13 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28789/29511)
 
-88. **Sparse Enhanced Network: An Adversarial Generation Method for Robust Augmentation in Sequential Recommendation** (Sequential + DA+ CL)
+88. **Sparse Enhanced Network: An Adversarial Generation Method for Robust Augmentation in Sequential Recommendation** (Sequential + DA + CL)
 
     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28669/29299), [[Code]](https://github.com/junyachen/SparseEnNet)
+
+89. **Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention** (Sequential + CL)
+
+    SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2404.03637.pdf), [[Code]](https://anonymous.4open.science/r/DT4IER-5837)
 
 
 ## Other Tasks with CL
