@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 38
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 102
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 89
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 96
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 98
 
 
 ## Survey/Tutorial/Framework
@@ -1349,6 +1349,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2403.20296.pdf), [[Code]](https://anonymous.4open.science/r/CUT_anonymous-9815)
 
-96. **Robust Federated Contrastive Recommender System against Model Poisoning Attack** (Fed Rec + CL)
+97. **Robust Federated Contrastive Recommender System against Model Poisoning Attack** (Fed Rec + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.20107.pdf), [[Code]](https://anonymous.4open.science/r/CUT_anonymous-9815)
+
+98. **Robust Federated Contrastive Recommender System against Model Poisoning Attack** (Multi Modal + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.03952.pdf), [[Code]](https://github.com/hyp1231/AmazonReviews2023)
