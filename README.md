@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 38
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 102
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 103
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 89
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 98
 
@@ -602,6 +602,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 102. **A Directional Diffusion Graph Transformer for Recommendation** (Graph + CL)
 
      SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2404.03326.pdf)
+
+103. **Heterogeneous Adaptive Preference Learning for Recommendation** (Graph + CL)
+
+     TORS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3656480), [[Code]](https://github.com/Feifei84/HAPLRec/tree/main/)
 
 
 ## Sequential Models with CL
