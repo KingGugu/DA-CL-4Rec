@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 38
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 103
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 89
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 104
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 91
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 98
 
 
@@ -607,6 +607,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TORS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3656480), [[Code]](https://github.com/Feifei84/HAPLRec/tree/main/)
 
+104. **Stock Recommendations for Individual Investors: A Temporal Graph Network Approach with Diversification-Enhancing Contrastive Learning** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.07223.pdf), [[Code]](https://anonymous.4open.science/r/IJCAI2024-12F4)
+
 
 ## Sequential Models with CL
 
@@ -965,6 +969,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 89. **Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention** (Sequential + CL)
 
     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2404.03637.pdf), [[Code]](https://anonymous.4open.science/r/DT4IER-5837)
+
+90. **Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model** (Sequential + DA + CL)
+
+    RecSys 2023, [[PDF]](https://arxiv.org/pdf/2404.05342.pdf)
+
+91. **Leave No One Behind: Online Self-Supervised Self-Distillation for Sequential Recommendation** (Sequential + DA + CL)
+
+    WWW 2024, [[PDF]](https://arxiv.org/pdf/2404.07219.pdf), [[Code]](https://github.com/xjaw/S4Rec)
 
 
 ## Other Tasks with CL
