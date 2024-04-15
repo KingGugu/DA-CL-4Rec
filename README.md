@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 38
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 104
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 105
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 91
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 98
 
@@ -610,6 +610,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 104. **Stock Recommendations for Individual Investors: A Temporal Graph Network Approach with Diversification-Enhancing Contrastive Learning** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.07223.pdf), [[Code]](https://anonymous.4open.science/r/IJCAI2024-12F4)
+
+105. **LMACL: Improving Graph Collaborative Filtering with Learnable Model Augmentation Contrastive Learning** (Graph + CL)
+
+     TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3657302), [[Code]](https://github.com/LiuHsinx/LMACL)
 
 
 ## Sequential Models with CL
@@ -1369,6 +1373,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.20107.pdf), [[Code]](https://anonymous.4open.science/r/CUT_anonymous-9815)
 
-98. **Robust Federated Contrastive Recommender System against Model Poisoning Attack** (Multi Modal + CL)
+98. **Bridging Language and Items for Retrieval and Recommendation** (Multi Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.03952.pdf), [[Code]](https://github.com/hyp1231/AmazonReviews2023)
