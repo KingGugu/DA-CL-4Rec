@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 38
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 105
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 91
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 92
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 98
 
 
@@ -981,6 +981,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 91. **Leave No One Behind: Online Self-Supervised Self-Distillation for Sequential Recommendation** (Sequential + DA + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2404.07219.pdf), [[Code]](https://github.com/xjaw/S4Rec)
+
+92. **UniSAR: Modeling User Transition Behaviors between Search and Recommendation** (Sequential + CL)
+
+    SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2404.09520.pdf), [[Code]](https://github.com/TengShi-RUC/UniSAR)
 
 
 ## Other Tasks with CL
