@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 38
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 105
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 92
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 98
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 99
 
 
 ## Survey/Tutorial/Framework
@@ -191,6 +191,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 38. **TAU: Trajectory Data Augmentation with Uncertainty for Next POI Recommendation** (POI Rec + DA)
 
      AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/30265/32257)
+
+39. **Improving Long-Tail Item Recommendation with Graph Augmentation** (Graph + DA)
+
+     CIKM 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614929)
 
 
 ## Graph Models with CL
@@ -447,9 +451,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      PKDD 2023, [[PDF]](https://arxiv.org/pdf/2309.11177.pdf), [[Code]](https://github.com/im0qianqian/LAGCL)
 
-64. **uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering** (Graph + CL)
+64. **LMACL: Improving Graph Collaborative Filtering with Learnable Model Augmentation Contrastive Learning** (Graph + CL)
 
-     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.12768.pdf), [[Code]](https://github.com/Jaewoong-Lee/sigir_2023_uCTRL)
+    TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3657302), [[Code]](https://github.com/LiuHsinx/LMACL)
 
 65. **On the Sweet Spot of Contrastive Views for Knowledge-enhanced Recommendation** (Graph + CL)
 
@@ -611,9 +615,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.07223.pdf), [[Code]](https://anonymous.4open.science/r/IJCAI2024-12F4)
 
-105. **LMACL: Improving Graph Collaborative Filtering with Learnable Model Augmentation Contrastive Learning** (Graph + CL)
+105. **Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation** (Graph + CL)
 
-     TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3657302), [[Code]](https://github.com/LiuHsinx/LMACL)
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11519.pdf), [[Code]](https://github.com/JianhuaDongCS/Disen-CGCN)
 
 
 ## Sequential Models with CL
@@ -1317,7 +1321,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.04527.pdf)
 
-83. **RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation** (Counterfactual + CL)
+83. **CounterCLR: Counterfactual Contrastive Learning with Non-random Missing Data in Recommendation** (Counterfactual + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.05740.pdf)
 
@@ -1367,7 +1371,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 95. **Tail-STEAK: Improve Friend Recommendation for Tail Users via Self-Training Enhanced Knowledge Distillation** (Friend Rec + CL)
 
-     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28737/29421), [[Code]](https://github.com/antman9914/Tail-STEAK)
+     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/28737/29421), [[Code]](https://github.com/antman9914/Tail-STEAK)
 
 96. **Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation** (Cross-Domain + CL)
 
@@ -1380,3 +1384,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 98. **Bridging Language and Items for Retrieval and Recommendation** (Multi Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.03952.pdf), [[Code]](https://github.com/hyp1231/AmazonReviews2023)
+
+99. **DRepMRec: A Dual Representation Learning Framework for Multimodal Recommendation** (Multi Modal + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11119.pdf)
