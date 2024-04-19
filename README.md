@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 105
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 92
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 99
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 100
 
 
 ## Survey/Tutorial/Framework
@@ -1388,3 +1388,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 99. **DRepMRec: A Dual Representation Learning Framework for Multimodal Recommendation** (Multi Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11119.pdf)
+
+100. **Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation** (Multi Behavior + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11993.pdf)
