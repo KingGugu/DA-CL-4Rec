@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 105
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 92
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 100
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 108
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 93
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 103
 
 
 ## Survey/Tutorial/Framework
@@ -112,7 +112,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     TKDE 2022, [[PDF]](https://ieeexplore.ieee.org/abstract/document/9950302)
 
-19. **Data Augmented Sequential Recommendation based on Counterfactual Thinking** (CRT + DA)
+19. **Multi-Epoch Learning for Deep Click-Through Rate Prediction Models** (CRT + DA)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2305.19531.pdf)
 
@@ -619,6 +619,18 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11519.pdf), [[Code]](https://github.com/JianhuaDongCS/Disen-CGCN)
 
+106. **Enhanced Hierarchical Contrastive Learning for Recommendation** (Graph + CL)
+
+     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28761/29461)
+
+107. **How to Improve Representation Alignment and Uniformity in Graph-based Collaborative Filtering?** (Graph + CL)
+
+     AAAI 2024, [[PDF]](https://zyouyang.github.io/assets/publications/AUPlus.pdf), [[Code]](https://github.com/zyouyang/AUPlus)
+
+108. **PopDCL: Popularity-aware Debiased Contrastive Loss for Collaborative Filtering** (Graph + CL)
+
+     CIKM 2023, [[PDF]](https://www.researchgate.net/profile/Liu-Zhuang/publication/374907265_PopDCL_Popularity-aware_Debiased_Contrastive_Loss_for_Collaborative_Filtering/links/65dda61ce7670d36abe2b0eb/PopDCL-Popularity-aware-Debiased-Contrastive-Loss-for-Collaborative-Filtering.pdf)
+
 
 ## Sequential Models with CL
 
@@ -989,6 +1001,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 92. **UniSAR: Modeling User Transition Behaviors between Search and Recommendation** (Sequential + CL)
 
     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2404.09520.pdf), [[Code]](https://github.com/TengShi-RUC/UniSAR)
+
+93. **Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation** (Sequential + CL)
+
+    arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.13878.pdf), [[Code]](https://github.com/lalunex/MSDCCL/tree/main)
 
 
 ## Other Tasks with CL
@@ -1392,3 +1408,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 100. **Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation** (Multi Behavior + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11993.pdf)
+
+101. **General Item Representation Learning for Cold-start Content Recommendations** (Cold Start + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.13808.pdf)
+
+102. **MARec: Metadata Alignment for Cold-start Recommendation** (Cold Start + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.13298.pdf)
+
+103. **Contrastive Quantization based Semantic Code for Generative Recommendation** (Generative Rec + CL)
+
+      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2404.14774.pdf)
