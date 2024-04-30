@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 108
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 93
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 103
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 94
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 104
 
 
 ## Survey/Tutorial/Framework
@@ -1006,6 +1006,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.13878.pdf), [[Code]](https://github.com/lalunex/MSDCCL/tree/main)
 
+94. **Contrastive Learning Method for Sequential Recommendation based on Multi-Intention Disentanglement** (Sequential + CL)
+
+    arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.18214)
+
 
 ## Other Tasks with CL
 
@@ -1420,3 +1424,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 103. **Contrastive Quantization based Semantic Code for Generative Recommendation** (Generative Rec + CL)
 
       CIKM 2023, [[PDF]](https://arxiv.org/pdf/2404.14774.pdf)
+
+104. **Retrieval-Oriented Knowledge for Click-Through Rate Prediction** (CTR + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.18304)
