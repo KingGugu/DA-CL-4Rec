@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 108
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 110
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 94
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 104
 
@@ -630,6 +630,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 108. **PopDCL: Popularity-aware Debiased Contrastive Loss for Collaborative Filtering** (Graph + CL)
 
      CIKM 2023, [[PDF]](https://www.researchgate.net/profile/Liu-Zhuang/publication/374907265_PopDCL_Popularity-aware_Debiased_Contrastive_Loss_for_Collaborative_Filtering/links/65dda61ce7670d36abe2b0eb/PopDCL-Popularity-aware-Debiased-Contrastive-Loss-for-Collaborative-Filtering.pdf)
+
+109. **Improving Graph Collaborative Filtering with Directional Behavior Enhanced Contrastive Learning** (Graph + CL)
+
+     TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3663574)
+
+110. **Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.00287)
 
 
 ## Sequential Models with CL
