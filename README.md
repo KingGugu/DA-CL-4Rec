@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 110
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 94
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 96
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 104
 
 
@@ -1017,6 +1017,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 94. **Contrastive Learning Method for Sequential Recommendation based on Multi-Intention Disentanglement** (Sequential + CL)
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.18214)
+
+95. **CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation** (Sequential + LLM + CL)
+
+    arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.02429)
+
+96. **ID-centric Pre-training for Recommendation** (Sequential + CL)
+
+    arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.03562)
 
 
 ## Other Tasks with CL
