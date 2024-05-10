@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 110
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 111
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 96
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 104
 
@@ -638,6 +638,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 110. **Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.00287)
+
+111. **Learning Social Graph for Inactive User Recommendation** (Graph + CL)
+
+     DASFAA 2024, [[PDF]](https://arxiv.org/pdf/2405.05288), [[Code]](https://github.com/liun-online/LSIR)
 
 
 ## Sequential Models with CL
