@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 111
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 96
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 104
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 105
 
 
 ## Survey/Tutorial/Framework
@@ -1448,3 +1448,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 104. **Retrieval-Oriented Knowledge for Click-Through Rate Prediction** (CTR + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.18304)
+
+105. **Denoising Long-and Short-term Interests for Sequential Recommendation** (Session + DA + CL)
+
+      SDM 2024, [[PDF]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611978032.63), [[Code]](https://github.com/zxyllq/LSIDN)
