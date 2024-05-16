@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 111
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 96
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 106
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 112
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 97
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 107
 
 
 ## Survey/Tutorial/Framework
@@ -643,6 +643,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      DASFAA 2024, [[PDF]](https://arxiv.org/pdf/2405.05288), [[Code]](https://github.com/liun-online/LSIR)
 
+112. **Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering** (Graph + CL)
+
+     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.09042), [[Code]](https://github.com/BlueGhostYi/BIGCF)
+
 
 ## Sequential Models with CL
 
@@ -1029,6 +1033,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 96. **ID-centric Pre-training for Recommendation** (Sequential + CL)
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.03562)
+
+97. **Diffusion-based Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+    arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.09369)
 
 
 ## Other Tasks with CL
@@ -1456,3 +1464,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 106. **Learnable Tokenizer for LLM-based Generative Recommendation** (Gen Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.07314)
+
+107. **MVBIND: Self-Supervised Music Recommendation For Videos Via Embedding Space Binding** (Music Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.09286)
