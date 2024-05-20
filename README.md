@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 112
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 97
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 107
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 98
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 109
 
 
 ## Survey/Tutorial/Framework
@@ -1038,6 +1038,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.09369)
 
+98. **Soft Contrastive Sequential Recommendation** (Sequential + DA + CL)
+
+    TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3665325)
+
 
 ## Other Tasks with CL
 
@@ -1468,3 +1472,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 107. **MVBIND: Self-Supervised Music Recommendation For Videos Via Embedding Space Binding** (Music Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.09286)
+
+108. **CELA: Cost-Efficient Language Model Alignment for CTR Prediction** (LLM + CTR + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.10596)
+
+109. **A Unified Search and Recommendation Framework Based on Multi-Scenario Learning for Ranking in E-commerce** (Search & Rec + CL)
+
+      SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.10835)
