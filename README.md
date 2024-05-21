@@ -5,10 +5,10 @@ Comments and contributions are welcome.
 
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
-- [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 6
+- [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 112
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 98
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 99
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 109
 
 
@@ -35,7 +35,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 6. **A Comprehensive Survey on Self-Supervised Learning for Recommendation** (Survey)
    
-   arXive 2024, [[PDF]](https://arxiv.org/pdf/2404.03354.pdf), [[Code]](https://github.com/HKUDS/Awesome-SSLRec-Papers)
+   arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.03354.pdf), [[Code]](https://github.com/HKUDS/Awesome-SSLRec-Papers)
+
+7. **Towards Graph Contrastive Learning: A Survey and Beyond** (Survey)
+   
+   arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.11868)
 
 
 ## Only Data Augmentation
@@ -1041,6 +1045,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 98. **Soft Contrastive Sequential Recommendation** (Sequential + DA + CL)
 
     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3665325)
+
+99. **Modeling User Fatigue for Sequential Recommendation** (Sequential + CL)
+
+    SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.11764), [[Code]](https://github.com/tsinghua-fib-lab/SIGIR24-FRec)
 
 
 ## Other Tasks with CL
