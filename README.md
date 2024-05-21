@@ -6,9 +6,9 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 39
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 112
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 99
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 40
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 113
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 100
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 109
 
 
@@ -199,6 +199,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 39. **Improving Long-Tail Item Recommendation with Graph Augmentation** (Graph + DA)
 
      CIKM 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614929)
+
+40. **Improving Long-Tail Item Recommendation with Graph Augmentation** (Coupon Rec + DA)
+
+     WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648306)
 
 
 ## Graph Models with CL
@@ -651,6 +655,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.09042), [[Code]](https://github.com/BlueGhostYi/BIGCF)
 
+113. **Graph Contrastive Learning with Kernel Dependence Maximization for Social Recommendation** (Graph + CL)
+
+     WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645412)
+
 
 ## Sequential Models with CL
 
@@ -996,7 +1004,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 86. **Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation** (Sequential + CL)
 
-    WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.17603.pdf)
+    WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.17603.pdf), [[Code]](https://github.com/huschbsd/END4REC)
 
 87. **Temporal Graph Contrastive Learning for Sequential Recommendation** (Sequential + Graph + CL)
 
@@ -1049,6 +1057,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 99. **Modeling User Fatigue for Sequential Recommendation** (Sequential + CL)
 
     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.11764), [[Code]](https://github.com/tsinghua-fib-lab/SIGIR24-FRec)
+
+100. **Aligned Side Information Fusion Method for Sequential Recommendation** (Sequential + CL)
+
+     WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648308)
 
 
 ## Other Tasks with CL
