@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 40
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 113
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 100
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 109
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 101
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 110
 
 
 ## Survey/Tutorial/Framework
@@ -1062,6 +1062,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648308)
 
+101. **Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation** (Sequential + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.12473), [[Code]](https://anonymous.4open.science/r/KDD2024-58E8/)
+
 
 ## Other Tasks with CL
 
@@ -1261,7 +1265,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2306.14392.pdf)
 
-50. **ContentCTR: Frame-level Live Streaming Click-Through Rate Prediction with Multimodal Transformer** (CVR + CL)
+50. **Contrastive Learning for Conversion Rate Prediction** (CVR + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2307.05974.pdf), [[Code]](https://github.com/DongRuiHust/CL4CVR)
 
@@ -1500,3 +1504,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 109. **A Unified Search and Recommendation Framework Based on Multi-Scenario Learning for Ranking in E-commerce** (Search & Rec + CL)
 
       SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.10835)
+
+110. **Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation** (Concept Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.12442)
