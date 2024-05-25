@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 40
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 113
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 114
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 101
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 110
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 111
 
 
 ## Survey/Tutorial/Framework
@@ -658,6 +658,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 113. **Graph Contrastive Learning with Kernel Dependence Maximization for Social Recommendation** (Graph + CL)
 
      WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645412)
+
+114. **MvStHgL: Multi-view Hypergraph Learning with Spatial-temporal Periodic Interests for Next POI Recommendation** (Graph + POI Rec + CL)
+
+     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3664651)
 
 
 ## Sequential Models with CL
@@ -1508,3 +1512,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 110. **Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation** (Concept Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.12442)
+
+111. **Bilateral Multi-Behavior Modeling for Reciprocal Recommendation in Online Recruitment** (Job Rec + CL)
+
+      TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10521826/)
