@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 40
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 114
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 101
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 111
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 112
 
 
 ## Survey/Tutorial/Framework
@@ -1516,3 +1516,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 111. **Bilateral Multi-Behavior Modeling for Reciprocal Recommendation in Online Recruitment** (Job Rec + CL)
 
       TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10521826/)
+
+112. **Multi-Modal Recommendation Unlearning** (Rec Unlearning+ CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.15328)
