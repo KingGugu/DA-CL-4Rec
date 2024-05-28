@@ -1177,7 +1177,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2301.11467.pdf), [[Code]](https://github/anonymous/COAST)
     
-27. **Multi-Modal Self-Supervised Learning for Recommendation** (Multi Modal Rec + CL)
+27. **Multi-Modal Self-Supervised Learning for Recommendation** (Multi-Modal Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.10632.pdf), [[Code]](https://github.com/HKUDS/MMSSL)
     
@@ -1189,7 +1189,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2204.11091.pdf), [[Code]](https://github.com/xiaxin1998/OD-Rec)
 
-30. **Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation** (Multi Modal Rec + CL)
+30. **Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation** (Multi-Modal Rec + CL)
 
      WWW 2022, [[PDF]](https://web.archive.org/web/20220428140054id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512079), [[Code]](https://github.com/hantengyue/PAMD)
 
@@ -1197,7 +1197,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2023, [[PDF]](https://arxiv.org/abs/2303.12507)
 
-32. **Bootstrap Latent Representations for Multi-modal Recommendation** (Multi Modal Rec + CL)
+32. **Bootstrap Latent Representations for Multi-modal Recommendation** (Multi-Modal Rec + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/abs/2207.05969), [[Code]](https://github.com/enoche/BM3)
 
@@ -1237,7 +1237,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     ICME 2023, [[PDF]](https://arxiv.org/pdf/2304.07506.pdf)
 
-42. **Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation** (Multi Modal + CL)
+42. **Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation** (Multi-Modal + CL)
 
     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.11979.pdf)
 
@@ -1297,7 +1297,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.08446.pdf)
 
-57. **MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation** (Multi Modal + CL)
+57. **MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation** (Multi-Modal + CL)
 
      MM 2023, [[PDF]](https://arxiv.org/pdf/2308.11175.pdf), [[Code]](https://github.com/gimpong/MM23-MISSRec)
 
@@ -1377,11 +1377,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      AAAI 2024, [[PDF]](https://arxiv.org/pdf/2312.06683.pdf)
 
-77. **Attribute-driven Disentangled Representation Learning for Multimodal Recommendation** (Multi Modal + CL)
+77. **Attribute-driven Disentangled Representation Learning for Multimodal Recommendation** (Multi-Modal + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.14433.pdf)
 
-78. **TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation** (Multi Modal + CL)
+78. **TopicVAE: Topic-aware Disentanglement Representation Learning for Enhanced Recommendation** (Multi-Modal + CL)
 
      MM 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548294), [[Code]](https://github.com/georgeguo-cn/TopicVAE)
 
@@ -1413,7 +1413,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.08256.pdf)
 
-86. **MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation** (Multi Modal + CL)
+86. **MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation** (Multi-Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.19407.pdf), [[Code]](https://github.com/Jinfeng-Xu/MENTOR)
 
@@ -1429,7 +1429,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.10049.pdf)
 
-90. **An Aligning and Training Framework for Multimodal Recommendations** (Multi Modal + CL)
+90. **An Aligning and Training Framework for Multimodal Recommendations** (Multi-Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.12384.pdf)
 
@@ -1461,11 +1461,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.20107.pdf), [[Code]](https://anonymous.4open.science/r/CUT_anonymous-9815)
 
-98. **Bridging Language and Items for Retrieval and Recommendation** (Multi Modal + CL)
+98. **Bridging Language and Items for Retrieval and Recommendation** (Multi-Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.03952.pdf), [[Code]](https://github.com/hyp1231/AmazonReviews2023)
 
-99. **DRepMRec: A Dual Representation Learning Framework for Multimodal Recommendation** (Multi Modal + CL)
+99. **DRepMRec: A Dual Representation Learning Framework for Multimodal Recommendation** (Multi-Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11119.pdf)
 
@@ -1517,6 +1517,18 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
       TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10521826/)
 
-112. **Multi-Modal Recommendation Unlearning** (Rec Unlearning+ CL)
+112. **Multi-Modal Recommendation Unlearning** (Rec Unlearning + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.15328)
+
+113. **Your decision path does matter in pre-training industrial recommenders with multi-source behaviors** (Cross-Domain + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.17132)
+
+114. **NoteLLM-2: Multimodal Large Representation Models for Recommendation** (Multi-Modal + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.16789)
+
+115. **Multimodality Invariant Learning for Multimedia-Based New Item Recommendation** (Multi-Modal + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.15783)
