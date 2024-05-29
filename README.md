@@ -6,8 +6,8 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 40
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 114
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 41
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 115
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 101
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 112
 
@@ -203,6 +203,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 40. **Improving Long-Tail Item Recommendation with Graph Augmentation** (Coupon Rec + DA)
 
      WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648306)
+
+41. **Dataset Regeneration for Sequential Recommendation** (Sequential + DA)
+
+     KDD 2024, [[PDF]](https://arxiv.org/pdf/2405.17795), [[Code]](https://anonymous.4open.science/r/KDD2024-86EA/)
 
 
 ## Graph Models with CL
@@ -662,6 +666,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 114. **MvStHgL: Multi-view Hypergraph Learning with Spatial-temporal Periodic Interests for Next POI Recommendation** (Graph + POI Rec + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3664651)
+
+115. **A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation** (Graph + + CL)
+
+     ECML-PKDD 2023, [[PDF]](https://arxiv.org/pdf/2405.18260), [[Code]](https://github.com/laiweijiang/VAGNN)
 
 
 ## Sequential Models with CL
@@ -1531,4 +1539,4 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 115. **Multimodality Invariant Learning for Multimedia-Based New Item Recommendation** (Multi-Modal + CL)
 
-      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.15783)
+      SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.15783), [[Code]](https://github.com/HaoyueBai98/MILK)
