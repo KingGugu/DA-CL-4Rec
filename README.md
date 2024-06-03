@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 41
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 115
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 101
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 112
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 116
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 102
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 117
 
 
 ## Survey/Tutorial/Framework
@@ -667,9 +667,13 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3664651)
 
-115. **A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation** (Graph + + CL)
+115. **A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation** (Graph + CL)
 
      ECML-PKDD 2023, [[PDF]](https://arxiv.org/pdf/2405.18260), [[Code]](https://github.com/laiweijiang/VAGNN)
+
+116. **Knowledge Enhanced Multi-intent Transformer Network for Recommendation** (Graph + CL)
+
+     WWW 2024, [[PDF]](https://arxiv.org/pdf/2405.20565), [[Code]](https://github.com/CCIIPLab/KGTN)
 
 
 ## Sequential Models with CL
@@ -1077,6 +1081,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 101. **Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation** (Sequential + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.12473), [[Code]](https://anonymous.4open.science/r/KDD2024-58E8/)
+
+102. **SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation** (Sequential + Graph + CL)
+
+     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.20878), [[Code]](https://github.com/HKUDS/SelfGNN)
 
 
 ## Other Tasks with CL
@@ -1540,3 +1548,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 115. **Multimodality Invariant Learning for Multimedia-Based New Item Recommendation** (Multi-Modal + CL)
 
       SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.15783), [[Code]](https://github.com/HaoyueBai98/MILK)
+
+116. **Cross-Domain LifeLong Sequential Modeling for Online Click-Through Rate Prediction** (CTR + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2312.06424)
+
+116. **Medication Recommendation via Dual Molecular Modalities and Multi-Substructure Distillation** (Med Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.20358)
