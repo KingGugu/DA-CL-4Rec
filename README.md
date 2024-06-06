@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 41
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 116
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 102
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 117
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 118
 
 
 ## Survey/Tutorial/Framework
@@ -1086,6 +1086,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.20878), [[Code]](https://github.com/HKUDS/SelfGNN)
 
+103. **Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation** (Sequential + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.03085), [[Code]](https://github.com/TingJShen/URLLM)
+
 
 ## Other Tasks with CL
 
@@ -1553,6 +1557,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2312.06424)
 
-116. **Medication Recommendation via Dual Molecular Modalities and Multi-Substructure Distillation** (Med Rec + CL)
+117. **Medication Recommendation via Dual Molecular Modalities and Multi-Substructure Distillation** (Med Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.20358)
+
+118. **Item-Language Model for Conversational Recommendation** (Conversational Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.02844)
