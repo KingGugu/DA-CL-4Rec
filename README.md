@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 41
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 116
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 117
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 118
 
@@ -674,6 +674,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 116. **Knowledge Enhanced Multi-intent Transformer Network for Recommendation** (Graph + CL)
 
      WWW 2024, [[PDF]](https://arxiv.org/pdf/2405.20565), [[Code]](https://github.com/CCIIPLab/KGTN)
+
+117. **QAGCF: Graph Collaborative Filtering for Q&A Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.04828)
 
 
 ## Sequential Models with CL
