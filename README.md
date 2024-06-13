@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 41
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 117
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 118
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 119
 
 
 ## Survey/Tutorial/Framework
@@ -207,6 +207,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 41. **Dataset Regeneration for Sequential Recommendation** (Sequential + DA)
 
      KDD 2024, [[PDF]](https://arxiv.org/pdf/2405.17795), [[Code]](https://anonymous.4open.science/r/KDD2024-86EA/)
+
+42. **Counterfactual Data Augmentation for Debiased Coupon Recommendations Based on Potential Knowledge** (DA)
+
+     WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648306)
 
 
 ## Graph Models with CL
@@ -977,122 +981,122 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 74. **Feature-Aware Contrastive Learning with Bidirectional Transformers for Sequential Recommendation** (Sequential + CL)
 
     TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10375742/)
-    
-75. **LinkFND: Simple Framework for False Negative Detection in Recommendation Tasks with Graph Contrastive Learning** (Sequential + Graph + CL)
 
-    Access 2023, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10368024)
-
-76. **End-to-end Learnable Clustering for Intent Learning in Recommendation** (Sequential + CL)
+75. **End-to-end Learnable Clustering for Intent Learning in Recommendation** (Sequential + CL)
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2401.05975.pdf)
     
-77. **Contrastive Learning with Frequency-Domain Interest Trends for Sequential Recommendation** (Sequential + DA + CL)
+76. **Contrastive Learning with Frequency-Domain Interest Trends for Sequential Recommendation** (Sequential + DA + CL)
 
     RecSys 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608790), [[Code]](https://github.com/zhangyichi1Z/CFIT4SRec)
 
-78. **Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention** (Sequential + CL)
+77. **Sequential Recommendation on Temporal Proximities with Contrastive Learning and Self-Attention** (Sequential + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2402.09784.pdf), [[Code]](https://github.com/TemProxRec)
 
-79. **End-to-end Graph-Sequential Representation Learning for Accurate Recommendations** (Sequential + Graph + CL)
+78. **End-to-end Graph-Sequential Representation Learning for Accurate Recommendations** (Sequential + Graph + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.00895.pdf), [[Code]](https://github.com/NonameUntitled/MRGSRec)
 
-80. **Multi-Sequence Attentive User Representation Learning for Side-information Integrated Sequential Recommendation** (Sequential + CL)
+79. **Multi-Sequence Attentive User Representation Learning for Side-information Integrated Sequential Recommendation** (Sequential + CL)
 
     WSDM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3616855.3635815), [[Code]](https://github.com/xiaolLIN/MSSR)
 
-81. **Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness** (Sequential + CL)
+80. **Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness** (Sequential + CL)
 
     arxiv 2024, [[PDF]](https://arxiv.org/pdf/2403.07623.pdf)
 
-82. **Collaborative Sequential Recommendations via Multi-View GNN-Transformers** (Sequential + Graph + CL)
+81. **Collaborative Sequential Recommendations via Multi-View GNN-Transformers** (Sequential + Graph + CL)
 
     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3649436)
 
-83. **Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation** (Sequential + DA + CL)
+82. **Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation** (Sequential + DA + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.11136.pdf), [[Code]](https://github.com/AIM-SE/DA4Rec)
 
-84. **Diversifying Sequential Recommendation with Retrospective and Prospective Transformers** (Sequential + CL)
+83. **Diversifying Sequential Recommendation with Retrospective and Prospective Transformers** (Sequential + CL)
 
     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3653016), [[Code]](https://github.com/chaoyushi/TRIER)
 
-85. **A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation** (Sequential + CL)
+84. **A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation** (Sequential + CL)
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.13574.pdf), [[Code]](https://github.com/RUCAIBox/LSVCR/)
 
-86. **Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation** (Sequential + CL)
+85. **Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation** (Sequential + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2403.17603.pdf), [[Code]](https://github.com/huschbsd/END4REC)
 
-87. **Temporal Graph Contrastive Learning for Sequential Recommendation** (Sequential + Graph + CL)
+86. **Temporal Graph Contrastive Learning for Sequential Recommendation** (Sequential + Graph + CL)
 
     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28789/29511)
 
-88. **Sparse Enhanced Network: An Adversarial Generation Method for Robust Augmentation in Sequential Recommendation** (Sequential + DA + CL)
+87. **Sparse Enhanced Network: An Adversarial Generation Method for Robust Augmentation in Sequential Recommendation** (Sequential + DA + CL)
 
     AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28669/29299), [[Code]](https://github.com/junyachen/SparseEnNet)
 
-89. **Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention** (Sequential + CL)
+88. **Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention** (Sequential + CL)
 
     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2404.03637.pdf), [[Code]](https://anonymous.4open.science/r/DT4IER-5837)
 
-90. **Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model** (Sequential + DA + CL)
+89. **Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model** (Sequential + DA + CL)
 
     RecSys 2023, [[PDF]](https://arxiv.org/pdf/2404.05342.pdf)
 
-91. **Leave No One Behind: Online Self-Supervised Self-Distillation for Sequential Recommendation** (Sequential + DA + CL)
+90. **Leave No One Behind: Online Self-Supervised Self-Distillation for Sequential Recommendation** (Sequential + DA + CL)
 
     WWW 2024, [[PDF]](https://arxiv.org/pdf/2404.07219.pdf), [[Code]](https://github.com/xjaw/S4Rec)
 
-92. **UniSAR: Modeling User Transition Behaviors between Search and Recommendation** (Sequential + CL)
+91. **UniSAR: Modeling User Transition Behaviors between Search and Recommendation** (Sequential + CL)
 
     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2404.09520.pdf), [[Code]](https://github.com/TengShi-RUC/UniSAR)
 
-93. **Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation** (Sequential + CL)
+92. **Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation** (Sequential + CL)
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.13878.pdf), [[Code]](https://github.com/lalunex/MSDCCL/tree/main)
 
-94. **Contrastive Learning Method for Sequential Recommendation based on Multi-Intention Disentanglement** (Sequential + CL)
+93. **Contrastive Learning Method for Sequential Recommendation based on Multi-Intention Disentanglement** (Sequential + CL)
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.18214)
 
-95. **CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation** (Sequential + LLM + CL)
+94. **CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation** (Sequential + LLM + CL)
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.02429)
 
-96. **ID-centric Pre-training for Recommendation** (Sequential + CL)
+95. **ID-centric Pre-training for Recommendation** (Sequential + CL)
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.03562)
 
-97. **Diffusion-based Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+96. **Diffusion-based Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.09369)
 
-98. **Soft Contrastive Sequential Recommendation** (Sequential + DA + CL)
+97. **Soft Contrastive Sequential Recommendation** (Sequential + DA + CL)
 
     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3665325)
 
-99. **Modeling User Fatigue for Sequential Recommendation** (Sequential + CL)
+98. **Modeling User Fatigue for Sequential Recommendation** (Sequential + CL)
 
     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.11764), [[Code]](https://github.com/tsinghua-fib-lab/SIGIR24-FRec)
 
-100. **Aligned Side Information Fusion Method for Sequential Recommendation** (Sequential + CL)
+99. **Aligned Side Information Fusion Method for Sequential Recommendation** (Sequential + CL)
 
-     WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648308)
+    WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648308)
 
-101. **Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation** (Sequential + CL)
+100. **Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation** (Sequential + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.12473), [[Code]](https://anonymous.4open.science/r/KDD2024-58E8/)
 
-102. **SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation** (Sequential + Graph + CL)
+101. **SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation** (Sequential + Graph + CL)
 
      SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.20878), [[Code]](https://github.com/HKUDS/SelfGNN)
 
-103. **Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation** (Sequential + CL)
+102. **Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation** (Sequential + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.03085), [[Code]](https://github.com/TingJShen/URLLM)
+
+103. **PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System** (Sequential + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.05387)
 
 
 ## Other Tasks with CL
@@ -1568,3 +1572,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 118. **Item-Language Model for Conversational Recommendation** (Conversational Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.02844)
+
+119. **Boosting Multimedia Recommendation via Separate Generic and Unique Awareness** (Multi-Modal + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.08270), [[Code]](https://github.com/bruno686/SAND)
