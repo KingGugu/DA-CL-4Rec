@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 117
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 119
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 121
 
 
 ## Survey/Tutorial/Framework
@@ -1576,3 +1576,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 119. **Boosting Multimedia Recommendation via Separate Generic and Unique Awareness** (Multi-Modal + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.08270), [[Code]](https://github.com/bruno686/SAND)
+
+120. **Contextual Distillation Model for Diversified Recommendation** (Diversified Rec + CL)
+
+      KDD 2024, [[PDF]](https://arxiv.org/pdf/2406.09021)
+
+121. **DiffMM: Multi-Modal Diffusion Model for Recommendation** (Multi-Modal + DA + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.11781), [[Code]](https://github.com/HKUDS/DiffMM)
