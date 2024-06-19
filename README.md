@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 117
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 118
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 121
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 122
 
 
 ## Survey/Tutorial/Framework
@@ -682,6 +682,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 117. **QAGCF: Graph Collaborative Filtering for Q&A Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.04828)
+
+118. **Balancing Embedding Spectrum for Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.12032), [[Code]](https://github.com/tanatosuu/directspec)
 
 
 ## Sequential Models with CL
@@ -1584,3 +1588,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 121. **DiffMM: Multi-Modal Diffusion Model for Recommendation** (Multi-Modal + DA + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.11781), [[Code]](https://github.com/HKUDS/DiffMM)
+
+122. **Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback** (Multi-Modal + CL)
+
+      KDD 2024, [[PDF]](https://arxiv.org/pdf/2406.12501), [[Code]](https://github.com/XMUDM/DA-MRS)
