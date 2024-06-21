@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 118
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 122
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 123
 
 
 ## Survey/Tutorial/Framework
@@ -1592,3 +1592,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 122. **Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback** (Multi-Modal + CL)
 
       KDD 2024, [[PDF]](https://arxiv.org/pdf/2406.12501), [[Code]](https://github.com/XMUDM/DA-MRS)
+
+123. **EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration** (Gen Rec + CL)
+
+      KDD 2024, [[PDF]](https://arxiv.org/pdf/2406.14017)
+
+124. **Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning** (LLM Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.13235),
