@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 118
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 124
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 125
 
 
 ## Survey/Tutorial/Framework
@@ -1599,4 +1599,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 124. **Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning** (LLM Rec + CL)
 
-      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.13235),
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.13235)
+
+125. **Hyperbolic Knowledge Transfer in Cross-Domain Recommendation System** (Cross-Domain + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.17289)
