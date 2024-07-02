@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 118
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 119
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 125
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 129
 
 
 ## Survey/Tutorial/Framework
@@ -686,6 +686,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 118. **Balancing Embedding Spectrum for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.12032), [[Code]](https://github.com/tanatosuu/directspec)
+
+119. **Meta Graph Learning for Long-tail Recommendation** (Graph + CL)
+
+     KDD 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599428), [[Code]](https://github.com/weicy15/MGL)
 
 
 ## Sequential Models with CL
@@ -1604,3 +1608,19 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 125. **Hyperbolic Knowledge Transfer in Cross-Domain Recommendation System** (Cross-Domain + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.17289)
+
+126. **MMBee: Live Streaming Gift-Sending Recommendations via Multi-Modal Fusion and Behaviour Expansion** (Gift-Sending Rec + CL)
+
+      KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.00056)
+
+127. **Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning** (Job Rec + CL)
+
+      KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.00082)
+
+128. **Personalised Outfit Recommendation via History-aware Transformers** (Outfit Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.00289)
+
+129. **Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation** (Search & Rec + CL)
+
+      KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.00912), [[Code]](https://github.com/17231087/UDITSR)
