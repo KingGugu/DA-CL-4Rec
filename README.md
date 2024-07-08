@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 119
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 120
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 129
 
@@ -690,6 +690,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 119. **Meta Graph Learning for Long-tail Recommendation** (Graph + CL)
 
      KDD 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599428), [[Code]](https://github.com/weicy15/MGL)
+
+120. **Heterogeneous Hypergraph Embedding for Recommendation Systems** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.03665), [[Code]](https://github.com/viethungvu1998/KHGRec)
 
 
 ## Sequential Models with CL
