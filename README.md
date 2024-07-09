@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 120
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 121
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 129
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 130
 
 
 ## Survey/Tutorial/Framework
@@ -695,6 +695,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.03665), [[Code]](https://github.com/viethungvu1998/KHGRec)
 
+121. **Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations** (Graph + CL)
+
+     KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.05126), [[Code]](https://github.com/foodfaust/CDR)
+
 
 ## Sequential Models with CL
 
@@ -1086,7 +1090,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3665325)
 
-98. **Modeling User Fatigue for Sequential Recommendation** (Sequential + CL)
+98. **Modeling User Fatigue for Sequential Recommendation** (Sequential + DA + CL)
 
     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.11764), [[Code]](https://github.com/tsinghua-fib-lab/SIGIR24-FRec)
 
@@ -1628,3 +1632,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 129. **Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation** (Search & Rec + CL)
 
       KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.00912), [[Code]](https://github.com/17231087/UDITSR)
+
+130. **Language Models Encode Collaborative Signals in Recommendation** (LLM + Graph + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.05441), [[Code]](https://github.com/LehengTHU/AlphaRec)
