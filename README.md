@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 121
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 103
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 123
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 104
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 130
 
 
@@ -166,7 +166,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 31. **Large Language Models as Data Augmenters for Cold-Start Item Recommendation** (DA)
 
-     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.11724.pdf)
+     WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3651532)
 
 32. **SSDRec: Self-Augmented Sequence Denoising for Sequential Recommendation** (Sequential + DA)
 
@@ -699,6 +699,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.05126), [[Code]](https://github.com/foodfaust/CDR)
 
+122. **Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning** (Graph + CL)
+
+     KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.10184), [[Code]](https://cl4rec.github.io/RGCL/)
+
+123. **Graph Augmentation Empowered Contrastive Learning for Recommendation** (Graph + DA + CL)
+
+     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3677377)
+
 
 ## Sequential Models with CL
 
@@ -1113,6 +1121,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 103. **PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System** (Sequential + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.05387)
+
+104. **Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation** (Sequential + CL)
+
+     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2407.11245), [[Code]](https://github.com/cpark88/SyNCRec)
 
 
 ## Other Tasks with CL
