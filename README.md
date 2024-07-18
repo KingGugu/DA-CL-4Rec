@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 42
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 123
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 104
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 130
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 131
 
 
 ## Survey/Tutorial/Framework
@@ -1648,3 +1648,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 130. **Language Models Encode Collaborative Signals in Recommendation** (LLM + Graph + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.05441), [[Code]](https://github.com/LehengTHU/AlphaRec)
+
+131. **GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation** (Multi-Modal + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.12338), [[Code]](https://github.com/NanGongNingYi/GUME)
