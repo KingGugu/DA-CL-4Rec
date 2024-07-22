@@ -6,9 +6,9 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 43
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 45
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 123
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 105
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 106
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 131
 
 
@@ -215,6 +215,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 43. **A Generic Behavior-Aware Data Augmentation Framework for Sequential Recommendation** (Sequential + DA)
 
      SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657682), [[Code]](https://github.com/XiaoJing-C/MBASR)
+
+44. **Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation** (Cross-Domain + DA)
+
+     SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657902), [[Code]](https://github.com/Double680/CrossAug)
+
+45. **SCM4SR: Structural Causal Model-based Data Augmentation for Robust Session-based Recommendation** (Session Rec + DA)
+
+     SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657940)
 
 
 ## Graph Models with CL
@@ -1133,6 +1141,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 105. **Scaling Sequential Recommendation Models with Transformers** (Sequential + CL)
 
      SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657816), [[Code]](https://github.com/mercadolibre/srt)
+
+106. **CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation** (Sequential + CL)
+
+     SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657839)
 
 
 ## Other Tasks with CL
