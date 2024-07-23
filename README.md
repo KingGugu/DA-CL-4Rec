@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 45
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 123
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 125
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 106
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 131
 
@@ -713,11 +713,19 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 122. **Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning** (Graph + CL)
 
-     KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.10184), [[Code]](https://cl4rec.github.io/RGCL/)
+     KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.10184), [[Code]](https://cl4rec.github.io/RGCL)
 
 123. **Graph Augmentation Empowered Contrastive Learning for Recommendation** (Graph + DA + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3677377)
+
+124. **L2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for Graph Collaborative Filtering** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.14266), [[Code]](https://github.com/downeykking/L2CL)
+
+125. **RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation** (Graph + CL)
+
+     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3679200), [[Code]](https://github.com/THUDM/Reviewer-Rec)
 
 
 ## Sequential Models with CL
