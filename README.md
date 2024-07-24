@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 45
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 46
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 125
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 106
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 131
@@ -223,6 +223,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 45. **SCM4SR: Structural Causal Model-based Data Augmentation for Robust Session-based Recommendation** (Session Rec + DA)
 
      SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657940)
+
+46. **GenRec: A Flexible Data Generator for Recommendations** (DA)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.16594), [[Code]](https://anonymous.4open.science/r/GenRec-DED3)
 
 
 ## Graph Models with CL
