@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 46
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 125
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 126
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 106
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 131
 
@@ -730,6 +730,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 125. **RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation** (Graph + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3679200), [[Code]](https://github.com/THUDM/Reviewer-Rec)
+
+126. **Intent-Guided Heterogeneous Graph Contrastive Learning for Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.17234), [[Code]](https://github.com/wangyu0627/IHGCL)
 
 
 ## Sequential Models with CL
@@ -1643,7 +1647,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 121. **DiffMM: Multi-Modal Diffusion Model for Recommendation** (Multi-Modal + DA + CL)
 
-      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.11781), [[Code]](https://github.com/HKUDS/DiffMM)
+      MM 2024, [[PDF]](https://arxiv.org/pdf/2406.11781), [[Code]](https://github.com/HKUDS/DiffMM)
 
 122. **Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback** (Multi-Modal + CL)
 
