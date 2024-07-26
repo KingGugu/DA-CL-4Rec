@@ -6,8 +6,8 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 46
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 126
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 47
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 127
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 106
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 131
 
@@ -227,6 +227,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 46. **GenRec: A Flexible Data Generator for Recommendations** (DA)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.16594), [[Code]](https://anonymous.4open.science/r/GenRec-DED3)
+
+47. **Sample Enrichment via Temporary Operations on Subsequences for Sequential Recommendation** (Sequential + DA)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.17802), [[Code]](https://anonymous.4open.science/r/SETO-code-A026/)
 
 
 ## Graph Models with CL
@@ -734,6 +738,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 126. **Intent-Guided Heterogeneous Graph Contrastive Learning for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.17234), [[Code]](https://github.com/wangyu0627/IHGCL)
+
+127. **Your Graph Recommender is Provably a Single-view Graph Contrastive Learning** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.17723)
 
 
 ## Sequential Models with CL
