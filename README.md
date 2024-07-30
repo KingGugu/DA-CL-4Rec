@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 47
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 127
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 128
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 106
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 131
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 132
 
 
 ## Survey/Tutorial/Framework
@@ -182,7 +182,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 35. **Repeated Padding as Data Augmentation for Sequential Recommendation** (Sequential + DA)
 
-     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.06372.pdf)
+     RecSys 2024, [[PDF]](https://arxiv.org/pdf/2403.06372.pdf), [[Code]](https://github.com/KingGugu/RepPad)
 
 36. **Rethinking sequential relationships: Improving sequential recommenders with inter-sequence data augmentation** (Sequential + DA)
 
@@ -742,6 +742,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 127. **Your Graph Recommender is Provably a Single-view Graph Contrastive Learning** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.17723)
+
+128. **High-Order Fusion Graph Contrastive Learning for Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.19692)
 
 
 ## Sequential Models with CL
@@ -1696,3 +1700,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 131. **GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation** (Multi-Modal + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.12338), [[Code]](https://github.com/NanGongNingYi/GUME)
+
+132. **A Unified Graph Transformer for Overcoming Isolations in Multi-modal Recommendation** (Multi-Modal + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.19886)
