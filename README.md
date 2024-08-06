@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 47
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 48
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 128
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 107
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 133
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 134
 
 
 ## Survey/Tutorial/Framework
@@ -231,6 +231,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 47. **Sample Enrichment via Temporary Operations on Subsequences for Sequential Recommendation** (Sequential + DA)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.17802), [[Code]](https://anonymous.4open.science/r/SETO-code-A026/)
+
+48. **Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation** (POI Rec + DA)
+
+      IJCAI 2021, [[PDF]](https://arxiv.org/abs/2106.15814)
 
 
 ## Graph Models with CL
@@ -1712,3 +1716,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 133. **MOSAIC: Multimodal Multistakeholder-aware Visual Art Recommendation** (Art Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.21758)
+
+134. **Disentangled Contrastive Hypergraph Learning for Next POI Recommendation** (POI Rec + DA + CL)
+
+      SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657726), [[Code]](https://github.com/icmpnorequest/SIGIR2024_DCHL)
