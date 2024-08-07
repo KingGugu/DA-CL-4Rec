@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 48
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 128
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 130
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 107
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 134
 
@@ -750,6 +750,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 128. **High-Order Fusion Graph Contrastive Learning for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.19692)
+
+129. **Feedback Reciprocal Graph Collaborative Filtering** (Graph + CL)
+
+     CIKM 2024, [[PDF]](https://arxiv.org/pdf/2408.02404)
+
+130. **Symmetric Graph Contrastive Learning against Noisy Views for Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.02691), [[Code]](https://github.com/user683/SGCL)
 
 
 ## Sequential Models with CL
