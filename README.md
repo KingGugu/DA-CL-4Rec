@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 48
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 130
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 107
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 134
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 135
 
 
 ## Survey/Tutorial/Framework
@@ -1728,3 +1728,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 134. **Disentangled Contrastive Hypergraph Learning for Next POI Recommendation** (POI Rec + DA + CL)
 
       SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657726), [[Code]](https://github.com/icmpnorequest/SIGIR2024_DCHL)
+
+135. **Modeling User Intent Beyond Trigger: Incorporating Uncertainty for Trigger-Induced Recommendation** (CTR + CL)
+
+      CIKM 2024, [[PDF]](https://arxiv.org/pdf/2408.03091), [[Code]](https://github.com/majx1997/DUIN)
