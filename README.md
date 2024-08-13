@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 48
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 131
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 107
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 135
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 137
 
 
 ## Survey/Tutorial/Framework
@@ -1736,3 +1736,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 135. **Modeling User Intent Beyond Trigger: Incorporating Uncertainty for Trigger-Induced Recommendation** (CTR + CL)
 
       CIKM 2024, [[PDF]](https://arxiv.org/pdf/2408.03091), [[Code]](https://github.com/majx1997/DUIN)
+
+136. **SimCEN: Simple Contrast-enhanced Network for CTR Prediction** (CTR + CL)
+
+      MM 2024, [[PDF]](https://openreview.net/pdf?id=pJHu4hDlLX), [[Code]](https://github.com/salmon1802/SimCEN)
+
+137. **CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction** (CTR + CL)
+
+      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3688571), [[Code]](https://github.com/salmon1802/CETN)
