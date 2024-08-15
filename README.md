@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 48
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 131
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 107
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 137
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 108
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 138
 
 
 ## Survey/Tutorial/Framework
@@ -1194,6 +1194,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TORS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3682075)
 
+108. **Beyond Inter-Item Relations: Dynamic Adaptive Mixture-of-Experts for LLM-Based Sequential Recommendation** (Sequential + LLM + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.07427)
+
 
 ## Other Tasks with CL
 
@@ -1744,3 +1748,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 137. **CETN: Contrast-enhanced Through Network for Click-Through Rate Prediction** (CTR + CL)
 
       TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3688571), [[Code]](https://github.com/salmon1802/CETN)
+
+138. **Multi-task Heterogeneous Graph Learning on Electronic Health Records** (Drug Rec + CL)
+
+      NN 2024, [[PDF]](https://arxiv.org/pdf/2408.07569), [[Code]](https://github.com/HKU-MedAI/MulT-EHR)
