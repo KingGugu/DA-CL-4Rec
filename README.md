@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 48
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 131
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 108
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 138
@@ -235,6 +235,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 48. **Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation** (POI Rec + DA)
 
       IJCAI 2021, [[PDF]](https://arxiv.org/abs/2106.15814)
+
+49. **Federated Recommender System Based on Diffusion Augmentation and Guided Denoising** (Fed Rec + DA)
+
+      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3688570)
 
 
 ## Graph Models with CL
