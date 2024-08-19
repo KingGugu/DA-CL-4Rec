@@ -180,7 +180,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2024, [[PDF]](https://arxiv.org/pdf/2308.11131.pdf), [[Code]](https://github.com/LaVieEnRose365/ReLLa)
 
-35. **Repeated Padding as Sequential Recommendation** (Sequential + DA)
+35. **Repeated Padding for Sequential Recommendation** (Sequential + DA)
 
      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2403.06372.pdf), [[Code]](https://github.com/KingGugu/RepPad)
 
