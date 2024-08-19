@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 131
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 108
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 138
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 140
 
 
 ## Survey/Tutorial/Framework
@@ -1756,3 +1756,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 138. **Multi-task Heterogeneous Graph Learning on Electronic Health Records** (Drug Rec + CL)
 
       NN 2024, [[PDF]](https://arxiv.org/pdf/2408.07569), [[Code]](https://github.com/HKU-MedAI/MulT-EHR)
+
+139. **Don’t Click the Bait: Title Debiasing News Recommendation via Cross-Field Contrastive Learning** (News Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.08538)
+
+140. **EasyRec: Simple yet Effective Language Models for Recommendation** (LLM + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.08821), [[Code]](https://github.com/HKUDS/EasyRec)
