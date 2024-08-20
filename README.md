@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 131
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 108
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 140
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 142
 
 
 ## Survey/Tutorial/Framework
@@ -1764,3 +1764,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 140. **EasyRec: Simple yet Effective Language Models for Recommendation** (LLM + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.08821), [[Code]](https://github.com/HKUDS/EasyRec)
+
+141. **Bundle Recommendation with Item-level Causation-enhanced Multi-view Learning** (Bundle Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.08906)
+
+142. **Debiased Contrastive Representation Learning for Mitigating Dual Biases in Recommender Systems** (Debias + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.09646)
