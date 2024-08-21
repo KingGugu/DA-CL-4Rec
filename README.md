@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 132
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 108
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 109
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 142
 
 
@@ -1205,6 +1205,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 108. **Beyond Inter-Item Relations: Dynamic Adaptive Mixture-of-Experts for LLM-Based Sequential Recommendation** (Sequential + LLM + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.07427)
+
+109. **Contrastive Learning on Medical Intents for Sequential Prescription Recommendation** (Sequential + CL)
+
+     CIKM 2024, [[PDF]](https://arxiv.org/pdf/2408.10259), [[Code]]( https://github.com/aryahm1375/ARCI)
 
 
 ## Other Tasks with CL
