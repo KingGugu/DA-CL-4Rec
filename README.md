@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 132
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 109
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 142
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 143
 
 
 ## Survey/Tutorial/Framework
@@ -1780,3 +1780,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 142. **Debiased Contrastive Representation Learning for Mitigating Dual Biases in Recommender Systems** (Debias + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.09646)
+
+143. **LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding** (CTR + LLM  + CL)
+
+      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2408.11523)
