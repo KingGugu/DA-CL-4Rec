@@ -1784,3 +1784,27 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 143. **LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding** (CTR + LLM  + CL)
 
       RecSys 2024, [[PDF]](https://arxiv.org/pdf/2408.11523)
+      
+144. **Topic Modeling as Multi-Objective Contrastive Optimization** (CTR + LLM  + CL)
+
+      ICLR 2024, [[PDF]](https://arxiv.org/abs/2402.07577)
+      
+145. **Contrastive Learning for Neural Topic Model** (NTM + CL)
+
+      NeurIPS 2024, [[PDF]](https://arxiv.org/abs/2110.12764), [[Code]](https://github.com/nguyentthong/CLNTM)
+      
+146. **Improving Multimodal Sentiment Analysis: Supervised Angular Margin-based Contrastive Learning for Enhanced Fusion Representation** (Margin + CL)
+
+      EMNLP 2023, [[PDF]](https://arxiv.org/abs/2312.02227)
+      
+147. **Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning** (Margin + CL)
+
+      ECCV 2024, [[PDF]](https://arxiv.org/abs/2407.03788)
+      
+148. **Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions** (Adaptive + CL)
+
+      EMNLP 2022, [[PDF]](https://arxiv.org/abs/2211.03524), [[Code]](https://github.com/nguyentthong/adaptive_contrastive_mrhp)
+      
+149. **KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning** (Margin  + CL)
+
+      NAACL 2024, [[PDF]](https://arxiv.org/abs/2403.17486)
