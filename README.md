@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 132
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 109
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 143
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 150
 
 
 ## Survey/Tutorial/Framework
@@ -1781,11 +1781,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.09646)
 
-143. **LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding** (CTR + LLM  + CL)
+143. **LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding** (CTR + LLM + CL)
 
       RecSys 2024, [[PDF]](https://arxiv.org/pdf/2408.11523)
       
-144. **Topic Modeling as Multi-Objective Contrastive Optimization** (CTR + LLM  + CL)
+144. **Topic Modeling as Multi-Objective Contrastive Optimization** (CTR + LLM + CL)
 
       ICLR 2024, [[PDF]](https://arxiv.org/abs/2402.07577)
       
@@ -1805,6 +1805,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
       EMNLP 2022, [[PDF]](https://arxiv.org/abs/2211.03524), [[Code]](https://github.com/nguyentthong/adaptive_contrastive_mrhp)
       
-149. **KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning** (Margin  + CL)
+149. **KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning** (Margin + CL)
 
       NAACL 2024, [[PDF]](https://arxiv.org/abs/2403.17486)
+
+150. **Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation** (Cross-Domain + Fed Rec CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.14689), [[Code]](https://github.com/Lili1013/FUPM)
