@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 132
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 109
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 150
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 133
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 110
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 151
 
 
 ## Survey/Tutorial/Framework
@@ -771,6 +771,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      ICDE 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10597955), [[Code]](https://github.com/YongjingHao/Meta-SSCL)
 
+133. **Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks** (Graph + Attack + CL)
+
+     KDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671795), [[Code]](https://github.com/CoderWZW/ARLib)
+
 
 ## Sequential Models with CL
 
@@ -1209,6 +1213,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 109. **Contrastive Learning on Medical Intents for Sequential Prescription Recommendation** (Sequential + CL)
 
      CIKM 2024, [[PDF]](https://arxiv.org/pdf/2408.10259), [[Code]]( https://github.com/aryahm1375/ARCI)
+
+110. **Disentangled Multi-interest Representation Learning for Sequential Recommendation** (Sequential + CL)
+
+     KDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671800)
 
 
 ## Other Tasks with CL
@@ -1809,6 +1817,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
       NAACL 2024, [[PDF]](https://arxiv.org/abs/2403.17486)
 
-150. **Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation** (Cross-Domain + Fed Rec CL)
+150. **Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation** (Cross-Domain + Fed Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.14689), [[Code]](https://github.com/Lili1013/FUPM)
+
+151. **Mitigating Negative Transfer in Cross-Domain Recommendation via Knowledge Transferability Enhancement** (Cross-Domain + CL)
+
+      KDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671799)
