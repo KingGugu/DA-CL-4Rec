@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 133
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 134
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 110
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 153
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 154
 
 
 ## Survey/Tutorial/Framework
@@ -774,6 +774,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 133. **Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks** (Graph + Attack + CL)
 
      KDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671795), [[Code]](https://github.com/CoderWZW/ARLib)
+
+134. **Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.05633)
 
 
 ## Sequential Models with CL
@@ -1832,3 +1836,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 153. **A Unified Framework for Cross-Domain Recommendation** (Cross-Domain + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.04540)
+
+154. **End-to-End Learnable Item Tokenization for Generative Recommendation** (Gen Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.05546)
