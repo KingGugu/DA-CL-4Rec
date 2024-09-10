@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 133
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 110
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 152
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 153
 
 
 ## Survey/Tutorial/Framework
@@ -1828,3 +1828,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 152. **Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation** (Cross-Domain + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.03294)
+
+153. **A Unified Framework for Cross-Domain Recommendation** (Cross-Domain + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.04540)
