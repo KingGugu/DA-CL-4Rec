@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 134
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 110
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 154
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 111
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 155
 
 
 ## Survey/Tutorial/Framework
@@ -1222,6 +1222,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      KDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671800)
 
+111. **Multi-intent Aware Contrastive Learning for Sequential Recommendation** (Sequential + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.08733)
+
 
 ## Other Tasks with CL
 
@@ -1840,3 +1844,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 154. **End-to-End Learnable Item Tokenization for Generative Recommendation** (Gen Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.05546)
+
+155. **Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks** (Music Rec + CL)
+
+      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.09026)
