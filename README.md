@@ -43,7 +43,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 8. **Data Augmentation for Sequential Recommendation: A Survey** (Survey)
    
-   arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.13545)
+   arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.13545) 
 
 
 ## Only Data Augmentation
