@@ -5,8 +5,8 @@ Comments and contributions are welcome.
 
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
-- [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 7
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 49
+- [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 135
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 111
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 155
@@ -40,6 +40,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 7. **Towards Graph Contrastive Learning: A Survey and Beyond** (Survey)
    
    arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.11868)
+
+8. **Data Augmentation for Sequential Recommendation: A Survey** (Survey)
+   
+   arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.13545)
 
 
 ## Only Data Augmentation
@@ -239,6 +243,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 49. **Federated Recommender System Based on Diffusion Augmentation and Guided Denoising** (Fed Rec + DA)
 
       TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3688570)
+
+50. **Sliding Window Training - Utilizing Historical Recommender Systems Data for Foundation Models** (Sequential + DA)
+
+      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.14517)
 
 
 ## Graph Models with CL
