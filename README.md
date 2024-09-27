@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 135
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 111
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 155
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 156
 
 
 ## Survey/Tutorial/Framework
@@ -1228,7 +1228,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 109. **Contrastive Learning on Medical Intents for Sequential Prescription Recommendation** (Sequential + CL)
 
-     CIKM 2024, [[PDF]](https://arxiv.org/pdf/2408.10259), [[Code]]( https://github.com/aryahm1375/ARCI)
+     CIKM 2024, [[PDF]](https://arxiv.org/pdf/2408.10259), [[Code]](https://github.com/aryahm1375/ARCI)
 
 110. **Disentangled Multi-interest Representation Learning for Sequential Recommendation** (Sequential + CL)
 
@@ -1860,3 +1860,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 155. **Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks** (Music Rec + CL)
 
       RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.09026)
+
+156. **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios** (Multi-Modal + CL)
+
+     RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.17864), [[Code]](https://github.com/hcai-mms/SiBraR---Single-Branch-Recommender)
