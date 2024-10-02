@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 135
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 111
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 156
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 136
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 112
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 157
 
 
 ## Survey/Tutorial/Framework
@@ -791,6 +791,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.09638)
 
+136. **TwinCL: A Twin Graph Contrastive Learning Model for Collaborative Filtering** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.19169), [[Code]](https://github.com/chengkai-liu/TwinCL)
+
 
 ## Sequential Models with CL
 
@@ -1237,6 +1241,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 111. **Multi-intent Aware Contrastive Learning for Sequential Recommendation** (Sequential + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.08733)
+
+112. **Large Language Model Empowered Embedding Generator for Sequential Recommendation** (Sequential + LLM + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.08733), [[Code]](https://github.com/liuqidong07/LLMEmb)
 
 
 ## Other Tasks with CL
@@ -1864,3 +1872,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 156. **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios** (Multi-Modal + CL)
 
      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.17864), [[Code]](https://github.com/hcai-mms/SiBraR---Single-Branch-Recommender)
+
+157. **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios** (Multi-Modal + CL)
+
+     CIKM 2024, [[PDF]](https://arxiv.org/pdf/2409.19574), [[Code]](https://github.com/hcai-mms/SiBraR---Single-Branch-Recommender)
