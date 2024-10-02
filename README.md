@@ -1873,10 +1873,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.17864), [[Code]](https://github.com/hcai-mms/SiBraR---Single-Branch-Recommender)
 
-157. **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios** (Multi-Modal + CL)
+157. **The Devil is in the Sources! Knowledge Enhanced Cross-Domain Recommendation in an Information Bottleneck Perspective** (Cross-Domain + CL)
 
-     CIKM 2024, [[PDF]](https://arxiv.org/pdf/2409.19574), [[Code]](https://github.com/hcai-mms/SiBraR---Single-Branch-Recommender)
+     CIKM 2024, [[PDF]](https://arxiv.org/pdf/2409.19574)
 
 158. **Contrastive Clustering Learning for Multi-Behavior Recommendation** (Multi-Behavior + CL)
 
-     TOIS 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3698192)
+     TOIS 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3698192), [[Code]](https://github.com/lanbiolab/MBRCC)
