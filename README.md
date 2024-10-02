@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 136
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 112
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 157
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 158
 
 
 ## Survey/Tutorial/Framework
@@ -1425,7 +1425,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     ACL 2023, [[PDF]](https://arxiv.org/pdf/2305.15756.pdf), [[Code]](https://github.com/Veason-silverbullet/UniTRec)
 
-45. **Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation** (Multi Behavior + CL)
+45. **Attention-guided Multi-step Fusion: A Hierarchical Fusion Network for Multimodal Recommendation** (Multi-Behavior + CL)
 
     SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.18238v1.pdf), [[Code]](https://github.com/Scofield666/MBSSL)
 
@@ -1645,7 +1645,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11119.pdf)
 
-100. **Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation** (Multi Behavior + CL)
+100. **Knowledge-Aware Multi-Intent Contrastive Learning for Multi-Behavior Recommendation** (Multi-Behavior + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11993.pdf)
 
@@ -1876,3 +1876,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 157. **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios** (Multi-Modal + CL)
 
      CIKM 2024, [[PDF]](https://arxiv.org/pdf/2409.19574), [[Code]](https://github.com/hcai-mms/SiBraR---Single-Branch-Recommender)
+
+158. **Contrastive Clustering Learning for Multi-Behavior Recommendation** (Multi-Behavior + CL)
+
+     TOIS 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3698192)
