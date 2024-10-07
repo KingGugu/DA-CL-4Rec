@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 136
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 112
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 158
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 159
 
 
 ## Survey/Tutorial/Framework
@@ -1880,3 +1880,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 158. **Contrastive Clustering Learning for Multi-Behavior Recommendation** (Multi-Behavior + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3698192), [[Code]](https://github.com/lanbiolab/MBRCC)
+
+159. **End-to-End Learnable Item Tokenization for Generative Recommendation** (Gen Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.02939), [[Code]](https://github.com/Jamesding000/SpecGR)
