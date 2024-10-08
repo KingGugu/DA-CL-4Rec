@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 136
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 112
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 113
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 159
 
 
@@ -1245,6 +1245,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 112. **Large Language Model Empowered Embedding Generator for Sequential Recommendation** (Sequential + LLM + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.08733), [[Code]](https://github.com/liuqidong07/LLMEmb)
+
+113. **FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services** (Sequential + LLM + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.04927)
 
 
 ## Other Tasks with CL
