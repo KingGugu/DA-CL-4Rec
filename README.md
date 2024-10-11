@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 136
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 113
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 160
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 114
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 162
 
 
 ## Survey/Tutorial/Framework
@@ -795,6 +795,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.19169), [[Code]](https://github.com/chengkai-liu/TwinCL)
 
+137. **Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation** (Graph + CL)
+
+     ICDE 2024, [[PDF]](https://arxiv.org/pdf/2410.07654), [[Code]](https://github.com/PKU-ICST-MIPL/Firzen_ICDE2024)
+
 
 ## Sequential Models with CL
 
@@ -1249,6 +1253,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 113. **FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services** (Sequential + LLM + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.04927)
+
+114. **Sequential Recommendation with Collaborative Explanation via Mutual Information Maximization** (Sequential + CL)
+
+     SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657770), [[Code]](https://github.com/yiyualt/SCEMIM)
 
 
 ## Other Tasks with CL
@@ -1892,3 +1900,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 160. **Improving Object Detection via Local-global Contrastive Learning** (OD + CL)
 
       BMVC 2024, [[PDF]](https://arxiv.org/pdf/2410.05058), [[Code]](https://local-global-detection.github.io/)
+
+161. **DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation** (Job Rec + CL)
+
+      ICDM 2024, [[PDF]](https://arxiv.org/pdf/2410.07671), [[Code]](https://github.com/LabyrinthineLeo/DISCO)
+
+162. **Neural Contrast: Leveraging Generative Editing for Graphic Design Recommendations** (Design Rec + CL)
+
+      PRICAI 2024, [[PDF]](https://arxiv.org/pdf/2410.07211)
