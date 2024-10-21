@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 136
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 114
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 162
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 163
 
 
 ## Survey/Tutorial/Framework
@@ -1908,3 +1908,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 162. **Neural Contrast: Leveraging Generative Editing for Graphic Design Recommendations** (Design Rec + CL)
 
       PRICAI 2024, [[PDF]](https://arxiv.org/pdf/2410.07211)
+
+163. **Pseudo Dataset Generation for Out-of-domain Multi-Camera View Recommendation** (View Rec + CL)
+
+      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.13585)
