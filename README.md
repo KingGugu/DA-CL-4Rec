@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 136
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 114
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 138
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 115
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 163
 
 
@@ -799,6 +799,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      ICDE 2024, [[PDF]](https://arxiv.org/pdf/2410.07654), [[Code]](https://github.com/PKU-ICST-MIPL/Firzen_ICDE2024)
 
+138. **Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation** (Graph + CL)
+
+     ICWS 2024, [[PDF]](https://arxiv.org/pdf/2410.10296), [[Code]](https://github.com/ItsukiFujii/AttrGAU)
+
 
 ## Sequential Models with CL
 
@@ -1257,6 +1261,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 114. **Sequential Recommendation with Collaborative Explanation via Mutual Information Maximization** (Sequential + CL)
 
      SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657770), [[Code]](https://github.com/yiyualt/SCEMIM)
+
+115. **Intent-Enhanced Data Augmentation for Sequential Recommendation** (Sequential + DA + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.08583), [[Code]](https://github.com/yiyualt/SCEMIM)
 
 
 ## Other Tasks with CL
