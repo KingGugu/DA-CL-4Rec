@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 139
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 140
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 115
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 163
 
@@ -806,6 +806,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 139. **Adaptive Fusion of Multi-View for Graph Contrastive Recommendation** (Graph + DA + CL)
 
      RecSys 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3640457.3688153), [[Code]](https://github.com/Du-danger/AMGCR)
+
+140. **Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems** (Graph + CL)
+
+     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3701230), [[Code]](https://github.com/BlueGhostYi/ID-GRec)
 
 
 ## Sequential Models with CL
