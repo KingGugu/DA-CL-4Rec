@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 140
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 141
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 115
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 163
 
@@ -810,6 +810,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 140. **Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems** (Graph + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3701230), [[Code]](https://github.com/BlueGhostYi/ID-GRec)
+
+141. **FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.17555), [[Code]](https://github.com/cwei01/FairDgcl)
 
 
 ## Sequential Models with CL
