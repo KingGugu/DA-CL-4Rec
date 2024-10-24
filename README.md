@@ -811,7 +811,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3701230), [[Code]](https://github.com/BlueGhostYi/ID-GRec)
 
-141. **FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning** (Graph + CL)
+141. **FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning** (Graph + DA + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.17555), [[Code]](https://github.com/cwei01/FairDgcl)
 
