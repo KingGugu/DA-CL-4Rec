@@ -6,9 +6,9 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 50
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 141
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 115
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 51
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 142
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 118
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 163
 
 
@@ -247,6 +247,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 50. **Sliding Window Training - Utilizing Historical Recommender Systems Data for Foundation Models** (Sequential + DA)
 
       RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.14517)
+
+51. **PACIFIC: Enhancing Sequential Recommendation via Preference-aware Causal Intervention and Counterfactual Data Augmentation** (Sequential + DA)
+
+      CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679803), [[Code]](https://github.com/ppppeanut/Pacific)
 
 
 ## Graph Models with CL
@@ -815,6 +819,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.17555), [[Code]](https://github.com/cwei01/FairDgcl)
 
+142. **Decoupled Behavior-based Contrastive Recommendation** (Graph + CL)
+
+     CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679636), [[Code]](https://github.com/Du-danger/DBCR)
+
 
 ## Sequential Models with CL
 
@@ -1277,6 +1285,18 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 115. **Intent-Enhanced Data Augmentation for Sequential Recommendation** (Sequential + DA + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.08583), [[Code]](https://github.com/yiyualt/SCEMIM)
+
+116. **Relative Contrastive Learning for Sequential Recommendation with Similarity-based Positive Sample Selection** (Sequential + CL)
+
+     CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679681), [[Code]](https://github.com/Cloudcatcher888/RCL)
+
+117. **Context Matters: Enhancing Sequential Recommendation with Context-aware Diffusion-based Contrastive Learning** (Sequential + CL)
+
+     CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679655), [[Code]](https://github.com/ziqiangcui/CaDiRec)
+
+118. **Momentum Contrastive Bidirectional Encoding with Self-Distillation for Sequential Recommendation** (Sequential + CL)
+
+     CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679965)
 
 
 ## Other Tasks with CL
@@ -1932,3 +1952,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 163. **Pseudo Dataset Generation for Out-of-domain Multi-Camera View Recommendation** (View Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.13585)
+
+164. **Hyperbolic Contrastive Learning for Cross-Domain Recommendation** (Cross-Domain + CL)
+
+     CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679572), [[Code]](https://github.com/EnkiXin/hcts)
