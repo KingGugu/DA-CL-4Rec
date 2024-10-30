@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 51
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 52
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 142
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 118
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 163
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 164
 
 
 ## Survey/Tutorial/Framework
@@ -251,6 +251,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 51. **PACIFIC: Enhancing Sequential Recommendation via Preference-aware Causal Intervention and Counterfactual Data Augmentation** (Sequential + DA)
 
       CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679803), [[Code]](https://github.com/ppppeanut/Pacific)
+
+51. **Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation** (Session + DA)
+
+      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2410.21892)
 
 
 ## Graph Models with CL
@@ -1956,3 +1960,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 164. **Hyperbolic Contrastive Learning for Cross-Domain Recommendation** (Cross-Domain + CL)
 
      CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679572), [[Code]](https://github.com/EnkiXin/hcts)
+
+165. **Enhancing CTR prediction in Recommendation Domain with Search Query Representation** (CTR + CL)
+
+     CIKM 2024, [[PDF]](https://arxiv.org/pdf/2410.21487)
