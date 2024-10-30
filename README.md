@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 52
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 142
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 143
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 118
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 165
 
@@ -523,7 +523,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/document/10255367), [[Code]](https://gitee.com/peijie_hfut/nescl)
 
-67. **Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering** (Graph + CL)
+67. **Towards Robust Neural Graph Collaborative Filtering via Structure Denoising and Embedding Perturbation** (Graph + CL)
 
      TOIS 2023, [[PDF]](https://dl.acm.org/doi/full/10.1145/3568396)
 
@@ -826,6 +826,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 142. **Decoupled Behavior-based Contrastive Recommendation** (Graph + CL)
 
      CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679636), [[Code]](https://github.com/Du-danger/DBCR)
+
+143. **Mixed Supervised Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.15954)
 
 
 ## Sequential Models with CL
