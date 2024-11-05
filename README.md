@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 52
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 143
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 145
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 118
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 165
 
@@ -830,6 +830,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 143. **Mixed Supervised Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.15954)
+
+144. **Bi-Level Graph Structure Learning for Next POI Recommendation** (Graph + POI Rec + CL)
+
+     TKDE 2024, [[PDF]](https://arxiv.org/pdf/2411.01169)
+
+145. **Bi-Level Graph Structure Learning for Next POI Recommendation** (Graph + Multi-Modal + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.01169)
 
 
 ## Sequential Models with CL
