@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 52
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 145
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 118
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 166
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 146
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 120
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 160
 
 
 ## Survey/Tutorial/Framework
@@ -839,6 +839,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.01169)
 
+146. **Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation** (Graph + CL)
+
+     EMNLP 2024, [[PDF]](https://aclanthology.org/2024.emnlp-main.86.pdf), [[Code]](https://github.com/zysensmile/HiCore)
+
 
 ## Sequential Models with CL
 
@@ -1313,6 +1317,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 118. **Momentum Contrastive Bidirectional Encoding with Self-Distillation for Sequential Recommendation** (Sequential + CL)
 
      CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679965)
+
+119. **AuriSRec: Adversarial User Intention Learning in Sequential Recommendation** (Sequential + CL)
+
+     EMNLP 2024 (Findings), [[PDF]](https://aclanthology.org/2024.findings-emnlp.735.pdf)
+
+120. **AuriSRec: Adversarial User Intention Learning in Sequential Recommendation** (Sequential + LLM + CL)
+
+     EMNLP 2024 (Findings), [[PDF]](https://aclanthology.org/2024.findings-emnlp.423.pdf)
 
 
 ## Other Tasks with CL
@@ -1888,95 +1900,71 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 143. **LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding** (CTR + LLM + CL)
 
       RecSys 2024, [[PDF]](https://arxiv.org/pdf/2408.11523)
-      
-144. **Topic Modeling as Multi-Objective Contrastive Optimization** (CTR + LLM + CL)
 
-      ICLR 2024, [[PDF]](https://arxiv.org/abs/2402.07577)
-      
-145. **Contrastive Learning for Neural Topic Model** (NTM + CL)
-
-      NeurIPS 2024, [[PDF]](https://arxiv.org/abs/2110.12764), [[Code]](https://github.com/nguyentthong/CLNTM)
-      
-146. **Improving Multimodal Sentiment Analysis: Supervised Angular Margin-based Contrastive Learning for Enhanced Fusion Representation** (Margin + CL)
-
-      EMNLP 2023, [[PDF]](https://arxiv.org/abs/2312.02227)
-      
-147. **Meta-optimized Angular Margin Contrastive Framework for Video-Language Representation Learning** (Margin + CL)
-
-      ECCV 2024, [[PDF]](https://arxiv.org/abs/2407.03788)
-      
-148. **Adaptive Contrastive Learning on Multimodal Transformer for Review Helpfulness Predictions** (Adaptive + CL)
-
-      EMNLP 2022, [[PDF]](https://arxiv.org/abs/2211.03524), [[Code]](https://github.com/nguyentthong/adaptive_contrastive_mrhp)
-      
-149. **KDMCSE: Knowledge Distillation Multimodal Sentence Embeddings with Adaptive Angular margin Contrastive Learning** (Margin + CL)
-
-      NAACL 2024, [[PDF]](https://arxiv.org/abs/2403.17486)
-
-150. **Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation** (Cross-Domain + Fed Rec + CL)
+144. **Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation** (Cross-Domain + Fed Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.14689), [[Code]](https://github.com/Lili1013/FUPM)
 
-151. **Mitigating Negative Transfer in Cross-Domain Recommendation via Knowledge Transferability Enhancement** (Cross-Domain + CL)
+145. **Mitigating Negative Transfer in Cross-Domain Recommendation via Knowledge Transferability Enhancement** (Cross-Domain + CL)
 
       KDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671799)
 
-152. **Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation** (Cross-Domain + CL)
+146. **Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation** (Cross-Domain + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.03294)
 
-153. **A Unified Framework for Cross-Domain Recommendation** (Cross-Domain + CL)
+147. **A Unified Framework for Cross-Domain Recommendation** (Cross-Domain + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.04540)
 
-154. **End-to-End Learnable Item Tokenization for Generative Recommendation** (Gen Rec + CL)
+148. **End-to-End Learnable Item Tokenization for Generative Recommendation** (Gen Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.05546)
 
-155. **Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks** (Music Rec + CL)
+149. **Towards Leveraging Contrastively Pretrained Neural Audio Embeddings for Recommender Tasks** (Music Rec + CL)
 
       RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.09026)
 
-156. **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios** (Multi-Modal + CL)
+150. **A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios** (Multi-Modal + CL)
 
      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.17864), [[Code]](https://github.com/hcai-mms/SiBraR---Single-Branch-Recommender)
 
-157. **The Devil is in the Sources! Knowledge Enhanced Cross-Domain Recommendation in an Information Bottleneck Perspective** (Cross-Domain + CL)
+151. **The Devil is in the Sources! Knowledge Enhanced Cross-Domain Recommendation in an Information Bottleneck Perspective** (Cross-Domain + CL)
 
      CIKM 2024, [[PDF]](https://arxiv.org/pdf/2409.19574)
 
-158. **Contrastive Clustering Learning for Multi-Behavior Recommendation** (Multi-Behavior + CL)
+152. **Contrastive Clustering Learning for Multi-Behavior Recommendation** (Multi-Behavior + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3698192), [[Code]](https://github.com/lanbiolab/MBRCC)
 
-159. **End-to-End Learnable Item Tokenization for Generative Recommendation** (Gen Rec + CL)
+153. **End-to-End Learnable Item Tokenization for Generative Recommendation** (Gen Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.02939), [[Code]](https://github.com/Jamesding000/SpecGR)
 
-160. **Improving Object Detection via Local-global Contrastive Learning** (OD + CL)
+154. **Improving Object Detection via Local-global Contrastive Learning** (OD + CL)
 
       BMVC 2024, [[PDF]](https://arxiv.org/pdf/2410.05058), [[Code]](https://local-global-detection.github.io/)
 
-161. **DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation** (Job Rec + CL)
+155. **DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation** (Job Rec + CL)
 
       ICDM 2024, [[PDF]](https://arxiv.org/pdf/2410.07671), [[Code]](https://github.com/LabyrinthineLeo/DISCO)
 
-162. **Neural Contrast: Leveraging Generative Editing for Graphic Design Recommendations** (Design Rec + CL)
+156. **Neural Contrast: Leveraging Generative Editing for Graphic Design Recommendations** (Design Rec + CL)
 
       PRICAI 2024, [[PDF]](https://arxiv.org/pdf/2410.07211)
 
-163. **Pseudo Dataset Generation for Out-of-domain Multi-Camera View Recommendation** (View Rec + CL)
+157. **Pseudo Dataset Generation for Out-of-domain Multi-Camera View Recommendation** (View Rec + CL)
 
       arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.13585)
 
-164. **Hyperbolic Contrastive Learning for Cross-Domain Recommendation** (Cross-Domain + CL)
+158. **Hyperbolic Contrastive Learning for Cross-Domain Recommendation** (Cross-Domain + CL)
 
      CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679572), [[Code]](https://github.com/EnkiXin/hcts)
 
-165. **Enhancing CTR prediction in Recommendation Domain with Search Query Representation** (CTR + CL)
+159. **Enhancing CTR prediction in Recommendation Domain with Search Query Representation** (CTR + CL)
 
      CIKM 2024, [[PDF]](https://arxiv.org/pdf/2410.21487)
 
-166. **Multi-Modal Correction Network for Recommendation** (Multi-Modal + CL)
+160. **Multi-Modal Correction Network for Recommendation** (Multi-Modal + CL)
 
      TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/document/10746604)
