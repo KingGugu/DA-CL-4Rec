@@ -15,7 +15,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 ## Survey/Tutorial/Framework
 1. **Contrastive Self-supervised Learning in Recommender Systems: A Survey** (Survey)
    
-   arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.09902.pdf)
+   TOIS 2023, [[PDF]](https://arxiv.org/pdf/2303.09902.pdf)
 
 2. **Self-Supervised Learning for Recommender Systems A Survey** (Survey + Framework)
    
