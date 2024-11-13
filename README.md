@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 52
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 146
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 147
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 120
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 160
 
@@ -842,6 +842,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 146. **Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation** (Graph + CL)
 
      EMNLP 2024, [[PDF]](https://aclanthology.org/2024.emnlp-main.86.pdf), [[Code]](https://github.com/zysensmile/HiCore)
+
+147. **Unifying Graph Convolution and Contrastive Learning in Collaborative Filtering** (Graph + CL)
+
+     KDD 2024, [[PDF]](https://arxiv.org/pdf/2406.13996), [[Code]](https://github.com/wu1hong/SCCF)
 
 
 ## Sequential Models with CL
