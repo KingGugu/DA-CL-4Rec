@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 52
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 147
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 120
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 148
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 121
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 160
 
 
@@ -847,6 +847,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      KDD 2024, [[PDF]](https://arxiv.org/pdf/2406.13996), [[Code]](https://github.com/wu1hong/SCCF)
 
+148. **DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.09181)
+
 
 ## Sequential Models with CL
 
@@ -1329,6 +1333,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 120. **AuriSRec: Adversarial User Intention Learning in Sequential Recommendation** (Sequential + LLM + CL)
 
      EMNLP 2024 (Findings), [[PDF]](https://aclanthology.org/2024.findings-emnlp.423.pdf)
+
+121. **LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation** (Sequential + LLM + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.09410)
 
 
 ## Other Tasks with CL
