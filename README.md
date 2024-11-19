@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 52
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 148
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 121
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 160
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 162
 
 
 ## Survey/Tutorial/Framework
@@ -1980,3 +1980,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 160. **Multi-Modal Correction Network for Recommendation** (Multi-Modal + CL)
 
      TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/document/10746604)
+
+161. **QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou** (Multi-Modal + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.11739)
+
+162. **Collaborative Contrastive Network for Click-Through Rate Prediction** (CTR + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.11508)
