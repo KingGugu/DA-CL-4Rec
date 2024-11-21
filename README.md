@@ -1318,7 +1318,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679681), [[Code]](https://github.com/Cloudcatcher888/RCL)
 
-117. **Context Matters: Enhancing Sequential Recommendation with Context-aware Diffusion-based Contrastive Learning** (Sequential + CL)
+117. **Context Matters: Enhancing Sequential Recommendation with Context-aware Diffusion-based Contrastive Learning** (Sequential + DA + CL)
 
      CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679655), [[Code]](https://github.com/ziqiangcui/CaDiRec)
 
