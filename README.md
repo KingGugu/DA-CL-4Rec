@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 52
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 53
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 148
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 121
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 162
@@ -238,23 +238,27 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 48. **Discovering Collaborative Signals for Next POI Recommendation with Iterative Seq2Graph Augmentation** (POI Rec + DA)
 
-      IJCAI 2021, [[PDF]](https://arxiv.org/abs/2106.15814)
+     IJCAI 2021, [[PDF]](https://arxiv.org/abs/2106.15814)
 
 49. **Federated Recommender System Based on Diffusion Augmentation and Guided Denoising** (Fed Rec + DA)
 
-      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3688570)
+     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3688570)
 
 50. **Sliding Window Training - Utilizing Historical Recommender Systems Data for Foundation Models** (Sequential + DA)
 
-      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.14517)
+     RecSys 2024, [[PDF]](https://arxiv.org/pdf/2409.14517)
 
 51. **PACIFIC: Enhancing Sequential Recommendation via Preference-aware Causal Intervention and Counterfactual Data Augmentation** (Sequential + DA)
 
-      CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679803), [[Code]](https://github.com/ppppeanut/Pacific)
+     CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679803), [[Code]](https://github.com/ppppeanut/Pacific)
 
-51. **Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation** (Session + DA)
+52. **Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation** (Session + DA)
 
-      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2410.21892)
+     RecSys 2024, [[PDF]](https://arxiv.org/pdf/2410.21892)
+
+53. **Privacy-Preserving Synthetic Data Generation for Recommendation Systems** (Privacy-Preserving + DA)
+
+     SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532044), [[Code]](https://github.com/HuilinChenJN/UPC_SDG)
 
 
 ## Graph Models with CL
