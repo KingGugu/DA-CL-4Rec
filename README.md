@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 53
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 148
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 149
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 121
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 162
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 163
 
 
 ## Survey/Tutorial/Framework
@@ -854,6 +854,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 148. **DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.09181)
+
+149. **Next Point-of-Interest Recommendation with Adaptive Graph Contrastive Learning** (Graph + CL)
+
+     TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/document/10772008)
 
 
 ## Sequential Models with CL
@@ -1992,3 +1996,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 162. **Collaborative Contrastive Network for Click-Through Rate Prediction** (CTR + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.11508)
+
+163. **Hierarchical Denoising for Robust Social Recommendation** (Social Rec + CL)
+
+     TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/document/10771708)
