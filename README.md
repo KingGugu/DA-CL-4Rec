@@ -50,9 +50,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 1. **Enhancing Collaborative Filtering with Generative Augmentation** (CF + GAN + DA)
    
-    KDD 2019, [[PDF]](https://arxiv.org/pdf/2207.02643.pdf)
+    KDD 2019, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3292500.3330873)
 
-2. **Future Data Helps Training Modeling Future Contexts for Session-based Recommendation** (Session + DA)
+2. **Future Data Helps Training: Modeling Future Contexts for Session-based Recommendation** (Session + DA)
 
     WWW 2020, [[PDF]](https://arxiv.org/pdf/1906.04473.pdf), [[Code]](https://github.com/fajieyuan/WWW2020-grec)
 
@@ -445,7 +445,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 46. **PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation** (Graph + CL)
 
-     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2306.04095.pdf)
+     arxiv 2023, [[PDF]](https://arxiv.org/pdf/2306.04095.pdf)
 
 47. **Knowledge Graph Self-Supervised Rationalization for Recommendation** (Graph + CL)
 
