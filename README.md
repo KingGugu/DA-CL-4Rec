@@ -319,545 +319,545 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2205.00976.pdf), [[Code]](https://github.com/yuh-yang/KGCL-SIGIR22)
 
-15. **Temporal Knowledge Graph Reasoning with Historical Contrastive Learning** (Graph + CL)
-
-    IJCAI 2022, [[PDF]](https://arxiv.org/pdf/2211.10904.pdf), [[Code]](https://github.com/xyjigsaw/CENET)
-
-16. **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation** (Graph + SSL)
+15. **Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation** (Graph + SSL)
 
     WWW 2021, [[PDF]](https://arxiv.org/pdf/2101.06448.pdf), [[Code]](https://github.com/Coder-Yu/QRec)
 
-17. **SAIL: Self-Augmented Graph Contrastive Learning** (Graph + CL)
+16. **SAIL: Self-Augmented Graph Contrastive Learning** (Graph + CL)
 
     AAAI 2022, [[PDF]](https://arxiv.org/pdf/2009.00934.pdf)
 
-18. **Predictive and Contrastive: Dual-Auxiliary Learning for Recommendation** (Graph + CL)
+17. **Predictive and Contrastive: Dual-Auxiliary Learning for Recommendation** (Graph + CL)
 
     arXiv 2022, [[PDF]](https://arxiv.org/pdf/2203.03982.pdf)
 
-19. **Socially-Aware Self-Supervised Tri-Training for Recommendation** (Graph + CL)
+18. **Socially-Aware Self-Supervised Tri-Training for Recommendation** (Graph + CL)
 
     KDD 2021, [[PDF]](https://arxiv.org/pdf/2106.03569.pdf), [[Code]](https://github.com/Coder-Yu/QRec)
 
-20. **Predictive and Contrastive: Dual-Auxiliary Learning for Recommendation** (Graph + CL)
+19. **Predictive and Contrastive: Dual-Auxiliary Learning for Recommendation** (Graph + CL)
 
     arXiv 2022, [[PDF]](https://arxiv.org/pdf/2203.03982.pdf)
 
-21. **Multi-Behavior Dynamic Contrastive Learning for Recommendation** (Graph + CL)
+20. **Multi-Behavior Dynamic Contrastive Learning for Recommendation** (Graph + CL)
 
     arXiv 2022, [[PDF]](https://arxiv.org/pdf/2203.03982.pdf)
 
-22. **Self-Augmented Recommendation with Hypergraph Contrastive Collaborative Filtering** (Graph + CL)
+21. **Self-Augmented Recommendation with Hypergraph Contrastive Collaborative Filtering** (Graph + CL)
 
     SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2204.12200), [[Code]](https://github.com/akaxlh/HCCF)
 
-23. **Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning** (Graph + CF + CL)
+22. **Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning** (Graph + CF + CL)
 
     WWW 2022, [[PDF]](https://arxiv.org/pdf/2202.06200.pdf), [[Code]](https://github.com/RUCAIBox/NCL)
 
-24. **Semi-deterministic and Contrastive Variational Graph Autoencoder for Recommendation** (Graph + CL)
+23. **Semi-deterministic and Contrastive Variational Graph Autoencoder for Recommendation** (Graph + CL)
 
     CIKM 2021, [[PDF]](https://dl.acm.org/doi/10.1145/3459637.3482390), [[Code]](https://github.com/syxkason/SCVG)
 
-25. **Hypergraph Contrastive Collaborative Filtering** (Graph + CF + CL + DA)
+24. **Hypergraph Contrastive Collaborative Filtering** (Graph + CF + CL + DA)
 
     SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2204.12200.pdf), [[Code]]( https://github.com/akaxlh/HCCF)
 
-26. **Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems** (Graph + CL)
+25. **Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems** (Graph + CL)
 
     CIKM 2021, [[PDF]](https://dl.acm.org/doi/10.1145/3459637.3482117), [[Code]](https://github.com/syxkason/SCVG)
 
-27. **Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation** (Group Rec, Graph + CL + DA)
+26. **Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation** (Group Rec, Graph + CL + DA)
 
     CIKM 2021, [[PDF]](https://arxiv.org/abs/2109.04200), [[Code]](https://github.com/0411tony/HHGR)
 
-28. **Self-Supervised Hypergraph Transformer for Recommender Systems** (Graph + SSL)
+27. **Self-Supervised Hypergraph Transformer for Recommender Systems** (Graph + SSL)
 
     KDD 2022, [[PDF]](https://arxiv.org/pdf/2207.14338.pdf), [[Code]](https://github.com/akaxlh/SHT)
 
-29. **Episodes Discovery Recommendation with Multi-Source Augmentations** (Graph + DA + CL)
+28. **Episodes Discovery Recommendation with Multi-Source Augmentations** (Graph + DA + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2301.01737.pdf)
 
-30. **Poincaré Heterogeneous Graph Neural Networks for Sequential Recommendation** (Graph + Sequential + CL)
+29. **Poincaré Heterogeneous Graph Neural Networks for Sequential Recommendation** (Graph + Sequential + CL)
 
      TOIS 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3568395)
     
-31. **Adversarial Learning Data Augmentation for Graph Contrastive Learning in Recommendation** (Graph + DA + CL)
+30. **Adversarial Learning Data Augmentation for Graph Contrastive Learning in Recommendation** (Graph + DA + CL)
 
      DASFAA 2023, [[PDF]](https://arxiv.org/pdf/2302.02317.pdf)
     
-32. **SimCGNN: Simple Contrastive Graph Neural Network for Session-based Recommendation** (Graph + CL)
+31. **SimCGNN: Simple Contrastive Graph Neural Network for Session-based Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03997.pdf)
     
-33. **MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning** (Graph + DA + CL)
+32. **MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning** (Graph + DA + CL)
 
      AAAI 2023, [[PDF]](https://arxiv.org/pdf/2212.07035.pdf), [[Code]](https://github.com/GXM1141/MA-GCL)
     
-34. **Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation** (Graph + Session + CL)
+33. **Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation** (Graph + Session + CL)
 
      AAAI 2021, [[PDF]](https://arxiv.org/pdf/2012.06852.pdf), [[Code]](https://github.com/xiaxin1998/DHCN)
     
-35. **Self-Supervised Graph Co-Training for Session-based Recommendation** (Graph + Session + CL)
+34. **Self-Supervised Graph Co-Training for Session-based Recommendation** (Graph + Session + CL)
 
      CIMK 2021, [[PDF]](https://arxiv.org/pdf/2108.10560.pdf), [[Code]](https://github.com/xiaxin1998/COTREC)
 
-36. **Heterogeneous Graph Contrastive Learning for Recommendation** (Graph + CL)
+35. **Heterogeneous Graph Contrastive Learning for Recommendation** (Graph + CL)
 
      WSDM 2023, [[PDF]](https://arxiv.org/pdf/2303.00995.pdf), [[Code]](https://github.com/HKUDS/HGCL)
 
-37. **Automated Self-Supervised Learning for Recommendation** (Graph + DA + CL)
+36. **Automated Self-Supervised Learning for Recommendation** (Graph + DA + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.07797.pdf), [[Code]](https://github.com/HKUDS/AutoCF)
 
-38. **Graph-less Collaborative Filtering** (Graph + CL)
+37. **Graph-less Collaborative Filtering** (Graph + CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.08537.pdf), [[Code]](https://github.com/HKUDS/SimRec)
 
-39. **Disentangled Contrastive Collaborative Filtering** (Graph + CL)
+38. **Disentangled Contrastive Collaborative Filtering** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.02759.pdf), [[Code]](https://github.com/HKUDS/DCCF)
 
-40. **Knowledge-refined Denoising Network for Robust Recommendation** (Graph + CL)
+39. **Knowledge-refined Denoising Network for Robust Recommendation** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2304.14987.pdf), [[Code]](https://github.com/xj-zhu98/KRDN)
 
-41. **Disentangled Graph Contrastive Learning for Review-based Recommendation** (Graph + CL)
+40. **Disentangled Graph Contrastive Learning for Review-based Recommendation** (Graph + CL)
 
-     IJCAI 2023, [[PDF]](https://arxiv.org/pdf/2209.01524.pdf)
+     arxiv 2022, [[PDF]](https://arxiv.org/pdf/2209.01524.pdf)
 
-42. **Adaptive Graph Contrastive Learning for Recommendation** (Graph + CL)
+41. **Adaptive Graph Contrastive Learning for Recommendation** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/abs/2305.10837), [[Code]](https://github.com/ZzMeei/AdaptiveGCL)
 
-43. **Knowledge Enhancement for Contrastive Multi-Behavior Recommendation** (Graph + CL)
+42. **Knowledge Enhancement for Contrastive Multi-Behavior Recommendation** (Graph + CL)
 
      WSDM 2023, [[PDF]](https://arxiv.org/pdf/2301.05403.pdf), [[Code]](https://github.com/HKUDS/SSLRec)
 
-44. **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** (Graph + CL)
+43. **Contrastive Meta Learning with Behavior Multiplicity for Recommendation** (Graph + CL)
 
      WSDM 2022, [[PDF]](https://arxiv.org/pdf/2202.08523.pdf), [[Code]](https://github.com/weiwei1206/CML)
 
-45. **Graph Transformer for Recommendation** (Graph + CL)
+44. **Graph Transformer for Recommendation** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2306.02330.pdf), [[Code]](https://github.com/HKUDS/GFormer)
 
-46. **PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation** (Graph + CL)
+45. **PANE-GNN: Unifying Positive and Negative Edges in Graph Neural Networks for Recommendation** (Graph + CL)
 
      arxiv 2023, [[PDF]](https://arxiv.org/pdf/2306.04095.pdf)
 
-47. **Knowledge Graph Self-Supervised Rationalization for Recommendation** (Graph + CL)
+46. **Knowledge Graph Self-Supervised Rationalization for Recommendation** (Graph + CL)
 
      KDD 2023, [[PDF]](https://arxiv.org/pdf/2307.02759.pdf), [[Code]](https://github.com/HKUDS/KGRec)
 
-48. **Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization** (Graph + CL)
+47. **Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization** (Graph + CL)
 
      SIGIR 2021, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3404835.3462928)
 
-49. **Generative-Contrastive Graph Learning for Recommendation** (Graph + CL)
+48. **Generative-Contrastive Graph Learning for Recommendation** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2307.05100.pdf)
 
-50. **AdaMCL: Adaptive Fusion Multi-View Contrastive Learning for Collaborative Filtering** (Graph + CL)
+49. **AdaMCL: Adaptive Fusion Multi-View Contrastive Learning for Collaborative Filtering** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591632), [[Code]](https://github.com/PasaLab/AdaMCL)
 
-51. **Candidate–aware Graph Contrastive Learning for Recommendation** (Graph + CL)
+50. **Candidate–aware Graph Contrastive Learning for Recommendation** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591647), [[Code]](https://github.com/WeiHeCnSH/CGCL-Pytorch-master)
 
-52. **Multi-View Graph Convolutional Network for Multimedia Recommendation** (Graph + CL)
+51. **Multi-View Graph Convolutional Network for Multimedia Recommendation** (Graph + CL)
 
      MM 2023, [[PDF]](https://arxiv.org/ftp/arxiv/papers/2308/2308.03588.pdf), [[Code]](https://github.com/demonph10/MGCN)
 
-53. **Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation** (Graph + CL)
+52. **Uncertainty-aware Consistency Learning for Cold-Start Item Recommendation** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2308.03470.pdf)
 
-54. **uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering** (Graph + CL)
+53. **uCTRL: Unbiased Contrastive Representation Learning via Alignment and Uniformity for Collaborative Filtering** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://arxiv.org/pdf/2305.12768.pdf), [[Code]](https://github.com/Jaewoong-Lee/sigir_2023_uCTRL)
 
-55. **Contrastive Box Embedding for Collaborative Reasoning** (Graph + CL)
+54. **Contrastive Box Embedding for Collaborative Reasoning** (Graph + CL)
 
      SIGIR 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591654)
 
-56. **Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph** (Graph + CL)
+55. **Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph** (Graph + CL)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.07752.pdf)
 
-57. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation** (Graph + CL)
+56. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2308.10685.pdf)
 
-58. **Dual Intents Graph Modeling for User-centric Group Discovery** (Graph + CL)
+57. **Dual Intents Graph Modeling for User-centric Group Discovery** (Graph + CL)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.05013.pdf), [[Code]](https://github.com/WxxShirley/CIKM2023DiRec)
 
-59. **Group Identification via Transitional Hypergraph Convolution with Cross-view Self-supervised Learning** (Graph + CL)
+58. **Group Identification via Transitional Hypergraph Convolution with Cross-view Self-supervised Learning** (Graph + CL)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2308.08620.pdf), [[Code]](https://github.com/mdyfrank/GTGS)
 
-60. **Multi-Relational Contrastive Learning for Recommendation** (Graph + CL)
+59. **Multi-Relational Contrastive Learning for Recommendation** (Graph + CL)
 
      RecSys 2023, [[PDF]](https://arxiv.org/pdf/2309.01103.pdf), [[Code]](https://github.com/HKUDS/RCL)
 
-61. **Multi-behavior Recommendation with SVD Graph Neural Networks** (Graph + CL)
+60. **Multi-behavior Recommendation with SVD Graph Neural Networks** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2309.06912.pdf)
 
-62. **E-commerce Search via Content Collaborative Graph Neural Network** (Graph + DA + CL)
+61. **E-commerce Search via Content Collaborative Graph Neural Network** (Graph + DA + CL)
 
      KDD 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599320), [[Code]](https://github.com/XMUDM/CC-GNN)
 
-63. **Long-tail Augmented Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
+62. **Long-tail Augmented Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
 
      PKDD 2023, [[PDF]](https://arxiv.org/pdf/2309.11177.pdf), [[Code]](https://github.com/im0qianqian/LAGCL)
 
-64. **LMACL: Improving Graph Collaborative Filtering with Learnable Model Augmentation Contrastive Learning** (Graph + CL)
+63. **LMACL: Improving Graph Collaborative Filtering with Learnable Model Augmentation Contrastive Learning** (Graph + CL)
 
     TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3657302), [[Code]](https://github.com/LiuHsinx/LMACL)
 
-65. **On the Sweet Spot of Contrastive Views for Knowledge-enhanced Recommendation** (Graph + CL)
+64. **On the Sweet Spot of Contrastive Views for Knowledge-enhanced Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2309.13384.pdf), [[Code]](https://figshare.com/articles/conference_contribution/SimKGCL/22783382)
 
-66. **Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering** (Graph + CL)
+65. **Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering** (Graph + CL)
 
      TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/document/10255367), [[Code]](https://gitee.com/peijie_hfut/nescl)
 
-67. **Towards Robust Neural Graph Collaborative Filtering via Structure Denoising and Embedding Perturbation** (Graph + CL)
+66. **Towards Robust Neural Graph Collaborative Filtering via Structure Denoising and Embedding Perturbation** (Graph + CL)
 
      TOIS 2023, [[PDF]](https://dl.acm.org/doi/full/10.1145/3568396)
 
-68. **TDCGL: Two-Level Debiased Contrastive Graph Learning for Recommendation** (Graph + CL)
+67. **TDCGL: Two-Level Debiased Contrastive Graph Learning for Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://browse.arxiv.org/pdf/2310.00569.pdf)
 
-69. **Topology-aware Debiased Self-supervised Graph Learning for Recommendation** (Graph + CL)
+68. **Topology-aware Debiased Self-supervised Graph Learning for Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2310.15858.pdf), [[Code]](https://github.com/malajikuai/TDSGL)
 
-70. **Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering** (Graph + DA + CL)
+69. **Learning to Denoise Unreliable Interactions for Graph Collaborative Filtering** (Graph + DA + CL)
 
      SIGIR 2022, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3477495.3531889), [[Code]](https://github.com/ChangxinTian/RGCF)
 
-71. **Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation** (Graph + CL)
+70. **Contrastive Multi-Level Graph Neural Networks for Session-based Recommendation** (Graph + CL)
 
      TMM 2023, [[PDF]](https://arxiv.org/pdf/2311.02938.pdf)
 
-72. **An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations** (Graph + CL)
+71. **An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations** (Graph + CL)
 
      NeurIPS 2023, [[PDF]](https://openreview.net/pdf?id=XyAP8ScqLV), [[Code]](https://github.com/Haoran-Young/CPTPP)
 
-73. **An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations** (Graph + CL)
+72. **An Empirical Study Towards Prompt-Tuning for Graph Contrastive Pre-Training in Recommendations** (Graph + CL)
 
      ICDM 2021, [[PDF]](https://ieeexplore.ieee.org/document/9678992), [[Code]](https://github.com/Haoran-Young/HMG-CR)
 
-74. **Denoised Self-Augmented Learning for Social Recommendation** (Graph + CL)
+73. **Denoised Self-Augmented Learning for Social Recommendation** (Graph + CL)
 
      IJCAI 2023, [[PDF]](https://arxiv.org/pdf/2305.12685.pdf), [[Code]](https://github.com/HKUDS/DSL)
 
-75. **Intent-aware Recommendation via Disentangled Graph Contrastive Learning** (Graph + CL)
+74. **Intent-aware Recommendation via Disentangled Graph Contrastive Learning** (Graph + CL)
 
      IJCAI 2023, [[PDF]](https://www.ijcai.org/proceedings/2023/0260.pdf)
 
-76. **GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training** (Graph + CL)
+75. **GENET: Unleashing the Power of Side Information for Recommendation via Hypergraph Pre-training** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.13121.pdf)
 
-77. **Graph Pre-training and Prompt Learning for Recommendation** (Graph + CL)
+76. **Graph Pre-training and Prompt Learning for Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.16716.pdf)
 
-78. **Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning** (Graph + CL)
+77. **Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning** (Graph + CL)
 
      CIKM 2023, [[PDF]](https://arxiv.org/pdf/2311.16334.pdf), [[Code]](https://github.com/Xinrui17/BNCL)
 
-79. **ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation** (Graph + Multi-Modal + CL)
+78. **ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation** (Graph + Multi-Modal + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2311.05956.pdf)
 
-80. **Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems** (Graph + LLM + CL)
+79. **Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems** (Graph + LLM + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.10967.pdf)
 
-81. **LGMRec: Local and Global Graph Learning for Multimodal Recommendation** (Graph + Multi-Modal + CL)
+80. **LGMRec: Local and Global Graph Learning for Multimodal Recommendation** (Graph + Multi-Modal + CL)
 
      AAAI 2024, [[PDF]](https://arxiv.org/pdf/2312.16400.pdf), [[Code]](https://github.com/georgeguo-cn/LGMRec)
 
-82. **RDGCL: Reaction-Diffusion Graph Contrastive Learning for Recommendation** (Graph + CL)
+81. **RDGCL: Reaction-Diffusion Graph Contrastive Learning for Recommendation** (Graph + CL)
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2312.16563.pdf)
 
-83. **DiffKG: Knowledge Graph Diffusion Model for Recommendation** (Graph + CL)
+82. **DiffKG: Knowledge Graph Diffusion Model for Recommendation** (Graph + CL)
 
      WSDM 2024, [[PDF]](https://arxiv.org/pdf/2312.16890.pdf), [[Code]](https://github.com/HKUDS/DiffKG)
 
-84. **QoS-Aware Graph Contrastive Learning for Web Service Recommendation** (Graph + CL)
+83. **QoS-Aware Graph Contrastive Learning for Web Service Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2401.03162.pdf)
 
-85. **Challenging Low Homophily in Social Recommendation** (Graph + CL)
+84. **Challenging Low Homophily in Social Recommendation** (Graph + CL)
 
      WWW 2024, [[PDF]](https://arxiv.org/pdf/2401.14606.pdf)
 
-86. **RecDCL: Dual Contrastive Learning for Recommendation** (Graph + CL)
+85. **RecDCL: Dual Contrastive Learning for Recommendation** (Graph + CL)
 
      WWW 2024, [[PDF]](https://arxiv.org/pdf/2401.15635.pdf), [[Code]](https://github.com/THUDM/RecDCL)
 
-87. **Prerequisite-Enhanced Category-Aware Graph Neural Networks for Course Recommendation** (Graph + CL)
+86. **Prerequisite-Enhanced Category-Aware Graph Neural Networks for Course Recommendation** (Graph + CL)
 
      TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3643644)
 
-88. **Graph Contrastive Learning With Negative Propagation for Recommendation** (Graph + CL)
+87. **Graph Contrastive Learning With Negative Propagation for Recommendation** (Graph + CL)
 
      TCSS 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10419035)
 
-89. **General Debiasing for Graph-based Collaborative Filtering via Adversarial Graph Dropout** (Graph + CL)
+88. **General Debiasing for Graph-based Collaborative Filtering via Adversarial Graph Dropout** (Graph + CL)
 
      WWW 2024, [[PDF]](https://arxiv.org/pdf/2402.13769.pdf), [[Code]](https://github.com/Arthurma71/AdvDrop)
 
-90. **Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph** (Graph + CL)
+89. **Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2402.13750.pdf)
 
-91. **FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling** (Graph + CL)
+90. **FedHCDR: Federated Cross-Domain Recommendation with Hypergraph Signal Decoupling** (Graph + CL)
 
      SIAM 2024, [[PDF]](https://arxiv.org/pdf/2403.02630.pdf), [[Code]](https://github.com/orion-orion/FedHCDR)
 
-92. **Self-supervised Contrastive Learning for Implicit Collaborative Filtering** (Graph + DA + CL)
+91. **Self-supervised Contrastive Learning for Implicit Collaborative Filtering** (Graph + DA + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.07265.pdf)
 
-93. **Dual-Channel Multiplex Graph Neural Networks for Recommendation** (Graph + CL)
+92. **Dual-Channel Multiplex Graph Neural Networks for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.11624.pdf)
 
-94. **Bilateral Unsymmetrical Graph Contrastive Learning for Recommendation** (Graph + CL)
+93. **Bilateral Unsymmetrical Graph Contrastive Learning for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.15075.pdf)
 
-95. **Knowledge-aware Dual-side Attribute-enhanced Recommendation** (Graph + CL)
+94. **Knowledge-aware Dual-side Attribute-enhanced Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.16037.pdf), [[Code]](https://github.com/TJTP/KDAR)
 
-96. **A Progressively-Passing-then-Disentangling Approach to Recipe Recommendation** (Graph + CL)
+95. **A Progressively-Passing-then-Disentangling Approach to Recipe Recommendation** (Graph + CL)
 
      TMM 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10460165/)
 
-97. **Graph Augmentation for Recommendation** (Graph + DA + CL)
+96. **Graph Augmentation for Recommendation** (Graph + DA + CL)
 
      ICDE 2024, [[PDF]](https://arxiv.org/pdf/2403.16656.pdf), [[Code]](https://github.com/HKUDS/GraphAug)
 
-98. **One Backpropagation in Two Tower Recommendation Models** (Graph + CL)
+97. **One Backpropagation in Two Tower Recommendation Models** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2403.18227.pdf)
 
-99. **Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users** (Graph + CL)
+98. **Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users** (Graph + CL)
 
      COLING 2024, [[PDF]](https://arxiv.org/pdf/2403.18667.pdf)
 
-100. **Dual Homogeneity Hypergraph Motifs with Cross-view Contrastive Learning for Multiple Social Recommendations** (Graph + Social Rec + CL)
+99. **Dual Homogeneity Hypergraph Motifs with Cross-view Contrastive Learning for Multiple Social Recommendations** (Graph + Social Rec + CL)
 
-     TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3653976), [[Code]](https://github.com/chenai2024/DH-HGCNplusplus)
+    TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3653976), [[Code]](https://github.com/chenai2024/DH-HGCNplusplus)
 
-101. **Graph Disentangled Contrastive Learning with Personalized Transfer for Cross-Domain Recommendation** (Graph + CL)
+100. **Graph Disentangled Contrastive Learning with Personalized Transfer for Cross-Domain Recommendation** (Graph + CL)
 
      AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28723/29398)
 
-102. **A Directional Diffusion Graph Transformer for Recommendation** (Graph + CL)
+101. **A Directional Diffusion Graph Transformer for Recommendation** (Graph + CL)
 
      SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2404.03326.pdf)
 
-103. **Heterogeneous Adaptive Preference Learning for Recommendation** (Graph + CL)
+102. **Heterogeneous Adaptive Preference Learning for Recommendation** (Graph + CL)
 
      TORS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3656480), [[Code]](https://github.com/Feifei84/HAPLRec/tree/main/)
 
-104. **Stock Recommendations for Individual Investors: A Temporal Graph Network Approach with Diversification-Enhancing Contrastive Learning** (Graph + CL)
+103. **Stock Recommendations for Individual Investors: A Temporal Graph Network Approach with Diversification-Enhancing Contrastive Learning** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.07223.pdf), [[Code]](https://anonymous.4open.science/r/IJCAI2024-12F4)
 
-105. **Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation** (Graph + CL)
+104. **Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.11519.pdf), [[Code]](https://github.com/JianhuaDongCS/Disen-CGCN)
 
-106. **Enhanced Hierarchical Contrastive Learning for Recommendation** (Graph + CL)
+105. **Enhanced Hierarchical Contrastive Learning for Recommendation** (Graph + CL)
 
      AAAI 2024, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/download/28761/29461)
 
-107. **How to Improve Representation Alignment and Uniformity in Graph-based Collaborative Filtering?** (Graph + CL)
+106. **How to Improve Representation Alignment and Uniformity in Graph-based Collaborative Filtering?** (Graph + CL)
 
      AAAI 2024, [[PDF]](https://zyouyang.github.io/assets/publications/AUPlus.pdf), [[Code]](https://github.com/zyouyang/AUPlus)
 
-108. **PopDCL: Popularity-aware Debiased Contrastive Loss for Collaborative Filtering** (Graph + CL)
+107. **PopDCL: Popularity-aware Debiased Contrastive Loss for Collaborative Filtering** (Graph + CL)
 
      CIKM 2023, [[PDF]](https://www.researchgate.net/profile/Liu-Zhuang/publication/374907265_PopDCL_Popularity-aware_Debiased_Contrastive_Loss_for_Collaborative_Filtering/links/65dda61ce7670d36abe2b0eb/PopDCL-Popularity-aware-Debiased-Contrastive-Loss-for-Collaborative-Filtering.pdf)
 
-109. **Improving Graph Collaborative Filtering with Directional Behavior Enhanced Contrastive Learning** (Graph + CL)
+108. **Improving Graph Collaborative Filtering with Directional Behavior Enhanced Contrastive Learning** (Graph + CL)
 
      TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3663574)
 
-110. **Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering** (Graph + CL)
+109. **Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.00287)
 
-111. **Learning Social Graph for Inactive User Recommendation** (Graph + CL)
+110. **Learning Social Graph for Inactive User Recommendation** (Graph + CL)
 
      DASFAA 2024, [[PDF]](https://arxiv.org/pdf/2405.05288), [[Code]](https://github.com/liun-online/LSIR)
 
-112. **Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering** (Graph + CL)
+111. **Exploring the Individuality and Collectivity of Intents behind Interactions for Graph Collaborative Filtering** (Graph + CL)
 
      SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2405.09042), [[Code]](https://github.com/BlueGhostYi/BIGCF)
 
-113. **Graph Contrastive Learning with Kernel Dependence Maximization for Social Recommendation** (Graph + CL)
+112. **Graph Contrastive Learning with Kernel Dependence Maximization for Social Recommendation** (Graph + CL)
 
      WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589334.3645412)
 
-114. **MvStHgL: Multi-view Hypergraph Learning with Spatial-temporal Periodic Interests for Next POI Recommendation** (Graph + POI Rec + CL)
+113. **MvStHgL: Multi-view Hypergraph Learning with Spatial-temporal Periodic Interests for Next POI Recommendation** (Graph + POI Rec + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3664651)
 
-115. **A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation** (Graph + CL)
+114. **A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation** (Graph + CL)
 
      ECML-PKDD 2023, [[PDF]](https://arxiv.org/pdf/2405.18260), [[Code]](https://github.com/laiweijiang/VAGNN)
 
-116. **Knowledge Enhanced Multi-intent Transformer Network for Recommendation** (Graph + CL)
+115. **Knowledge Enhanced Multi-intent Transformer Network for Recommendation** (Graph + CL)
 
      WWW 2024, [[PDF]](https://arxiv.org/pdf/2405.20565), [[Code]](https://github.com/CCIIPLab/KGTN)
 
-117. **QAGCF: Graph Collaborative Filtering for Q&A Recommendation** (Graph + CL)
+116. **QAGCF: Graph Collaborative Filtering for Q&A Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.04828)
 
-118. **Balancing Embedding Spectrum for Recommendation** (Graph + CL)
+117. **Balancing Embedding Spectrum for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2406.12032), [[Code]](https://github.com/tanatosuu/directspec)
 
-119. **Meta Graph Learning for Long-tail Recommendation** (Graph + CL)
+118. **Meta Graph Learning for Long-tail Recommendation** (Graph + CL)
 
      KDD 2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599428), [[Code]](https://github.com/weicy15/MGL)
 
-120. **Heterogeneous Hypergraph Embedding for Recommendation Systems** (Graph + CL)
+119. **Heterogeneous Hypergraph Embedding for Recommendation Systems** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.03665), [[Code]](https://github.com/viethungvu1998/KHGRec)
 
-121. **Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations** (Graph + CL)
+120. **Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations** (Graph + CL)
 
      KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.05126), [[Code]](https://github.com/foodfaust/CDR)
 
-122. **Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning** (Graph + CL)
+121. **Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning** (Graph + CL)
 
      KDD 2024, [[PDF]](https://arxiv.org/pdf/2407.10184), [[Code]](https://cl4rec.github.io/RGCL)
 
-123. **Graph Augmentation Empowered Contrastive Learning for Recommendation** (Graph + DA + CL)
+122. **Graph Augmentation Empowered Contrastive Learning for Recommendation** (Graph + DA + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3677377)
 
-124. **L2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for Graph Collaborative Filtering** (Graph + CL)
+123. **L2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for Graph Collaborative Filtering** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.14266), [[Code]](https://github.com/downeykking/L2CL)
 
-125. **RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation** (Graph + CL)
+124. **RevGNN: Negative Sampling Enhanced Contrastive Graph Learning for Academic Reviewer Recommendation** (Graph + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3679200), [[Code]](https://github.com/THUDM/Reviewer-Rec)
 
-126. **Intent-Guided Heterogeneous Graph Contrastive Learning for Recommendation** (Graph + CL)
+125. **Intent-Guided Heterogeneous Graph Contrastive Learning for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.17234), [[Code]](https://github.com/wangyu0627/IHGCL)
 
-127. **Your Graph Recommender is Provably a Single-view Graph Contrastive Learning** (Graph + CL)
+126. **Your Graph Recommender is Provably a Single-view Graph Contrastive Learning** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.17723)
 
-128. **High-Order Fusion Graph Contrastive Learning for Recommendation** (Graph + CL)
+127. **High-Order Fusion Graph Contrastive Learning for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2407.19692)
 
-129. **Feedback Reciprocal Graph Collaborative Filtering** (Graph + CL)
+128. **Feedback Reciprocal Graph Collaborative Filtering** (Graph + CL)
 
      CIKM 2024, [[PDF]](https://arxiv.org/pdf/2408.02404)
 
-130. **Symmetric Graph Contrastive Learning against Noisy Views for Recommendation** (Graph + CL)
+129. **Symmetric Graph Contrastive Learning against Noisy Views for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.02691), [[Code]](https://github.com/user683/SGCL)
 
-131. **Dual-Channel Latent Factor Analysis Enhanced Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
+130. **Dual-Channel Latent Factor Analysis Enhanced Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2408.04838)
 
-132. **Meta-optimized Structural and Semantic Contrastive Learning for Graph Collaborative Filtering** (Graph + DA + CL)
+131. **Meta-optimized Structural and Semantic Contrastive Learning for Graph Collaborative Filtering** (Graph + DA + CL)
 
      ICDE 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10597955), [[Code]](https://github.com/YongjingHao/Meta-SSCL)
 
-133. **Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks** (Graph + Attack + CL)
+132. **Unveiling Vulnerabilities of Contrastive Recommender Systems to Poisoning Attacks** (Graph + Attack + CL)
 
      KDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671795), [[Code]](https://github.com/CoderWZW/ARLib)
 
-134. **Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation** (Graph + CL)
+133. **Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.05633)
 
-135. **Multi-view Hypergraph-based Contrastive Learning Model for Cold-Start Micro-video Recommendation** (Graph + CL)
+134. **Multi-view Hypergraph-based Contrastive Learning Model for Cold-Start Micro-video Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.09638)
 
-136. **TwinCL: A Twin Graph Contrastive Learning Model for Collaborative Filtering** (Graph + CL)
+135. **TwinCL: A Twin Graph Contrastive Learning Model for Collaborative Filtering** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2409.19169), [[Code]](https://github.com/chengkai-liu/TwinCL)
 
-137. **Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation** (Graph + CL)
+136. **Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation** (Graph + CL)
 
      ICDE 2024, [[PDF]](https://arxiv.org/pdf/2410.07654), [[Code]](https://github.com/PKU-ICST-MIPL/Firzen_ICDE2024)
 
-138. **Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation** (Graph + CL)
+137. **Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation** (Graph + CL)
 
      ICWS 2024, [[PDF]](https://arxiv.org/pdf/2410.10296), [[Code]](https://github.com/ItsukiFujii/AttrGAU)
 
-139. **Adaptive Fusion of Multi-View for Graph Contrastive Recommendation** (Graph + DA + CL)
+138. **Adaptive Fusion of Multi-View for Graph Contrastive Recommendation** (Graph + DA + CL)
 
      RecSys 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3640457.3688153), [[Code]](https://github.com/Du-danger/AMGCR)
 
-140. **Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems** (Graph + CL)
+139. **Simplify to the Limit! Embedding-less Graph Collaborative Filtering for Recommender Systems** (Graph + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3701230), [[Code]](https://github.com/BlueGhostYi/ID-GRec)
 
-141. **FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning** (Graph + DA + CL)
+140. **FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning** (Graph + DA + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.17555), [[Code]](https://github.com/cwei01/FairDgcl)
 
-142. **Decoupled Behavior-based Contrastive Recommendation** (Graph + CL)
+141. **Decoupled Behavior-based Contrastive Recommendation** (Graph + CL)
 
      CIKM 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679636), [[Code]](https://github.com/Du-danger/DBCR)
 
-143. **Mixed Supervised Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
+142. **Mixed Supervised Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.15954)
 
-144. **Bi-Level Graph Structure Learning for Next POI Recommendation** (Graph + POI Rec + CL)
+143. **Bi-Level Graph Structure Learning for Next POI Recommendation** (Graph + POI Rec + CL)
 
      TKDE 2024, [[PDF]](https://arxiv.org/pdf/2411.01169)
 
-145. **Bi-Level Graph Structure Learning for Next POI Recommendation** (Graph + Multi-Modal + CL)
+144. **Bi-Level Graph Structure Learning for Next POI Recommendation** (Graph + Multi-Modal + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.01169)
 
-146. **Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation** (Graph + CL)
+145. **Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation** (Graph + CL)
 
      EMNLP 2024, [[PDF]](https://aclanthology.org/2024.emnlp-main.86.pdf), [[Code]](https://github.com/zysensmile/HiCore)
 
-147. **Unifying Graph Convolution and Contrastive Learning in Collaborative Filtering** (Graph + CL)
+146. **Unifying Graph Convolution and Contrastive Learning in Collaborative Filtering** (Graph + CL)
 
      KDD 2024, [[PDF]](https://arxiv.org/pdf/2406.13996), [[Code]](https://github.com/wu1hong/SCCF)
 
-148. **DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation** (Graph + CL)
+147. **DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.09181)
 
-149. **Next Point-of-Interest Recommendation with Adaptive Graph Contrastive Learning** (Graph + CL)
+148. **Next Point-of-Interest Recommendation with Adaptive Graph Contrastive Learning** (Graph + CL)
 
      TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/document/10772008)
+
+149. **Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems** (Graph + Sequential + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2412.04276), [[Code]](https://github.com/YuweiCao-UIC/GSAU)
 
 
 ## Sequential Models with CL
