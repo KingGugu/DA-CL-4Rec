@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 53
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 149
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 121
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 163
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 122
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 164
 
 
 ## Survey/Tutorial/Framework
@@ -1280,7 +1280,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 105. **Scaling Sequential Recommendation Models with Transformers** (Sequential + CL)
 
-     SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657816), [[Code]](https://github.com/mercadolibre/srt)
+     SIGIR 2024, [[PDF]](https://arxiv.org/pdf/2412.07585), [[Code]](https://github.com/mercadolibre/srt)
 
 106. **CMCLRec: Cross-modal Contrastive Learning for User Cold-start Sequential Recommendation** (Sequential + CL)
 
@@ -1345,6 +1345,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 121. **LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation** (Sequential + LLM + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2411.09410)
+
+122. **Temporal Linear Item-Item Model for Sequential Recommendation** (Sequential + DA + CL)
+
+     WSDM 2025, [[PDF]](https://arxiv.org/pdf/2412.07382), [[Code]](https://github.com/psm1206/TALE)
 
 
 ## Other Tasks with CL
@@ -2000,3 +2004,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 163. **Hierarchical Denoising for Robust Social Recommendation** (Social Rec + CL)
 
      TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/document/10771708)
+
+164. **Learning Self-Supervised Audio-Visual Representations for Sound Recommendations** (Sound Rec + CL)
+
+     ISVC 2021, [[PDF]](https://ieeexplore.ieee.org/document/10771708)
