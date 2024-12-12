@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 53
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 54
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 149
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 122
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 164
@@ -259,6 +259,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 53. **Privacy-Preserving Synthetic Data Generation for Recommendation Systems** (Privacy-Preserving + DA)
 
      SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532044), [[Code]](https://github.com/HuilinChenJN/UPC_SDG)
+
+53. **Augmenting Sequential Recommendation with Balanced Relevance and Diversity** (Sequential + DA)
+
+     AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.08300), [[Code]](https://github.com/KingGugu/BASRec)
 
 
 ## Graph Models with CL
