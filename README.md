@@ -260,7 +260,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3477495.3532044), [[Code]](https://github.com/HuilinChenJN/UPC_SDG)
 
-53. **Augmenting Sequential Recommendation with Balanced Relevance and Diversity** (Sequential + DA)
+54. **Augmenting Sequential Recommendation with Balanced Relevance and Diversity** (Sequential + DA)
 
      AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.08300), [[Code]](https://github.com/KingGugu/BASRec)
 
