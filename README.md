@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 55
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 150
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 123
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 151
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 124
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 164
 
 
@@ -267,6 +267,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 55. **Temporal Linear Item-Item Model for Sequential Recommendation** (Sequential + DA)
 
      WSDM 2025, [[PDF]](https://arxiv.org/pdf/2412.07382), [[Code]](https://github.com/psm1206/TALE)
+
+56. **One for Dozens: Adaptive REcommendation for All Domains with Counterfactual Augmentation** (Cross-Domain + DA)
+
+     AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.11905), [[Code]](https://github.com/Chrissie-Law/AREAD-Multi-Domain-Recommendation)
+
 
 
 ## Graph Models with CL
@@ -871,6 +876,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      COLING 2025, [[PDF]](https://arxiv.org/pdf/2412.11105), [[Code]](https://github.com/liang-tian-tian/MGCOT)
 
+151. **SPGL: Enhancing Session-based Recommendation with Single Positive Graph Learning** (Graph + CL)
+
+     ICONIP 2024, [[PDF]](https://arxiv.org/pdf/2412.11846), [[Code]](https://github.com/liang-tian-tian/SPGL)
+
 
 ## Sequential Models with CL
 
@@ -994,7 +1003,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.04541.pdf)
 
-31. **Triple Sequence Learning for Cross-domain Recommendation** (Sequential + CL)
+31. **Triple Sequence Learning for Cross-domain Recommendation** (Cross-Domain + Sequential + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2304.05027.pdf)
 
@@ -1366,6 +1375,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3708344), [[Code]](https://github.com/hi-weiyuan/PTF-FSR)
 
+124. **Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FENRec** (Sequential + DA + CL)
+
+     AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.11589)
 
 ## Other Tasks with CL
 
