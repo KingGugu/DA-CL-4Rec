@@ -6,8 +6,8 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 54
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 149
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 55
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 150
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 123
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 164
 
@@ -263,6 +263,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 54. **Augmenting Sequential Recommendation with Balanced Relevance and Diversity** (Sequential + DA)
 
      AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.08300), [[Code]](https://github.com/KingGugu/BASRec)
+
+55. **Temporal Linear Item-Item Model for Sequential Recommendation** (Sequential + DA)
+
+     WSDM 2025, [[PDF]](https://arxiv.org/pdf/2412.07382), [[Code]](https://github.com/psm1206/TALE)
 
 
 ## Graph Models with CL
@@ -862,6 +866,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 149. **Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems** (Graph + Sequential + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2412.04276), [[Code]](https://github.com/YuweiCao-UIC/GSAU)
+
+150. **Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems** (Graph + DA + CL)
+
+     COLING 2025, [[PDF]](https://arxiv.org/pdf/2412.11105), [[Code]](https://github.com/liang-tian-tian/MGCOT)
 
 
 ## Sequential Models with CL
