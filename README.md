@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 57
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 151
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 124
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 164
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 152
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 125
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 165
 
 
 ## Survey/Tutorial/Framework
@@ -883,6 +883,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      ICONIP 2024, [[PDF]](https://arxiv.org/pdf/2412.11846), [[Code]](https://github.com/liang-tian-tian/SPGL)
 
+152. **Heterogeneous Graph Collaborative Filtering** (Graph + DA + CL)
+
+     WSDM 2025, [[PDF]](https://arxiv.org/pdf/2412.13825), [[Code]](https://github.com/HKUDS/MixRec)
+
 
 ## Sequential Models with CL
 
@@ -1381,6 +1385,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 124. **Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FENRec** (Sequential + DA + CL)
 
      AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.11589)
+
+125. **Lightweight yet Fine-grained: A Graph Capsule Convolutional Network with Subspace Alignment for Shared-account Sequential Recommendation** (Graph + Sequential + CL)
+
+     AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.13408), [[Code]](https://github.com/ZZY-GraphMiningLab/LightGC2N)
+
 
 ## Other Tasks with CL
 
@@ -2038,4 +2047,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 164. **Learning Self-Supervised Audio-Visual Representations for Sound Recommendations** (Sound Rec + CL)
 
-     ISVC 2021, [[PDF]](https://ieeexplore.ieee.org/document/10771708)
+     ISVC 2021, [[PDF]](https://arxiv.org/pdf/2412.07406)
+
+165. **Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models** (Knowledge-aware Rec + LLM + CL)
+
+     AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.13544), [[Code]](https://github.com/laowangzi/CIKGRec)
