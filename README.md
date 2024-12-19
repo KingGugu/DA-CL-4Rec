@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 55
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 57
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 151
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 124
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 164
@@ -272,6 +272,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.11905), [[Code]](https://github.com/Chrissie-Law/AREAD-Multi-Domain-Recommendation)
 
+57. **Generating Diverse Synthetic Datasets for Evaluation of Real-life Recommender Systems** (Evaluation + DA)
+
+     RecSys 2024, [[PDF]](https://arxiv.org/pdf/2412.06809), [[Code]](https://github.com/outbrain-inc/outrank)
 
 
 ## Graph Models with CL
