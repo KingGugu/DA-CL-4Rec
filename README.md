@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 57
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 152
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 156
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 125
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 165
 
@@ -886,6 +886,22 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 152. **Heterogeneous Graph Collaborative Filtering** (Graph + DA + CL)
 
      WSDM 2025, [[PDF]](https://arxiv.org/pdf/2412.13825), [[Code]](https://github.com/HKUDS/MixRec)
+
+153. **DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation** (Graph + CL)
+
+     AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.15005), [[Code]](https://github.com/HourunLi/2025-AAAI-DisCo)
+
+154. **Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation** (Graph + Multi-Modal + CL)
+
+     WSDM 2025, [[PDF]](https://arxiv.org/pdf/2412.14978), [[Code]](https://github.com/kennethorq/SMORE)
+
+155. **HEC-GCN: Hypergraph Enhanced Cascading Graph Convolution Network for Multi-Behavior Recommendation** (Graph + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2412.14476), [[Code]](https://github.com/marqu22/HEC-GCN)
+
+156. **Heterogeneous Hyperbolic Hypergraph Neural Network for Friend Recommendation in Location-based Social Networks** (Graph + CL)
+
+     TKDD 2024, [[PDF]](https://arxiv.org/pdf/2412.14476), [[Code]](https://github.com/liyongkang123/H3GNN)
 
 
 ## Sequential Models with CL
