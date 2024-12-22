@@ -709,11 +709,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 108. **Improving Graph Collaborative Filtering with Directional Behavior Enhanced Contrastive Learning** (Graph + CL)
 
-     TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3663574)
+     TKDD 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3663574), [[Code]](https://github.com/jeongwhanchoi/SCONE)
 
-109. **Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering** (Graph + CL)
+109. **SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation** (Graph + CL)
 
-     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.00287)
+     WSDM 2025, [[PDF]](https://arxiv.org/pdf/2405.00287)
 
 110. **Learning Social Graph for Inactive User Recommendation** (Graph + CL)
 
