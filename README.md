@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 57
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 156
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 157
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 125
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 165
 
@@ -902,6 +902,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 156. **Heterogeneous Hyperbolic Hypergraph Neural Network for Friend Recommendation in Location-based Social Networks** (Graph + CL)
 
      TKDD 2024, [[PDF]](https://arxiv.org/pdf/2412.14476), [[Code]](https://github.com/liyongkang123/H3GNN)
+
+157. **Score-based Generative Diffusion Models for Social Recommendations** (Graph + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2412.15579), [[Code]](https://github.com/Anonymous-CodeRepository/Score-based-Generative-Diffusion-Models-for-Social-Recommendations-SGSR)
 
 
 ## Sequential Models with CL
