@@ -1356,7 +1356,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 113. **FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services** (Sequential + LLM + CL)
 
-     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2410.04927)
+     TOIS 2024, [[PDF]](https://arxiv.org/pdf/2410.04927)
 
 114. **Sequential Recommendation with Collaborative Explanation via Mutual Information Maximization** (Sequential + CL)
 
