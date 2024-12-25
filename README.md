@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 57
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 157
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 125
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 165
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 166
 
 
 ## Survey/Tutorial/Framework
@@ -2072,3 +2072,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 165. **Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models** (Knowledge-aware Rec + LLM + CL)
 
      AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.13544), [[Code]](https://github.com/laowangzi/CIKGRec)
+
+166. **TCKT: Tree-Based Cross-domain Knowledge Transfer for Next POI Cold-Start Recommendation** (POI Rec + CL)
+
+     TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3709137), [[Code]](https://github.com/simplehx/TCKT)
