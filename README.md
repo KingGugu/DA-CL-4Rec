@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 57
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 157
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 125
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 166
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 167
 
 
 ## Survey/Tutorial/Framework
@@ -1410,6 +1410,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.13408), [[Code]](https://github.com/ZZY-GraphMiningLab/LightGC2N)
 
+126. **Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation** (Sequential + LLM + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2412.18176), [[Code]](https://anonymous.4open.science/r/Molar-8B06/)
+
 
 ## Other Tasks with CL
 
@@ -2076,3 +2080,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 166. **TCKT: Tree-Based Cross-domain Knowledge Transfer for Next POI Cold-Start Recommendation** (POI Rec + CL)
 
      TOIS 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3709137), [[Code]](https://github.com/simplehx/TCKT)
+
+167. **Contrastive Representation for Interactive Recommendation** (Interactive Rec + CL)
+
+     AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.18396)
