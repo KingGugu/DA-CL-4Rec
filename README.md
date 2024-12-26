@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 57
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 157
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 167
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 168
 
 
 ## Survey/Tutorial/Framework
@@ -275,6 +275,26 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 57. **Generating Diverse Synthetic Datasets for Evaluation of Real-life Recommender Systems** (Evaluation + DA)
 
      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2412.06809), [[Code]](https://github.com/outbrain-inc/outrank)
+
+58. **CoMix: Collaborative Filtering with Mixup for Implicit Datasets** (CF + DA)
+
+     IS 2023, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025523001275)
+
+59. **Batch-Mix Negative Sampling for Learning Recommendation Retrievers** (CF + DA)
+
+     CIKM 2023, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3583780.3614789)
+
+60. **Dimension Independent Mixup for Hard Negative Sample in Collaborative Filtering** (CF + DA)
+
+     CIKM 2023, [[PDF]](https://arxiv.org/pdf/2306.15905), [[Code]](https://github.com/Wu-Xi/DINS)
+
+61. **LOAM: Improving Long-tail Session-based Recommendation via Niche Walk Augmentation and Tail Session Mixup** (Session Rec + DA)
+
+     SIGIR 2023, [[PDF]](https://web.archive.org/web/20230720042142id_/https://dl.acm.org/doi/pdf/10.1145/3539618.3591718), [[Code]](https://github.com/yoony02/SIGIR-2023-LOAM)
+
+62. **MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation** (Graph + DA)
+
+     ICMD 2022, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10027691), [[Code]](https://github.com/a2093930/MixDec-Sampling)
 
 
 ## Graph Models with CL
@@ -2084,3 +2104,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 167. **Contrastive Representation for Interactive Recommendation** (Interactive Rec + CL)
 
      AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.18396)
+
+168. **MixMBR: Contrastive Learning for Multi-behavior Recommendation** (Multi-behavior + DA + CL)
+
+     DASFAA 2023, [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_29)
+
