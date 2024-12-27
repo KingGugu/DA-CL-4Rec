@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 157
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 158
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 168
 
@@ -926,6 +926,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 157. **Score-based Generative Diffusion Models for Social Recommendations** (Graph + CL)
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2412.15579), [[Code]](https://github.com/Anonymous-CodeRepository/Score-based-Generative-Diffusion-Models-for-Social-Recommendations-SGSR)
+
+158. **Hyperbolic Graph Contrastive Learning for Collaborative Filtering** (Graph + DA + CL)
+
+     TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/document/10816511)
 
 
 ## Sequential Models with CL
