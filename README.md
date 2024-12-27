@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 158
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 159
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 168
 
@@ -930,6 +930,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 158. **Hyperbolic Graph Contrastive Learning for Collaborative Filtering** (Graph + DA + CL)
 
      TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/document/10816511)
+
+159. **Efficient Session-based Recommendation with Contrastive Graph-based Shortest Path Search** (Graph + CL)
+
+     TORS 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3701764), [[Code]](https://github.com/dbis-uibk/SPARE)
 
 
 ## Sequential Models with CL
