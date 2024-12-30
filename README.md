@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 159
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 160
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 168
 
@@ -278,7 +278,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 58. **CoMix: Collaborative Filtering with Mixup for Implicit Datasets** (CF + DA)
 
-     IS 2023, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025523001275)
+     INS 2023, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0020025523001275)
 
 59. **Batch-Mix Negative Sampling for Learning Recommendation Retrievers** (CF + DA)
 
@@ -934,6 +934,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 159. **Efficient Session-based Recommendation with Contrastive Graph-based Shortest Path Search** (Graph + CL)
 
      TORS 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3701764), [[Code]](https://github.com/dbis-uibk/SPARE)
+
+160. **Don’t Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network** (Graph + CL)
+
+     ICASSP 2025, [[PDF]](https://arxiv.org/pdf/2412.18962)
 
 
 ## Sequential Models with CL
