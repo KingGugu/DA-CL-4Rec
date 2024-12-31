@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 160
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 161
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 168
 
@@ -938,6 +938,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 160. **Don’t Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network** (Graph + CL)
 
      ICASSP 2025, [[PDF]](https://arxiv.org/pdf/2412.18962)
+
+161. **Multi-behavior Hypergraph Contrastive Learning for Session-based Recommendation** (Graph + CL)
+
+     TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10816604)
 
 
 ## Sequential Models with CL
