@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 161
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 169
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 170
 
 
 ## Survey/Tutorial/Framework
@@ -2128,4 +2128,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 169. **Content-Based Collaborative Generation for Recommender Systems** (Generative Rec + LLM + CL)
 
      CIKM 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3627673.3679692), [[Code]](https://github.com/Junewang0614/ColaRec)
+
+170. **A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation** (Medication Rec + CL)
+
+     TOIS 2024, [[PDF]](https://arxiv.org/pdf/2412.20040), [[Code]](https://github.com/Applied-Machine-Learning-Lab/TEMPT)
 
