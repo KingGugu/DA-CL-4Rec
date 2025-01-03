@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 161
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 162
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 125
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 170
 
@@ -942,6 +942,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 161. **Multi-behavior Hypergraph Contrastive Learning for Session-based Recommendation** (Graph + CL)
 
      TKDE 2024, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10816604)
+
+162. **DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations** (Graph + Multi-Modal + CL)
+
+     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2501.01066)
 
 
 ## Sequential Models with CL
