@@ -951,7 +951,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TORS 2025, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3711666), [[Code]](https://github.com/Young0222/Pone-GNN)
 
-164. **LightGNN: Simple Graph Neural Network for Recommendation** (Graph + CL)
+164. **LightGNN: Simple Graph Neural Network for Recommendation** (Graph + DA + CL)
 
      WSDM 2025, [[PDF]](https://arxiv.org/pdf/2501.03228), [[Code]](https://github.com/HKUDS/LightGNN)
 
