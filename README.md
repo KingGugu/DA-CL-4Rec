@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 163
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 164
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 125
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 170
 
@@ -950,6 +950,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 163. **Pone-GNN: Integrating Positive and Negative Feedback in Graph Neural Networks for Recommender Systems** (Graph + CL)
 
      TORS 2025, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3711666), [[Code]](https://github.com/Young0222/Pone-GNN)
+
+164. **LightGNN: Simple Graph Neural Network for Recommendation** (Graph + CL)
+
+     WSDM 2025, [[PDF]](https://arxiv.org/pdf/2501.03228), [[Code]](https://github.com/HKUDS/LightGNN)
 
 
 
