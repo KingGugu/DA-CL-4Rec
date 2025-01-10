@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 164
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 125
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 170
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 171
 
 
 ## Survey/Tutorial/Framework
@@ -2141,4 +2141,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 170. **A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation** (Medication Rec + CL)
 
      TOIS 2024, [[PDF]](https://arxiv.org/pdf/2412.20040), [[Code]](https://github.com/Applied-Machine-Learning-Lab/TEMPT)
+
+171. **C2lRec: Causal Contrastive Learning for User Cold-start Recommendation with Social Variable** (Cold Start + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3711858), [[Code]](https://github.com/Applied-Machine-Learning-Lab/TEMPT)
 
