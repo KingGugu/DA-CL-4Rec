@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 62
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 164
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 125
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 171
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 165
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 172
 
 
 ## Survey/Tutorial/Framework
@@ -295,6 +295,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 62. **MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation** (Graph + DA)
 
      ICMD 2022, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10027691), [[Code]](https://github.com/a2093930/MixDec-Sampling)
+
+63. **Domain Counterfactual Data Augmentation for Explainable Recommendation** (Explainable Rec + DA)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3711856), [[Code]](https://github.com/yiyualt/D4C)
 
 
 ## Graph Models with CL
@@ -955,6 +959,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WSDM 2025, [[PDF]](https://arxiv.org/pdf/2501.03228), [[Code]](https://github.com/HKUDS/LightGNN)
 
+165. **Graph Contrastive Learning on Multi-label Classification for Recommendations** (Graph + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2501.06985)
+
 
 
 ## Sequential Models with CL
@@ -1459,6 +1467,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2412.18176), [[Code]](https://anonymous.4open.science/r/Molar-8B06/)
 
+126. **Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2501.07096)
+
 
 ## Other Tasks with CL
 
@@ -1774,7 +1786,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      MM 2022, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3503161.3548294), [[Code]](https://github.com/georgeguo-cn/TopicVAE)
 
-79. **Disentangled CVAEs with Contrastive Learning for Explainable Recommendation** (Explainable + CL)
+79. **Disentangled CVAEs with Contrastive Learning for Explainable Recommendation** (Explainable Rec + CL)
 
      AAAI 2023, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/26604/26376)
 
@@ -2146,3 +2158,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3711858), [[Code]](https://github.com/Applied-Machine-Learning-Lab/TEMPT)
 
+172. **Dual Enhanced Meta-learning with Adaptive Task Scheduler for Cold-Start Recommendation** (Cold Start + CL)
+
+     TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10840305/)
