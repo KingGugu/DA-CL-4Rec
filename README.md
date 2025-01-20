@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 165
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 166
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 172
 
@@ -962,6 +962,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 165. **Graph Contrastive Learning on Multi-label Classification for Recommendations** (Graph + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2501.06985)
+
+166. **Graph Contrastive Learning on Multi-label Classification for Recommendations** (Graph + DA + CL)
+
+     NN 2025, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608025000243)
 
 
 
