@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 166
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 167
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 172
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 174
 
 
 ## Survey/Tutorial/Framework
@@ -967,6 +967,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      NN 2025, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0893608025000243)
 
+167. **A Contrastive Framework with User, Item and Review Alignment for Recommendation** (Graph + CL)
+
+     WSDM 2025, [[PDF]](https://arxiv.org/pdf/2501.11963)
 
 
 ## Sequential Models with CL
@@ -2165,3 +2168,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 172. **Dual Enhanced Meta-learning with Adaptive Task Scheduler for Cold-Start Recommendation** (Cold Start + CL)
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10840305/)
+
+173. **Disentangled Modeling of Preferences and Social Influence for Group Recommendation** (Group Rec + CL)
+
+     AAAI 2025, [[PDF]](https://arxiv.org/pdf/2501.11342), [[Code]](https://github.com/DisRec/DisRec)
+
+174. **Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations** (Multi-Modal + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2501.11916)
