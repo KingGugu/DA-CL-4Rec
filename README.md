@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 167
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 168
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 174
 
@@ -970,6 +970,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 167. **A Contrastive Framework with User, Item and Review Alignment for Recommendation** (Graph + CL)
 
      WSDM 2025, [[PDF]](https://arxiv.org/pdf/2501.11963)
+
+168. **A Contrastive Framework with User, Item and Review Alignment for Recommendation** (Graph + DA + CL)
+
+     WWW 2025, [[PDF]](https://arxiv.org/pdf/2501.13579), [[Code]](https://github.com/BlueGhostYi/ID-GRec)
 
 
 ## Sequential Models with CL
