@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 168
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 126
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 174
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 170
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 127
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 176
 
 
 ## Survey/Tutorial/Framework
@@ -975,6 +975,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2025, [[PDF]](https://arxiv.org/pdf/2501.13579), [[Code]](https://github.com/BlueGhostYi/ID-GRec)
 
+169. **Disentangled Multi-Graph Convolution for Cross-Domain Recommendation** (Graph + CL)
+
+     TKDD 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3715151)
+
+170. **Perturbation-driven Dual Auxiliary Contrastive Learning for Collaborative Filtering Recommendation** (Graph + DA + CL)
+
+     COLING 2025, [[PDF]](https://aclanthology.org/2025.coling-main.44/), [[Code]](https://github.com/zky77/PDACL)
+
 
 ## Sequential Models with CL
 
@@ -1481,6 +1489,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 126. **Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2501.07096)
+
+127. **FedCSR: A Federated Framework for Multi-Platform Cross-Domain Sequential Recommendation with Dual Contrastive Learning** (Sequential + DA + CL)
+
+     COLING 2025, [[PDF]](https://aclanthology.org/2025.coling-main.581/), [[Code]](https://github.com/zdy769243418/FedCSR-v1)
+
+128. **Intent Contrastive Learning Based on Multi-view Augmentation for Sequential Recommendation** (Sequential + DA + CL)
+
+     COLING 2025, [[PDF]](https://aclanthology.org/2025.coling-main.222/)
 
 
 ## Other Tasks with CL
@@ -2180,3 +2196,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 174. **Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations** (Multi-Modal + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2501.11916)
+
+175. **MVideoRec: Micro Video Recommendations Through Modality Decomposition and Contrastive Learning** (Multi-Modal + DA + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3711855)
+
+176. **Enhancing Reranking for Recommendation with LLMs through User Preference Retrieval** (Reranking + CL)
+
+     COLING 2025, [[PDF]](https://aclanthology.org/2025.coling-main.45/)
