@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 170
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 127
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 129
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 176
 
 
@@ -1497,6 +1497,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 128. **Intent Contrastive Learning Based on Multi-view Augmentation for Sequential Recommendation** (Sequential + DA + CL)
 
      COLING 2025, [[PDF]](https://aclanthology.org/2025.coling-main.222/)
+
+129. **Knowledge-Guided Semantically Consistent Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+     NN 2025, [[PDF]](https://www.sciencedirect.com/science/article/pii/S089360802500070X), [[Code]](https://github.com/LFM-bot/KGSCL)
 
 
 ## Other Tasks with CL
