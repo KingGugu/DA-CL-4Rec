@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 170
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 129
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 130
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 176
 
 
@@ -1501,6 +1501,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 129. **Knowledge-Guided Semantically Consistent Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
      NN 2025, [[PDF]](https://www.sciencedirect.com/science/article/pii/S089360802500070X), [[Code]](https://github.com/LFM-bot/KGSCL)
+
+130. **Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation** (Sequential + Multi-Modal + CL)
+
+     WWW 2025, [[PDF]](https://arxiv.org/abs/2501.14269), [[Code]](https://github.com/SStarCCat/HM4SR)
 
 
 ## Other Tasks with CL
