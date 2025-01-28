@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 170
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 130
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 176
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 177
 
 
 ## Survey/Tutorial/Framework
@@ -2212,3 +2212,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 176. **Enhancing Reranking for Recommendation with LLMs through User Preference Retrieval** (Reranking + CL)
 
      COLING 2025, [[PDF]](https://aclanthology.org/2025.coling-main.45/)
+
+177. **Ownership Verification for Federated Recommendation** (Federated Rec + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3715320)
