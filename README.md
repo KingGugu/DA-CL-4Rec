@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 170
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 131
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 178
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 179
 
 
 ## Survey/Tutorial/Framework
@@ -2224,3 +2224,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 178. **Contrastive Modality-Disentangled Learning for Multimodal Recommendation** (Multi-Modal + CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3715876), [[Code]](https://github.com/ruiliu2020/CMDL)
+
+179. **Generating Negative Samples for Multi-Modal Recommendation** (Multi-Modal + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2501.15183)
