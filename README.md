@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 170
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 130
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 177
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 131
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 178
 
 
 ## Survey/Tutorial/Framework
@@ -1506,6 +1506,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2025, [[PDF]](https://arxiv.org/abs/2501.14269), [[Code]](https://github.com/SStarCCat/HM4SR)
 
+131. **LLMCDSR: Enhancing Cross-Domain Sequential Recommendation with Large Language Models** (Sequential + LLM + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3715099)
+
 
 ## Other Tasks with CL
 
@@ -2216,3 +2220,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 177. **Ownership Verification for Federated Recommendation** (Federated Rec + CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3715320)
+
+178. **Contrastive Modality-Disentangled Learning for Multimodal Recommendation** (Multi-Modal + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3715876), [[Code]](https://github.com/ruiliu2020/CMDL)
