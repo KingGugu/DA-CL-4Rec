@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 170
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 171
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 132
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 179
 
@@ -982,6 +982,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 170. **Perturbation-driven Dual Auxiliary Contrastive Learning for Collaborative Filtering Recommendation** (Graph + DA + CL)
 
      COLING 2025, [[PDF]](https://aclanthology.org/2025.coling-main.44/), [[Code]](https://github.com/zky77/PDACL)
+
+171. **Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
+
+     TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10857594), [[Code]](https://github.com/wangyu0627/IHGCL)
 
 
 ## Sequential Models with CL
