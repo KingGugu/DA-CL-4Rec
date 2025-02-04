@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 171
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 172
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 132
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 179
 
@@ -986,6 +986,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 171. **Intent-guided Heterogeneous Graph Contrastive Learning for Recommendation** (Graph + DA + CL)
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10857594), [[Code]](https://github.com/wangyu0627/IHGCL)
+
+172. **TPGRec: Text-Enhanced and Popularity-Smoothing Graph Collaborative Filtering for Long-Tail Item Recommendation** (Graph + CL)
+
+     Neurocomputing 2025, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0925231225002115), [[Code]](https://github.com/ycy89/MyTPGRec)
 
 
 ## Sequential Models with CL
