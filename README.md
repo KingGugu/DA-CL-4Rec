@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 172
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 132
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 133
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 179
 
 
@@ -1521,6 +1521,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 132. **Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation** (Sequential + CL)
 
      WWW 2025, [[PDF]](https://arxiv.org/pdf/2501.17670)
+
+133. **TagRec: Temporal-Aware Graph Contrastive Learning with Theoretical Augmentation for Sequential Recommendation** (Graph + DA + Sequential + CL)
+
+     TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10872817)
 
 
 ## Other Tasks with CL
