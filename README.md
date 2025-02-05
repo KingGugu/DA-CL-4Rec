@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 172
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 133
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 179
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 180
 
 
 ## Survey/Tutorial/Framework
@@ -2197,7 +2197,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      AAAI 2025, [[PDF]](https://arxiv.org/pdf/2412.18396)
 
-168. **MixMBR: Contrastive Learning for Multi-behavior Recommendation** (Multi-behavior + DA + CL)
+168. **MixMBR: Contrastive Learning for Multi-behavior Recommendation** (Multi-Behavior + DA + CL)
 
      DASFAA 2023, [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-30672-3_29)
 
@@ -2244,3 +2244,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 179. **Generating Negative Samples for Multi-Modal Recommendation** (Multi-Modal + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2501.15183)
+
+180. **Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation** (Multi-Behavior + CL)
+
+     KDD 2025, [[PDF]](https://arxiv.org/pdf/2502.02232), [[Code]](https://github.com/1918190/COPF)
