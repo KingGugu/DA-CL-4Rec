@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 172
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 133
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 180
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 182
 
 
 ## Survey/Tutorial/Framework
@@ -2248,3 +2248,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 180. **Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation** (Multi-Behavior + CL)
 
      KDD 2025, [[PDF]](https://arxiv.org/pdf/2502.02232), [[Code]](https://github.com/1918190/COPF)
+
+181. **Large Language Models Are Universal Recommendation Learners** (LLM + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.03041), [[Code]](https://github.com/1918190/COPF)
+
+182. **Intent Representation Learning with Large Language Model for Recommendation** (LLM + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.03307), [[Code]](https://github.com/wangyu0627/IRLLRec)
