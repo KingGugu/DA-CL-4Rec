@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 63
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 64
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 172
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 133
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 182
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 183
 
 
 ## Survey/Tutorial/Framework
@@ -299,6 +299,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 63. **Domain Counterfactual Data Augmentation for Explainable Recommendation** (Explainable Rec + DA)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3711856), [[Code]](https://github.com/yiyualt/D4C)
+
+64. **Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models** (Graph + DA)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.03715)
 
 
 ## Graph Models with CL
@@ -2256,3 +2260,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 182. **Intent Representation Learning with Large Language Model for Recommendation** (LLM + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.03307), [[Code]](https://github.com/wangyu0627/IRLLRec)
+
+183. **Contrastive Learning for Cold Start Recommendationwith Adaptive Feature Fusion** (Cold Start + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.03664)
