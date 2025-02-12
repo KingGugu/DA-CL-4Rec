@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 64
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 173
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 133
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 183
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 184
 
 
 ## Survey/Tutorial/Framework
@@ -2268,3 +2268,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 183. **Contrastive Learning for Cold Start Recommendationwith Adaptive Feature Fusion** (Cold Start + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.03664)
+
+184. **Progressive Collaborative and Semantic Knowledge Fusion for Generative Recommendation** (Generative Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.06269)
