@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 64
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 65
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 173
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 133
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 184
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 185
 
 
 ## Survey/Tutorial/Framework
@@ -303,6 +303,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 64. **Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models** (Graph + DA)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.03715)
+
+65. **Leveraging Member–Group Relations via Multi-View Graph Filtering for Effective Group Recommendation** (Graph + DA)
+
+     WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.09050), [[Code]](https://github.com/chaehyun1/Group-GF)
 
 
 ## Graph Models with CL
@@ -2272,3 +2276,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 184. **Progressive Collaborative and Semantic Knowledge Fusion for Generative Recommendation** (Generative Rec + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.06269)
+
+185. **FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation** (Cross-Domain + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.09375)
