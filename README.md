@@ -2296,3 +2296,4 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 187. **EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration** (LLM + CL)
 
      WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.14735)
+
