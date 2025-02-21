@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 65
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 173
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 135
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 186
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 187
 
 
 ## Survey/Tutorial/Framework
@@ -2292,3 +2292,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 186. **CoST: Contrastive Quantization based Semantic Tokenization for Generative Recommendation** (Generative Rec + CL)
 
      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2404.14774)
+
+187. **EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration** (LLM + CL)
+
+     WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.14735)
