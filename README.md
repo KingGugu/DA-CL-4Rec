@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 65
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 173
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 174
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 135
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 187
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 188
 
 
 ## Survey/Tutorial/Framework
@@ -1002,6 +1002,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 173. **Hypergraph Collaborative Filtering with Adaptive Augmentation of Graph Data for Recommendation** (Graph + DA + CL)
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10877773), [[Code]](https://github.com/RSnewbie/RS/tree/master/HCFAA)
+
+174. **Dynamic Knowledge Selector and Evaluator for Recommendation with Knowledge Graph** (Graph + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.15623)
 
 
 ## Sequential Models with CL
@@ -2296,4 +2300,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 187. **EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration** (LLM + CL)
 
      WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.14735)
+
+188. **A Universal Framework for Compressing Embeddings in CTR Prediction** (CTR + CL)
+
+     DASFAA 2025, [[PDF]](https://arxiv.org/pdf/2502.15355), [[Code]](https://github.com/USTC-StarTeam/MEC)
 
