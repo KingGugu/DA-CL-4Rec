@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 65
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 174
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 135
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 188
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 191
 
 
 ## Survey/Tutorial/Framework
@@ -2305,3 +2305,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      DASFAA 2025, [[PDF]](https://arxiv.org/pdf/2502.15355), [[Code]](https://github.com/USTC-StarTeam/MEC)
 
+189. **Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation** (Multi-Modal + Cross-Domain + CL)
+
+     WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.16068)
+
+190. **Separated Contrastive Learning for Matching in Cross-domain Recommendation with Curriculum Scheduling** (Cross-Domain + CL)
+
+     WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.16239)
+
+191. **Social Relation Meets Recommendation: Denoising and Alignment** (Social Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.15695)
