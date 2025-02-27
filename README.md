@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 65
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 174
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 175
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 135
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 192
 
@@ -1006,6 +1006,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 174. **Dynamic Knowledge Selector and Evaluator for Recommendation with Knowledge Graph** (Graph + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.15623)
+
+175. **Next-POI Recommendation via Spatial-Temporal Knowledge Graph Contrastive Learning and Trajectory Prompt** (Graph + CL)
+
+     TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10904285)
 
 
 ## Sequential Models with CL
