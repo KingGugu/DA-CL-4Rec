@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 66
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 175
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 135
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 192
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 194
 
 
 ## Survey/Tutorial/Framework
@@ -2328,3 +2328,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 192. **Enhancing Recommender Systems: Deep Modality Alignment with Large Multi-Modal Encoders** (Multi-Modal + CL)
 
      TORS 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3718099), [[Code]](https://github.com/zxy-ml84/LMM4Rec/)
+
+193. **MDE: Modality Discrimination Enhancement for Multi-modal Recommendation** (Multi-Modal + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.18481)
+
+194. **Multiview Graph Dual-Attention Deep Learning and Contrastive Learning for Multi-Criteria Recommender Systems** (Multi-Criteria Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2502.19271)
