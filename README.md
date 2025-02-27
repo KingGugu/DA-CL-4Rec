@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 65
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 66
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 175
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 135
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 192
@@ -307,6 +307,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 65. **Leveraging Member–Group Relations via Multi-View Graph Filtering for Effective Group Recommendation** (Graph + DA)
 
      WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.09050), [[Code]](https://github.com/chaehyun1/Group-GF)
+
+66. **External Large Foundation Model: How to Efficiently Serve Trillions of Parameters for Online Ads Recommendation** (Ads Rec + DA)
+
+     WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.17494)
 
 
 ## Graph Models with CL
