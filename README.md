@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 66
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 175
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 176
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 135
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 195
 
@@ -1014,6 +1014,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 175. **Next-POI Recommendation via Spatial-Temporal Knowledge Graph Contrastive Learning and Trajectory Prompt** (Graph + CL)
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10904285)
+
+176. **Dual-Channel Multiplex Graph Neural Networks for Recommendation** (Graph + CL)
+
+     TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10909460), [[Code]](https://github.com/lx970414/TKDE-DCMGNN)
 
 
 ## Sequential Models with CL
