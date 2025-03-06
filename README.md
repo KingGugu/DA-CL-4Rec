@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 66
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 176
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 135
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 195
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 196
 
 
 ## Survey/Tutorial/Framework
@@ -2344,3 +2344,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 195. **Hierarchical Gating Network for Cross-Domain Sequential Recommendation** (Cross-Domain + Sequential+ CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3715321), [[Code]](https://github.com/solozhu/hgncdsr)
+
+195. **Intrinsic and Extrinsic Factor Disentanglement for Recommendation in Various Context Scenarios** (Factor Disentanglement + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.03524), [[Code]](https://github.com/ethanmock/IEDR)
