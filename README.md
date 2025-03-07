@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 66
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 176
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 135
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 136
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 196
 
 
@@ -1561,6 +1561,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 135. **ARTS: A General and Efficient Multi-Task Self-Prompt Framework for Explainable Sequential Recommendation** (Sequential + DA + CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3717833)
+
+136. **Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation** (Sequential + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.04162)
 
 
 ## Other Tasks with CL
