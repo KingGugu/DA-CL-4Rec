@@ -2353,6 +2353,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3715321), [[Code]](https://github.com/solozhu/hgncdsr)
 
-195. **Intrinsic and Extrinsic Factor Disentanglement for Recommendation in Various Context Scenarios** (Factor Disentanglement + CL)
+196. **Intrinsic and Extrinsic Factor Disentanglement for Recommendation in Various Context Scenarios** (Factor Disentanglement + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.03524), [[Code]](https://github.com/ethanmock/IEDR)
