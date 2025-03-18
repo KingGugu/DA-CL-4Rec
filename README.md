@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 66
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 67
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 176
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 137
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 196
@@ -311,6 +311,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 66. **External Large Foundation Model: How to Efficiently Serve Trillions of Parameters for Online Ads Recommendation** (Ads Rec + DA)
 
      WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.17494)
+
+66. **LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation** (Sequential + LLM + DA)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.12547)
 
 
 ## Graph Models with CL
