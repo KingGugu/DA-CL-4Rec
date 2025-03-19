@@ -1023,7 +1023,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10909460), [[Code]](https://github.com/lx970414/TKDE-DCMGNN)
 
-177. **Uniform Graph Pre-training and Prompting for Transferable Recommendation** (Graph + CL)
+177. **Uniform Graph Pre-training and Prompting for Transferable Recommendation** (Graph + DA + CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3724392), [[Code]](https://github.com/Code2Q/ProRec)
 
