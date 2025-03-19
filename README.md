@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 67
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 176
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 137
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 177
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 139
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 196
 
 
@@ -1023,6 +1023,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/10909460), [[Code]](https://github.com/lx970414/TKDE-DCMGNN)
 
+177. **Uniform Graph Pre-training and Prompting for Transferable Recommendation** (Graph + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3724392), [[Code]](https://github.com/Code2Q/ProRec)
+
 
 ## Sequential Models with CL
 
@@ -1570,9 +1574,17 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.04162)
 
-137. **Dual-Channel Multiplex Graph Neural Networks for Recommendation** (Sequential + Graph + DA + CL )
+137. **Dual-Channel Multiplex Graph Neural Networks for Recommendation** (Sequential + Graph + DA + CL)
 
      TKDD 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3722561)
+
+138. **Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation** (Sequential + Cross-Domain + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.13254)
+
+139. **Self-supervised Graph Neural Sequential Recommendation with Disentangling Long and Short-Term Interest** (Sequential + Graph + CL)
+
+     TORS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3723173), [[Code]](https://github.com/jiubaoyibao/LS4SRec)
 
 
 ## Other Tasks with CL
