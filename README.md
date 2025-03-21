@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 67
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 177
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 178
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 139
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 196
 
@@ -1026,6 +1026,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 177. **Uniform Graph Pre-training and Prompting for Transferable Recommendation** (Graph + DA + CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3724392), [[Code]](https://github.com/Code2Q/ProRec)
+
+178. **Diffusion-Augmented Graph Contrastive Learning for Collaborative Filter** (Graph + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.16290)
 
 
 ## Sequential Models with CL
