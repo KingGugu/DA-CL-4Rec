@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 67
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 178
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 139
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 196
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 197
 
 
 ## Survey/Tutorial/Framework
@@ -2376,3 +2376,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 196. **Intrinsic and Extrinsic Factor Disentanglement for Recommendation in Various Context Scenarios** (Factor Disentanglement + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.03524), [[Code]](https://github.com/ethanmock/IEDR)
+
+197. **Federated Cross-Domain Click-Through Rate Prediction With Large Language Model Augmentation** (CTR + LLM + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.16875)
