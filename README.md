@@ -60,9 +60,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
    
     SIGIR 2021, [[PDF]](https://arxiv.org/pdf/2105.00522.pdf), [[Code]](https://github.com/DyGRec/ASReP)
 
-4. **Self-Knowledge Distillation with Bidirectional Chronological Augmentation of Transformer for Sequential Recommendation** (Sequential + DA)
+4. **Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training** (Sequential + DA)
    
-    arXiv 2022, [[PDF]](https://arxiv.org/pdf/2112.06460.pdf), [[Code]](https://github.com/juyongjiang/BiCAT)
+    TKDE 2025, [[PDF]](https://arxiv.org/pdf/2112.06460.pdf), [[Code]](https://github.com/juyongjiang/BARec)
 
 5. **Counterfactual Data-Augmented Sequential Recommendation** (Sequential + Counterfactual + DA)
    
