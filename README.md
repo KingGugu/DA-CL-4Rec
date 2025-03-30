@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 68
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 178
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 140
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 197
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 198
 
 
 ## Survey/Tutorial/Framework
@@ -2388,3 +2388,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 197. **Federated Cross-Domain Click-Through Rate Prediction With Large Language Model Augmentation** (CTR + LLM + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.16875)
+
+198. **Learning Human Feedback from Large Language Models for Content Quality-aware Recommendation** (LLM + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3727144), [[Code]](https://github.com/wanghl21/HFAR)
