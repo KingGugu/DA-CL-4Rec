@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 68
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 178
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 140
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 141
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 198
 
 
@@ -1597,6 +1597,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 140. **Learnable Sequence Augmenter for Triplet Contrastive Learning in Sequential Recommendation** (Sequential + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.20232)
+
+141. **Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation** (Sequential + LLM + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.22675), [[Code]](https://github.com/TangJiakai/ReaRec)
 
 
 ## Other Tasks with CL
