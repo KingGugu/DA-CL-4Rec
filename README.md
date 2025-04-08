@@ -6,9 +6,9 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 68
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 178
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 142
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 69
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 179
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 143
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 198
 
 
@@ -319,6 +319,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 68. **Boosting Factorization Machines via Saliency-Guided Mixup** (FM + DA)
 
      TPAMI 2024, [[PDF]](https://arxiv.org/pdf/2206.08661), [[Code]](https://github.com/Daftstone/SMFM)
+
+69. **LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation** (Sequential + DA)
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.04843), [[Code]](https://github.com/KingGugu/TTA4SR)
 
 
 ## Graph Models with CL
@@ -1035,6 +1039,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.16290)
 
+179. **Diffusion-Augmented Graph Contrastive Learning for Collaborative Filter** (Graph + CL)
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.04443), [[Code]](https://github.com/Zheyu-Chen/WeightedGCL)
+
 
 ## Sequential Models with CL
 
@@ -1605,6 +1613,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 142. **Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation** (Sequential + DA + CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3727645), [[Code]](https://github.com/WHUIR/Horae)
+
+143. **Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation** (Sequential + CL)
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.04405)
 
 
 ## Other Tasks with CL
