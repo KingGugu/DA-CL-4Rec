@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 69
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 179
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 180
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 143
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 198
 
@@ -1042,6 +1042,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 179. **Diffusion-Augmented Graph Contrastive Learning for Collaborative Filter** (Graph + CL)
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.04443), [[Code]](https://github.com/Zheyu-Chen/WeightedGCL)
+
+180. **HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation** (Graph + DA + CL) 
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3728463)
 
 
 ## Sequential Models with CL
