@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 69
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 180
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 143
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 198
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 145
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 199
 
 
 ## Survey/Tutorial/Framework
@@ -1622,6 +1622,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.04405)
 
+144. **Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation** (Sequential + CL)
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.06586)
+
+145. **BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation** (Sequential + Multi-Modal + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.06636)
+
 
 ## Other Tasks with CL
 
@@ -2416,3 +2424,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 198. **Learning Human Feedback from Large Language Models for Content Quality-aware Recommendation** (LLM + CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3727144), [[Code]](https://github.com/wanghl21/HFAR)
+
+199. **Learning Human Feedback from Large Language Models for Content Quality-aware Recommendation** (Search & Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.06714)
