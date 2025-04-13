@@ -320,7 +320,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TPAMI 2024, [[PDF]](https://arxiv.org/pdf/2206.08661), [[Code]](https://github.com/Daftstone/SMFM)
 
-69. **LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation** (Sequential + DA)
+69. **Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation** (Sequential + DA)
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.04843), [[Code]](https://github.com/KingGugu/TTA4SR)
 
