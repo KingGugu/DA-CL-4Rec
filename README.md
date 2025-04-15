@@ -7,8 +7,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 69
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 180
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 145
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 182
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 146
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 199
 
 
@@ -923,7 +923,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2024, [[PDF]](https://arxiv.org/pdf/2412.04276), [[Code]](https://github.com/YuweiCao-UIC/GSAU)
 
-150. **Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems** (Graph + DA + CL)
+150. **Multi-Graph Co-Training for Capturing User Intent in Session-based Recommendation** (Graph + DA + CL)
 
      COLING 2025, [[PDF]](https://arxiv.org/pdf/2412.11105), [[Code]](https://github.com/liang-tian-tian/MGCOT)
 
@@ -1046,6 +1046,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 180. **HEK-CL: Hierarchical Enhanced Knowledge-Aware Contrastive Learning for Recommendation** (Graph + DA + CL) 
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3728463)
+
+181. **Robust Graph Based Social Recommendation Through Contrastive Multi-View Learning** (Graph + CL) 
+
+     AAAI 2025, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33406)
+
+182. **Sub-Interest-Aware Representation Uniformity for Recommender System** (Graph + CL) 
+
+     AAAI 2025, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33345)
 
 
 ## Sequential Models with CL
@@ -1629,6 +1637,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 145. **BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation** (Sequential + Multi-Modal + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.06636)
+
+146. **Intent Oriented Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+     AAAI 2025, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33390)
 
 
 ## Other Tasks with CL
