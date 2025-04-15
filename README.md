@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 69
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 182
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 183
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 146
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 199
 
@@ -1054,6 +1054,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 182. **Sub-Interest-Aware Representation Uniformity for Recommender System** (Graph + CL) 
 
      AAAI 2025, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33345)
+
+183. **Unveiling Contrastive Learning’s Capability of Neighborhood Aggregation for Collaborative Filtering** (Graph + CL) 
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.10113), [[Code]](https://github.com/ZzYUuuu/LightCCF)
 
 
 ## Sequential Models with CL
