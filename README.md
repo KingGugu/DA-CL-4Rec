@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 69
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 183
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 146
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 199
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 185
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 147
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 200
 
 
 ## Survey/Tutorial/Framework
@@ -1059,6 +1059,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.10113), [[Code]](https://github.com/ZzYUuuu/LightCCF)
 
+184. **MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems** (Graph + CL) 
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.10921), [[Code]](https://github.com/BIAOBIAO12138/MSCRS-main)
+
+185. **Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation** (Graph + Multi-Modal + LLM + CL) 
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.10541), [[Code]](https://github.com/BIAOBIAO12138/MSCRS-main)
+
 
 ## Sequential Models with CL
 
@@ -1645,6 +1653,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 146. **Intent Oriented Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
      AAAI 2025, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33390)
+
+147. **Intent Oriented Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.10512)
 
 
 ## Other Tasks with CL
