@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 69
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 70
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 185
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 147
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 200
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 202
 
 
 ## Survey/Tutorial/Framework
@@ -324,6 +324,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 69. **Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation** (Sequential + DA)
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.04843), [[Code]](https://github.com/KingGugu/TTA4SR)
+
+70. **Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure** (Sequential + DA)
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.13482), [[Code]](https://github.com/ZiqiZhao1/CaseRec)
 
 
 ## Graph Models with CL
@@ -2461,3 +2465,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 200. **Generative Recommendation with Continuous-Token Diffusion** (Generative Rec + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.12007)
+
+201. **Consensus-aware Contrastive Learning for Group Recommendation** (Group Rec + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.13703)
+
+202. **A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation** (Session Rec + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.13632)
