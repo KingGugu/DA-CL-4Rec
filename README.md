@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 70
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 185
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 147
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 148
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 202
 
 
@@ -1659,9 +1659,13 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      AAAI 2025, [[PDF]](https://ojs.aaai.org/index.php/AAAI/article/view/33390)
 
-147. **Intent Oriented Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+147. **JEPA4Rec: Learning Effective Language Representations for Sequential Recommendation via Joint Embedding Predictive Architecture** (Sequential + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.10512)
+
+148. **Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.10512), [[Code]](https://github.com/qyp9909/InDiRec)
 
 
 ## Other Tasks with CL
