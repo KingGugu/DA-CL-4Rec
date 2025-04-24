@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 70
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 185
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 186
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 148
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 202
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 203
 
 
 ## Survey/Tutorial/Framework
@@ -1071,6 +1071,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 185. **Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation** (Graph + Multi-Modal + LLM + CL) 
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.10541), [[Code]](https://github.com/BIAOBIAO12138/MSCRS-main)
+
+186. **MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation** (Graph + Multi-Modal + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.16576), [[Code]](https://github.com/Xu107/MMHCL)
 
 
 ## Sequential Models with CL
@@ -2477,3 +2481,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 202. **A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation** (Session Rec + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.13632)
+
+203. **Disentangling and Generating Modalities for Recommendation in Missing Modality Scenarios** (Multi-Modal + CL)
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.16352), [[Code]](https://github.com/ptkjw1997/DGMRec)
