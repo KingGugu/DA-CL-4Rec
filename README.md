@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 70
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 186
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 148
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 203
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 204
 
 
 ## Survey/Tutorial/Framework
@@ -2485,3 +2485,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 203. **Disentangling and Generating Modalities for Recommendation in Missing Modality Scenarios** (Multi-Modal + CL)
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.16352), [[Code]](https://github.com/ptkjw1997/DGMRec)
+
+204. **Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation** (Conversational Rec + CL)
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.17427)
