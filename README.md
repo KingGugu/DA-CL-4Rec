@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 70
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 186
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 148
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 204
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 149
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 205
 
 
 ## Survey/Tutorial/Framework
@@ -1671,6 +1671,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.10512), [[Code]](https://github.com/qyp9909/InDiRec)
 
+149. **Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation** (Cross-domain + LLM + Sequential + CL)
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.18383), [[Code]](https://github.com/Applied-Machine-Learning-Lab/LLM4CDSR-pytorch)
+
 
 ## Other Tasks with CL
 
@@ -2489,3 +2493,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 204. **Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation** (Conversational Rec + CL)
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.17427)
+
+205. **Combating the Bucket Effect: Multi-Knowledge Alignment for Medication Recommendation** (Medication Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.18096), [[Code]](https://github.com/MKMed-2025/MKMed)
