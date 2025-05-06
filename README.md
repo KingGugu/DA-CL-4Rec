@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 70
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 186
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 149
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 205
@@ -328,6 +328,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 70. **Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure** (Sequential + DA)
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.13482), [[Code]](https://github.com/ZiqiZhao1/CaseRec)
+
+71. **SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation** (LLM + DA)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2505.01695), [[Code]](https://github.com/YuyingZhao/SimAug)
 
 
 ## Graph Models with CL
