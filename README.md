@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 186
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 187
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 149
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 205
 
@@ -1079,6 +1079,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 186. **MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation** (Graph + Multi-Modal + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.16576), [[Code]](https://github.com/Xu107/MMHCL)
+
+187. **Hyperbolic Contrastive Learning with Model-augmentation for Knowledge-aware Recommendation** (Graph + DA + CL)
+
+     ECML-PKDD 2024, [[PDF]](https://arxiv.org/pdf/2505.08157), [[Code]](https://github.com/sunshy-1/HCMKR)
 
 
 ## Sequential Models with CL
