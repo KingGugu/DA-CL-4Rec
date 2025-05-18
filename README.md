@@ -1677,7 +1677,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 148. **Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
-     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.10512), [[Code]](https://github.com/qyp9909/InDiRec)
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.16077), [[Code]](https://github.com/qyp9909/InDiRec)
 
 149. **Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation** (Cross-domain + LLM + Sequential + CL)
 
