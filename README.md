@@ -5,14 +5,14 @@ Comments and contributions are welcome.
 
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
-- [Survey/Tutorial/Framework](#Survey/Tutorial/Framework) Total Papers: 8
+- [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 187
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 149
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 205
 
 
-## Survey/Tutorial/Framework
+## Survey-Tutorial-Framework
 
 1. **Contrastive Self-supervised Learning in Recommender Systems: A Survey** (Survey)
    
