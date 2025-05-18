@@ -1463,9 +1463,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.03562)
 
-95. **Diffusion-based Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+95. **Context Matters: Enhancing Sequential Recommendation with Context-aware Diffusion-based Contrastive Learning** (Sequential + DA + CL)
 
-    arXiv 2024, [[PDF]](https://arxiv.org/pdf/2405.09369)
+    CIKM 2024, [[PDF]](https://arxiv.org/pdf/2405.09369), [[Code]](https://github.com/ziqiangcui/CaDiRec)
 
 96. **Soft Contrastive Sequential Recommendation** (Sequential + DA + CL)
 
