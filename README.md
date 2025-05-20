@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 187
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 149
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 150
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 205
 
 
@@ -1682,6 +1682,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 149. **Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation** (Cross-domain + LLM + Sequential + CL)
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2504.18383), [[Code]](https://github.com/Applied-Machine-Learning-Lab/LLM4CDSR-pytorch)
+
+150. **ID-Centric Pre-Training for Recommendation** (Sequential + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3735128)
 
 
 ## Other Tasks with CL
