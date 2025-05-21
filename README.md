@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 187
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 150
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 205
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 151
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 206
 
 
 ## Survey-Tutorial-Framework
@@ -1687,6 +1687,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3735128)
 
+151. **DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation** (Sequential + CL)
+
+     SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2505.13974), [[Code]](https://github.com/HyeYoung1218/DIFF)
+
 
 ## Other Tasks with CL
 
@@ -2509,3 +2513,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 205. **Combating the Bucket Effect: Multi-Knowledge Alignment for Medication Recommendation** (Medication Rec + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2504.18096), [[Code]](https://github.com/MKMed-2025/MKMed)
+
+206. **Mining Linguistic Styles in Bilateral Matching: A Contrastive Learning Approach to Reciprocal Recommendation** (Reciprocal Rec + CL)
+
+     TKDD 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3736418)
