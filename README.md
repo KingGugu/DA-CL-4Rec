@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 187
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 151
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 206
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 207
 
 
 ## Survey-Tutorial-Framework
@@ -2517,3 +2517,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 206. **Mining Linguistic Styles in Bilateral Matching: A Contrastive Learning Approach to Reciprocal Recommendation** (Reciprocal Rec + CL)
 
      TKDD 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3736418)
+
+207. **User Invariant Preference Learning for Multi-Behavior Recommendation** (Multi-Behavior Rec + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3728465), [[Code]](https://github.com/MingshiYan/UIPL)
