@@ -2392,7 +2392,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 174. **Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations** (Multi-Modal + CL)
 
-     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2501.11916)
+     WWW 2025, [[PDF]](https://arxiv.org/pdf/2501.11916), [[Code]](https://github.com/JinLi-i/MoDiCF)
 
 175. **MVideoRec: Micro Video Recommendations Through Modality Decomposition and Contrastive Learning** (Multi-Modal + DA + CL)
 
