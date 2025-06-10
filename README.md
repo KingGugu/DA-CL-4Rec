@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 188
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 151
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 208
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 209
 
 
 ## Survey-Tutorial-Framework
@@ -2529,3 +2529,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 208. **Rethinking Contrastive Learning in Session-based Recommendation** (Session Rec + DA + CL)
 
      PR 2025, [[PDF]](https://arxiv.org/pdf/2506.05044), [[Code]](https://github.com/Zhang-xiaokun/MACL)
+
+209. **Semantic-enhanced Co-attention Prompt Learning for Non-overlapping Cross-Domain Recommendation** (Cross-Domain Rec + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3742422), [[Code]](https://github.com/songchenlong/TCPLP)
