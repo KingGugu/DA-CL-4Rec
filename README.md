@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 188
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 189
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 151
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 209
 
@@ -1087,6 +1087,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 188. **Heterogeneous Graph Masked Contrastive Learning for Robust Recommendation** (Graph + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2505.24172)
+
+189. **Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation** (Graph + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2506.10658), [[Code]](https://github.com/NargesNemati/MCCL)
 
 
 ## Sequential Models with CL
