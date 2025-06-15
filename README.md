@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 189
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 151
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 152
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 209
 
 
@@ -1698,6 +1698,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 151. **DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation** (Sequential + CL)
 
      SIGIR 2025, [[PDF]](https://arxiv.org/pdf/2505.13974), [[Code]](https://github.com/HyeYoung1218/DIFF)
+
+152. **FICLRec: Frequency Enhanced Intent Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+     IP&M 2025, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0306457325001724), [[Code]](https://github.com/syf1844803351/FICLRec)
 
 
 ## Other Tasks with CL
