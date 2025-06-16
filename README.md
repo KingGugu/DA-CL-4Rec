@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 189
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 190
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 152
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 209
 
@@ -1091,6 +1091,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 189. **Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation** (Graph + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2506.10658), [[Code]](https://github.com/NargesNemati/MCCL)
+
+190. **Dual-View Disentangled Multi-Intent Learning for Enhanced Collaborative Filtering** (Graph + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2506.11538), [[Code]](https://github.com/ZINUX1998/DMICF)
 
 
 ## Sequential Models with CL
