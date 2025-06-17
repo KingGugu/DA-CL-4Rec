@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 190
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 191
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 152
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 209
 
@@ -1095,6 +1095,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 190. **Dual-View Disentangled Multi-Intent Learning for Enhanced Collaborative Filtering** (Graph + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2506.11538), [[Code]](https://github.com/ZINUX1998/DMICF)
+
+191. **FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning** (Graph + DA + CL)
+
+     TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/11037524), [[Code]](https://github.com/cwei01/FairDgcl)
 
 
 ## Sequential Models with CL
