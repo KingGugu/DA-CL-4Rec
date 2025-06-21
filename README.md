@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 191
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 192
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 152
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 210
 
@@ -1099,6 +1099,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 191. **FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning** (Graph + DA + CL)
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/11037524), [[Code]](https://github.com/cwei01/FairDgcl)
+
+192. **Knowledge Graph Fine-grained Modeling Network with Contrastive Learning for Recommendation** (Graph + CL)
+
+     TKDD 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3744926)
 
 
 ## Sequential Models with CL
