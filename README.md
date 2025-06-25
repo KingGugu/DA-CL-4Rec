@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 192
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 193
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 153
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 211
 
@@ -1103,6 +1103,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 192. **Knowledge Graph Fine-grained Modeling Network with Contrastive Learning for Recommendation** (Graph + CL)
 
      TKDD 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3744926)
+
+193. **Unified Heterogeneous Hypergraph Construction for Incomplete Multimedia Recommendation** (Graph + Multi-Modal + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3745020)
+
+194. **Mask Diffusion-Based Contrastive Learning for Knowledge-Aware Recommendation** (Graph + DA + CL)
+
+     TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/11049045), [[Code]](https://github.com/haomiaocqut/ReSys_KMDCL)
 
 
 ## Sequential Models with CL
