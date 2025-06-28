@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 193
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 153
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 211
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 212
 
 
 ## Survey-Tutorial-Framework
@@ -2573,3 +2573,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 211. **A Simple Contrastive Framework Of Item Tokenization For Generative Recommendation** (Gen Rec + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2506.16683)
+
+212. **Contrastive Variational Group Recommendation with Data-agnostic Augmentation** (Group Rec + DA + CL)
+
+     TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/11056778)
