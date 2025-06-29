@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 193
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 153
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 212
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 156
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 215
 
 
 ## Survey-Tutorial-Framework
@@ -36,7 +36,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 6. **A Comprehensive Survey on Self-Supervised Learning for Recommendation** (Survey)
    
-   arXiv 2024, [[PDF]](https://arxiv.org/pdf/2404.03354.pdf), [[Code]](https://github.com/HKUDS/Awesome-SSLRec-Papers)
+   ACM Computing Surveys, [[PDF]](https://arxiv.org/pdf/2404.03354.pdf), [[Code]](https://github.com/HKUDS/Awesome-SSLRec-Papers)
 
 7. **Towards Graph Contrastive Learning: A Survey and Beyond** (Survey)
    
@@ -1727,6 +1727,18 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/11048721), [[Code]](https://gitfront.io/r/user-3656521/Ncmysei4BgGS/FairCDSR/)
 
+154. **Frequency-Augmented Mixture-of-Heterogeneous-Experts Framework for Sequential Recommendation** (Sequential + CL)
+
+     WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714663)
+
+155. **Heterogeneous Graph Transfer Learning for Category-aware Cross-Domain Sequential Recommendation** (Sequential + Graph + Cross-Domain + CL)
+
+     WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714885), [[Code]](https://github.com/zitaozz/HGTL)
+
+156. **Hypergraph-based Temporal Modelling of Repeated Intent for Sequential Recommendation** (Sequential + Graph + CL)
+
+     WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714896), [[Code]](https://github.com/dbis-uibk/HyperHawkes)
+
 
 ## Other Tasks with CL
 
@@ -2577,3 +2589,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 212. **Contrastive Variational Group Recommendation with Data-agnostic Augmentation** (Group Rec + DA + CL)
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/11056778)
+
+213. **Bridging the Gap: Teacher-Assisted Wasserstein Knowledge Distillation for Efficient Multi-Modal Recommendation** (Multi-Modal + CL)
+
+     WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714852), [[Code]](https://github.com/Suehn/TARec)
+
+214. **Dual Graph Denoising Model for Social Recommendation** (Social Rec + DA + CL)
+
+     WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714874)
+
+215. **EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration** (LLM Rec + CL)
+
+     WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.14735)
