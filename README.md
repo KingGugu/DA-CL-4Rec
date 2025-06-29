@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 195
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 196
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 156
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 214
 
@@ -1115,6 +1115,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 195. **Dual Graph Denoising Model for Social Recommendation** (Graph + DA + CL)
 
      WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714874)
+
+196. **SHARP-Distill: A 68× Faster Recommender System with Hypergraph Neural Networks and Language Models** (Graph + LLM + CL)
+
+     ICML 2025, [[PDF]](https://openreview.net/forum?id=3hYrORJndz), [[Code]](https://github.com/S-Forouzandeh/SHARP-Distill/tree/main)
 
 
 ## Sequential Models with CL
