@@ -1116,7 +1116,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714874)
 
-196. **SHARP-Distill: A 68× Faster Recommender System with Hypergraph Neural Networks and Language Models** (Graph + LLM + CL)
+196. **SHARP-Distill: A 68× Faster Recommender System with Hypergraph Neural Networks and Language Models** (Graph + CL)
 
      ICML 2025, [[PDF]](https://openreview.net/forum?id=3hYrORJndz), [[Code]](https://github.com/S-Forouzandeh/SHARP-Distill/tree/main)
 
