@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 193
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 195
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 156
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 215
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 214
 
 
 ## Survey-Tutorial-Framework
@@ -1111,6 +1111,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 194. **Mask Diffusion-Based Contrastive Learning for Knowledge-Aware Recommendation** (Graph + DA + CL)
 
      TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/11049045), [[Code]](https://github.com/haomiaocqut/ReSys_KMDCL)
+
+195. **Dual Graph Denoising Model for Social Recommendation** (Graph + DA + CL)
+
+     WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714874)
 
 
 ## Sequential Models with CL
@@ -2594,10 +2598,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714852), [[Code]](https://github.com/Suehn/TARec)
 
-214. **Dual Graph Denoising Model for Social Recommendation** (Social Rec + DA + CL)
-
-     WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714874)
-
-215. **EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration** (LLM Rec + CL)
+214. **EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration** (LLM Rec + CL)
 
      WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.14735)
