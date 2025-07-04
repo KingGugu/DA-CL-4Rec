@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 196
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 197
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 156
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 214
 
@@ -1119,6 +1119,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 196. **SHARP-Distill: A 68× Faster Recommender System with Hypergraph Neural Networks and Language Models** (Graph + CL)
 
      ICML 2025, [[PDF]](https://openreview.net/forum?id=3hYrORJndz), [[Code]](https://github.com/S-Forouzandeh/SHARP-Distill/tree/main)
+
+197. **Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System** (Graph + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.02000), [[Code]](https://github.com/zysensmile/HyFairCRS)
 
 
 ## Sequential Models with CL
