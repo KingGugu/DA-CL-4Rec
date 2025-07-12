@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 197
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 199
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 156
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 214
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 220
 
 
 ## Survey-Tutorial-Framework
@@ -1123,6 +1123,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 197. **Why Multi-Interest Fairness Matters: Hypergraph Contrastive Multi-Interest Learning for Fair Conversational Recommender System** (Graph + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.02000), [[Code]](https://github.com/zysensmile/HyFairCRS)
+
+198. **When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation** (Graph + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.07436)
+
+199. **NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation** (Graph + CL)
+
+     RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.07522), [[Code]](https://github.com/Jinfeng-Xu/NLGCL)
 
 
 ## Sequential Models with CL
@@ -2609,3 +2617,27 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 214. **EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration** (LLM Rec + CL)
 
      WWW 2025, [[PDF]](https://arxiv.org/pdf/2502.14735)
+
+215. **From ID-based to ID-free: Rethinking ID Effectiveness in Multimodal Collaborative Filtering Recommendation** (Multi-Modal + CL)
+
+     MM 2025, [[PDF]](https://arxiv.org/pdf/2507.05715), [[Code]](https://github.com/G-H-Li/IDFREE)
+
+216. **Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations** (Explainable Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.06044)
+
+217. **Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation** (Session Rec + LLM + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.04623), [[Code]](https://github.com/hjx159/HIPHOP)
+
+218. **Heterogeneous User Modeling for LLM-based Recommendation** (LLM Rec + CL)
+
+     RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.04626), [[Code]](https://github.com/HonghuiBao2000/HUM)
+
+219. **LumiCRS: Asymmetric Contrastive Prototype Learning for Long-Tail Conversational Movie Recommendation** (Conversational Rec + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.04722)
+
+220. **GIST: Cross-Domain Click-Through Rate Prediction via Guided Content-Behavior Distillation** (CTR + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.05142)
