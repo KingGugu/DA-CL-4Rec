@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 199
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 156
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 157
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 220
 
 
@@ -1758,6 +1758,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 156. **Hypergraph-based Temporal Modelling of Repeated Intent for Sequential Recommendation** (Sequential + Graph + CL)
 
      WWW 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3696410.3714896), [[Code]](https://github.com/dbis-uibk/HyperHawkes)
+
+157. **Similarity-Guided Diffusion for Contrastive Sequential Recommendation** (Sequential + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.11866)
 
 
 ## Other Tasks with CL
