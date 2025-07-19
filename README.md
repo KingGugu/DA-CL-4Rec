@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 71
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 199
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 157
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 220
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 72
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 206
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 159
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 224
 
 
 ## Survey-Tutorial-Framework
@@ -332,6 +332,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 71. **SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation** (LLM + DA)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2505.01695), [[Code]](https://github.com/YuyingZhao/SimAug)
+
+72. **Can LLMs Enhance Fairness in Recommendation Systems? A Data Augmentation Approach** (Fairness + LLM + DA)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729917), [[Code]](https://github.com/SINCOSLab/LLM-FairRec)
 
 
 ## Graph Models with CL
@@ -1132,6 +1136,34 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.07522), [[Code]](https://github.com/Jinfeng-Xu/NLGCL)
 
+200. **VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space** (Graph + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3730114), [[Code]](https://github.com/s35lay/VoRec)
+
+201. **Adaptive Graph Integration for Cross-Domain Recommendation via Heterogeneous Graph Coordinators** (Graph + DA + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729886), [[Code]](https://github.com/zhy99426/HAGO)
+
+202. **Balancing Self-Presentation and Self-Hiding for Exposure-aware Recommendation Based on Graph Contrastive Learning** (Graph + DA + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729900)
+
+203. **Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation** (Graph + DA + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729914), [[Code]](https://github.com/quchangle1/MGCCDR)
+
+204. **Collaborative Diffusion Models for Recommendation** (Graph + DA + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729929), [[Code]](https://github.com/cmr123456/CoDMR)
+
+205. **Disentangled Graph Debiasing for Next POI Recommendation** (Graph + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729952), [[Code]](https://github.com/Lemo821/DePOI)
+
+206. **Hypercomplex Knowledge Graph-Aware Recommendation** (Graph + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3730001)
+
 
 ## Sequential Models with CL
 
@@ -1691,9 +1723,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TORS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3723173), [[Code]](https://github.com/jiubaoyibao/LS4SRec)
 
-140. **Learnable Sequence Augmenter for Triplet Contrastive Learning in Sequential Recommendation** (Sequential + DA + CL)
+140. **Triplet Contrastive Learning with Learnable Sequence Augmentation for Sequential Recommendation** (Sequential + DA + CL)
 
-     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2503.20232)
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3730101), [[Code]](https://github.com/anonymityww/TCLA)
 
 141. **Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation** (Sequential + LLM + CL)
 
@@ -1762,6 +1794,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 157. **Similarity-Guided Diffusion for Contrastive Sequential Recommendation** (Sequential + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.11866)
+
+158. **Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising** (Sequential + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3730044)
+
+159. **Towards Interest Drift-driven User Representation Learning in Sequential Recommendation** (Sequential + DA + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3730099), [[Code]](https://github.com/xiaolLIN/IDURL)
 
 
 ## Other Tasks with CL
@@ -2645,3 +2685,19 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 220. **GIST: Cross-Domain Click-Through Rate Prediction via Guided Content-Behavior Distillation** (CTR + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.05142)
+
+221. **Diffusion-based Multi-modal Synergy Interest Network for Click-through Rate Prediction** (CTR + Multi-modal + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729949), [[Code]](https://github.com/Cxx-0/Diff-MSIN)
+
+222. **Hyperbolic Multi-Criteria Rating Recommendation** (Rating Rec + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3730000)
+
+223. **Enhancing Cross-Domain Recommendation with Plug-In Contrastive Representations from Large Language Models** (Cross-Domain Rec + LLM + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729967)
+
+224. **Generating Difficulty-aware Negative Samples via Conditional Diffusion for Multi-modal Recommendation** (Multi-modal Rec + CL)
+
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729986)
