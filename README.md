@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 72
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 206
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 159
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 224
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 225
 
 
 ## Survey-Tutorial-Framework
@@ -2701,3 +2701,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 224. **Generating Difficulty-aware Negative Samples via Conditional Diffusion for Multi-modal Recommendation** (Multi-modal Rec + CL)
 
      SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729986)
+
+225. **IP2: Entity-Guided Interest Probing for Personalized News Recommendation** (News Rec + CL)
+
+     RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.13622)
