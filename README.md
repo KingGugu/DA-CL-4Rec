@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 72
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 206
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 207
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 159
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 225
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 227
 
 
 ## Survey-Tutorial-Framework
@@ -1163,6 +1163,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 206. **Hypercomplex Knowledge Graph-Aware Recommendation** (Graph + CL)
 
      SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3730001)
+
+207. **Enhancing POI Recommendation through Global Graph Disentanglement with POI Weighted Module** (Graph + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.14612)
 
 
 ## Sequential Models with CL
@@ -2705,3 +2709,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 225. **IP2: Entity-Guided Interest Probing for Personalized News Recommendation** (News Rec + CL)
 
      RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.13622)
+
+226. **User Invariant Preference Learning for Multi-Behavior Recommendation** (Multi-Behavior Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.14925), [[Code]](https://github.com/MingshiYan/UIPL)
+
+227. **Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation** (Multi-Behavior Rec + CL)
+
+     RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.15395), [[Code]](https://github.com/zhy99426/HGIB)
