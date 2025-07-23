@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 72
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 207
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 208
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 159
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 227
 
@@ -1167,6 +1167,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 207. **Enhancing POI Recommendation through Global Graph Disentanglement with POI Weighted Module** (Graph + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.14612)
+
+208. **Knowledge-aware Diffusion-Enhanced Multimedia Recommendation** (Graph + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.16396), [[Code]](https://github.com/1453216158/KDiffE)
 
 
 ## Sequential Models with CL
