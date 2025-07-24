@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 72
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 73
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 208
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 159
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 227
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 229
 
 
 ## Survey-Tutorial-Framework
@@ -217,13 +217,13 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3589335.3648306)
 
-43. **A Generic Behavior-Aware Data Augmentation Framework for Sequential Recommendation** (Sequential + DA)
+43. **A Generic Behavior-Aware Data Augmentation Framework for Sequential Recommendation** (Cross-Domain + Sequential + DA)
 
      SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657682), [[Code]](https://github.com/XiaoJing-C/MBASR)
 
-44. **Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation** (Cross-Domain + DA)
+44. **MBASR: A Generic Framework for Multi-Behavior Data Augmentation in Sequential Recommendation** (Cross-Domain + Sequential + DA)
 
-     SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657902), [[Code]](https://github.com/Double680/CrossAug)
+     TKDD 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3749998), [[Code]](https://github.com/XiaoQi-C/MBASR)
 
 45. **SCM4SR: Structural Causal Model-based Data Augmentation for Robust Session-based Recommendation** (Session Rec + DA)
 
@@ -336,6 +336,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 72. **Can LLMs Enhance Fairness in Recommendation Systems? A Data Augmentation Approach** (Fairness + LLM + DA)
 
      SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3729917), [[Code]](https://github.com/SINCOSLab/LLM-FairRec)
+
+73. **Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation** (Cross-Domain + DA)
+
+     SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657902), [[Code]](https://github.com/Double680/CrossAug)
 
 
 ## Graph Models with CL
@@ -2721,3 +2725,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 227. **Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation** (Multi-Behavior Rec + CL)
 
      RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.15395), [[Code]](https://github.com/zhy99426/HGIB)
+
+228. **VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings** (Multi-modal Rec + CL)
+
+     RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.17080)
+
+229. **Enhancing Transferability and Consistency in Cross-Domain Recommendations via Supervised Disentanglement** (Cross-Domain Rec + CL)
+
+     RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.17112), [[Code]](https://github.com/WangYuhan-0520/DGCDR)
