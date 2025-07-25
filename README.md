@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 73
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 208
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 209
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 159
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 229
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 230
 
 
 ## Survey-Tutorial-Framework
@@ -1175,6 +1175,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 208. **Knowledge-aware Diffusion-Enhanced Multimedia Recommendation** (Graph + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.16396), [[Code]](https://github.com/1453216158/KDiffE)
+
+209. **Bottlenecked Heterogeneous Graph Contrastive Learning for Robust Recommendation** (Graph + DA + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3750725), [[Code]](https://github.com/DuellingSword/BHGCL)
 
 
 ## Sequential Models with CL
@@ -2733,3 +2737,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 229. **Enhancing Transferability and Consistency in Cross-Domain Recommendations via Supervised Disentanglement** (Cross-Domain Rec + CL)
 
      RecSys 2025, [[PDF]](https://arxiv.org/pdf/2507.17112), [[Code]](https://github.com/WangYuhan-0520/DGCDR)
+
+230. **Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation** (Multi-Behavior Rec + CL)
+
+     TKDE 2025, [[PDF]](https://ieeexplore.ieee.org/document/11090031), [[Code]](https://github.com/MingshiYan/MBLFE)
