@@ -223,7 +223,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 44. **MBASR: A Generic Framework for Multi-Behavior Data Augmentation in Sequential Recommendation** (Cross-Domain + Sequential + DA)
 
-     TKDD 2024, [[PDF]](https://dl.acm.org/doi/10.1145/3749998), [[Code]](https://github.com/XiaoQi-C/MBASR)
+     TORS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3749998), [[Code]](https://github.com/XiaoQi-C/MBASR)
 
 45. **SCM4SR: Structural Causal Model-based Data Augmentation for Robust Session-based Recommendation** (Session Rec + DA)
 
