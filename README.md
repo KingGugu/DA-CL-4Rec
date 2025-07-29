@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 73
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 209
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 159
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 230
 
 
@@ -1818,6 +1818,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 159. **Towards Interest Drift-driven User Representation Learning in Sequential Recommendation** (Sequential + DA + CL)
 
      SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3730099), [[Code]](https://github.com/xiaolLIN/IDURL)
+
+160. **TADT-CSA: Temporal Advantage Decision Transformer with Contrastive State Abstraction for Generative Recommendation** (Sequential + Generative + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.20327)
 
 
 ## Other Tasks with CL
