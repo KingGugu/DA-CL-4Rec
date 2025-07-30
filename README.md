@@ -6,7 +6,7 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 73
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 75
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 209
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 230
@@ -340,6 +340,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 73. **Cross-reconstructed Augmentation for Dual-target Cross-domain Recommendation** (Cross-Domain + DA)
 
      SIGIR 2024, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3626772.3657902), [[Code]](https://github.com/Double680/CrossAug)
+
+74. **Enhancing Graph-based Recommendations with Majority-Voting LLM-Rerank Augmentation** (Graph + LLM + DA)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.21563)
+
+75. **Beyond Interactions: Node-Level Graph Generation for Knowledge-Free Augmentation in Recommender Systems** (Graph + LLM + DA)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.20578)
 
 
 ## Graph Models with CL
