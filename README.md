@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 75
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 209
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 231
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 232
 
 
 ## Survey-Tutorial-Framework
@@ -2757,3 +2757,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 231. **Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation** (Multi-modal + Substitute & Complementary Rec + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.22268)
+
+232. **Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations** (Session-based Rec + CL)
+
+     TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3750724), [[Code]](https://github.com/Nishikata97/SCL-SR)
