@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 75
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 209
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 232
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 233
 
 
 ## Survey-Tutorial-Framework
@@ -2761,3 +2761,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 232. **Semantic Relation Guided Dual-view Contrastive Learning for Session-based Recommendations** (Session-based Rec + CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3750724), [[Code]](https://github.com/Nishikata97/SCL-SR)
+
+233. **Hierarchical Fine-grained Multi-behavior Recommendation with Behavior-aware Contrastive Learning** (Session-based Rec + CL)
+
+     NN 2025, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0893608025007932), [[Code]](https://github.com/zkyqust/HFCL)
