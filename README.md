@@ -2762,6 +2762,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3750724), [[Code]](https://github.com/Nishikata97/SCL-SR)
 
-233. **Hierarchical Fine-grained Multi-behavior Recommendation with Behavior-aware Contrastive Learning** (Session-based Rec + CL)
+233. **Hierarchical Fine-grained Multi-behavior Recommendation with Behavior-aware Contrastive Learning** (Multi-Behavior Rec + CL)
 
      NN 2025, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0893608025007932), [[Code]](https://github.com/zkyqust/HFCL)
