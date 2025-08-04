@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 75
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 209
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 233
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 234
 
 
 ## Survey-Tutorial-Framework
@@ -2765,3 +2765,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 233. **Hierarchical Fine-grained Multi-behavior Recommendation with Behavior-aware Contrastive Learning** (Multi-Behavior Rec + CL)
 
      NN 2025, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0893608025007932), [[Code]](https://github.com/zkyqust/HFCL)
+
+234. **M2VAE: Multi-Modal Multi-View Variational Autoencoder for Cold-start Item Recommendation** (Cold Start + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.00452)
