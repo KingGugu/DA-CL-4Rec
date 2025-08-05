@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 75
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 209
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 234
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 236
 
 
 ## Survey-Tutorial-Framework
@@ -2769,3 +2769,11 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 234. **M2VAE: Multi-Modal Multi-View Variational Autoencoder for Cold-start Item Recommendation** (Cold Start + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.00452)
+
+235. **SaviorRec: Semantic-Behavior Alignment for Cold-Start Recommendation** (Cold Start + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.01375)
+
+236. **CM3: Calibrating Multimodal Recommendation** (Multi-modal Rec + CL)
+
+     MM 2025, [[PDF]](https://arxiv.org/pdf/2508.01226), [[Code]](https://github.com/enoche/CM3)
