@@ -1801,7 +1801,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 152. **FICLRec: Frequency Enhanced Intent Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
-     IP&M 2025, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0306457325001724), [[Code]](https://github.com/syf1844803351/FICLRec)
+     IPM 2025, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0306457325001724), [[Code]](https://github.com/syf1844803351/FICLRec)
 
 153. **FairCDSR: Fairness-Aware Cross-Domain Sequential Recommendation via Multi-Interest Transfer and Contrastive Learning** (Sequential + DA + CL)
 
