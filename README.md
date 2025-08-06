@@ -7,7 +7,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 76
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 209
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 210
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 236
 
@@ -1191,6 +1191,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 209. **Bottlenecked Heterogeneous Graph Contrastive Learning for Robust Recommendation** (Graph + DA + CL)
 
      TOIS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3750725), [[Code]](https://github.com/DuellingSword/BHGCL)
+
+210. **STARLINE: Contrastive Learning with Modality-Aware Graph Refinement for Effective Multimedia Recommendation** (Graph + DA + CL)
+
+     KDD 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3711896.3737136), [[Code]](https://github.com/Bigdasgit/STARLINE)
 
 
 ## Sequential Models with CL
