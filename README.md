@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 76
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 210
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 211
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 236
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 240
 
 
 ## Survey-Tutorial-Framework
@@ -1195,6 +1195,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 210. **STARLINE: Contrastive Learning with Modality-Aware Graph Refinement for Effective Multimedia Recommendation** (Graph + DA + CL)
 
      KDD 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3711896.3737136), [[Code]](https://github.com/Bigdasgit/STARLINE)
+
+211. **Enhancing Serendipity Recommendation System by Constructing Dynamic User Knowledge Graphs with Large Language Models** (Graph + LLM + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.04032), [[Code]](https://github.com/DouYuoD/LLM-Two-hop-Reasoning-Recommendation)
 
 
 ## Sequential Models with CL
@@ -2785,3 +2789,19 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 236. **CM3: Calibrating Multimodal Recommendation** (Multi-modal Rec + CL)
 
      MM 2025, [[PDF]](https://arxiv.org/pdf/2508.01226), [[Code]](https://github.com/enoche/CM3)
+
+237. **Benefit from Rich: Tackling Search Interaction Sparsity in Search Enhanced Recommendation** (Search & Rec + CL)
+
+     CIKM 2025, [[PDF]](https://arxiv.org/pdf/2508.04145)
+
+238. **Bridging Search and Recommendation through Latent Cross Reasoning** (Search & Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.04152)
+
+239. **I3-MRec: Invariant Learning with Information Bottleneck for Incomplete Modality Recommendation** (Multi-modal Rec + CL)
+
+     MM 2025, [[PDF]](https://arxiv.org/pdf/2508.04247), [[Code]](https://github.com/HuilinChenJN/I3-MRec)
+
+240. **HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs** (Generative Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.04618)
