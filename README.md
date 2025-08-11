@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 76
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 77
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 211
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 240
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 241
 
 
 ## Survey-Tutorial-Framework
@@ -352,6 +352,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 76. **Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation** (Graph + LLM + DA)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.01128), [[Code]](https://github.com/LWang-Laura/TWISTER)
+
+77. **Beyond Single Labels: Improving Conversational Recommendation through LLM-Powered Data Augmentation** (Conversational Rec + LLM + DA)
+
+     ACL 2025, [[PDF]](https://arxiv.org/pdf/2508.05657), [[Code]](https://github.com/xu1110/FNSCRS)
 
 
 ## Graph Models with CL
@@ -2805,3 +2809,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 240. **HiD-VAE: Interpretable Generative Recommendation via Hierarchical and Disentangled Semantic IDs** (Generative Rec + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.04618)
+
+241. **Semantic Item Graph Enhancement for Multimodal Recommendation** (Multi-modal Rec + Graph + DA + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.06154)
