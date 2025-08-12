@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 77
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 211
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 241
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 242
 
 
 ## Survey-Tutorial-Framework
@@ -2813,3 +2813,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 241. **Semantic Item Graph Enhancement for Multimodal Recommendation** (Multi-modal Rec + Graph + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.06154)
+
+242. **Causal Negative Sampling via Diffusion Model for Out-of-Distribution Recommendation** (Out-of-Distribution Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.07243), [[Code]](https://github.com/user683/CNSDiff)
