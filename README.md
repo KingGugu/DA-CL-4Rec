@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 77
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 211
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 243
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 246
 
 
 ## Survey-Tutorial-Framework
@@ -2821,3 +2821,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 243. **SPARC: Soft Probabilistic Adaptive multi-interest Retrieval Model via Codebooks for Recommender System** (Multi-Interests + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.09090)
+
+244. **Semantic IDs for Joint Generative Search and Recommendation** (Search & Rec  + CL)
+
+     RecSys 2025, [[PDF]](https://arxiv.org/pdf/2508.10478)
+
+245. **DAS: Dual-Aligned Semantic IDs Empowered Industrial Recommender System** (LLM Rec + CL)
+
+     CIKM 2025, [[PDF]](https://arxiv.org/pdf/2508.10584)
+
+246. **STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation** (Conversational Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.10669), [[Code]](https://github.com/Alex-bupt/STEP)
