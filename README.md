@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 77
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 211
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 160
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 161
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 246
 
 
@@ -1846,6 +1846,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 160. **TADT-CSA: Temporal Advantage Decision Transformer with Contrastive State Abstraction for Generative Recommendation** (Sequential + Generative + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2507.20327)
+
+161. **Multimodal Fusion And Sparse Attention-based Alignment Model for Long Sequential Recommendation** (Sequential + Multi-Modal + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/abs/2508.09664)
 
 
 ## Other Tasks with CL
