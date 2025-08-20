@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 77
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 211
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 161
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 246
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 247
 
 
 ## Survey-Tutorial-Framework
@@ -2814,7 +2814,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.04618)
 
-241. **Semantic Item Graph Enhancement for Multimodal Recommendation** (Multi-modal Rec + Graph + DA + CL)
+241. **Semantic Item Graph Enhancement for Multimodal Recommendation** (Multi-Modal + Graph + DA + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.06154)
 
@@ -2837,3 +2837,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 246. **STEP: Stepwise Curriculum Learning for Context-Knowledge Fusion in Conversational Recommendation** (Conversational Rec + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.10669), [[Code]](https://github.com/Alex-bupt/STEP)
+
+247. **Refining Contrastive Learning and Homography Relations for Multi-Modal Recommendation** (Multi-Modal + CL)
+
+     MM 2025, [[PDF]](https://arxiv.org/pdf/2508.13745)
