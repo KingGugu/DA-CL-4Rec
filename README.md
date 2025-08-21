@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 77
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 211
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 161
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 247
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 248
 
 
 ## Survey-Tutorial-Framework
@@ -2841,3 +2841,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 247. **Refining Contrastive Learning and Homography Relations for Multi-Modal Recommendation** (Multi-Modal + CL)
 
      MM 2025, [[PDF]](https://arxiv.org/pdf/2508.13745)
+
+248. **Dual-Phase Playtime-guided Recommendation: Interest Intensity Exploration and Multimodal Random Walks** (Multi-Modal + CL)
+
+     MM 2025, [[PDF]](https://arxiv.org/pdf/2508.14058), [[Code]](https://github.com/zqxwcevrtyui/DP2Rec)
