@@ -6,10 +6,10 @@ Comments and contributions are welcome.
 CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
-- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 77
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 211
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 161
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 250
+- [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 78
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 213
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 162
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 253
 
 
 ## Survey-Tutorial-Framework
@@ -1208,6 +1208,14 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.04032), [[Code]](https://github.com/DouYuoD/LLM-Two-hop-Reasoning-Recommendation)
 
+212. **Your Graph Recommenders are Provably Doing Graph Contrastive Learning** (Graph + LLM + CL)
+
+     KDD 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3711896.3737182), [[Code]](https://github.com/DouYuoD/LLM-Two-hop-Reasoning-Recommendation)
+
+213. **EGRA: Toward Enhanced Behavior Graphs and Representation Alignment for Multimodal Recommendation** (Graph + DA + Multi-Modal + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.16170)
+
 
 ## Sequential Models with CL
 
@@ -1854,6 +1862,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 161. **Multimodal Fusion And Sparse Attention-based Alignment Model for Long Sequential Recommendation** (Sequential + Multi-Modal + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/abs/2508.09664)
+
+162. **Contrastive Text-enhanced Transformer for Cross-Domain Sequential Recommendation** (Sequential + Cross-Domain + CL)
+
+     KDD 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3711896.3736893), [[Code]](https://github.com/XinbeiCai/CTT)
 
 
 ## Other Tasks with CL
@@ -2857,3 +2869,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 250. **Closing the Performance Gap in Generative Recommenders with Collaborative Tokenization and Efficient Modeling** (Generative Rec + CL)
 
      MM 2025, [[PDF]](https://arxiv.org/pdf/2508.14910)
+
+251. **Spacetime-GR: A Spacetime-Aware Generative Model for Large Scale Online POI Recommendation** (POI Rec + LLM + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.16126)
+
+252. **Modality-Aware Diffusion Augmentation with Consistent Subspace Disentanglement for Session-based Recommendation** (Session + Multi-Modal + CL)
+
+     KDD 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3711896.3737052)
+
+253. **ROMA: Recommendation-Oriented Language Model Adaptation Using Multi-Modal Multi-Domain Item Sequences** (Multi-Modal + LLM + CL)
+
+     KDD 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3711896.3737262), [[Code]](https://github.com/XingyuLu206/ROMA)
