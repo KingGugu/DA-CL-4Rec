@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 78
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 213
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 162
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 253
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 254
 
 
 ## Survey-Tutorial-Framework
@@ -2881,3 +2881,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 253. **ROMA: Recommendation-Oriented Language Model Adaptation Using Multi-Modal Multi-Domain Item Sequences** (Multi-Modal + LLM + CL)
 
      KDD 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3711896.3737262), [[Code]](https://github.com/XingyuLu206/ROMA)
+
+254. **PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation** (App Rec + CL)
+
+     arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.18166)
