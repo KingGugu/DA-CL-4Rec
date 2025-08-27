@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 78
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 213
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 162
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 254
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 255
 
 
 ## Survey-Tutorial-Framework
@@ -2885,3 +2885,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 254. **PCR-CA: Parallel Codebook Representations with Contrastive Alignment for Multiple-Category App Recommendation** (App Rec + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.18166)
+
+255. **Taming the One-Epoch Phenomenon in Online Recommendation System by Two-stage Contrastive ID Pre-training** (Online Rec + CL)
+
+     RecSys 2024, [[PDF]](https://arxiv.org/pdf/2508.18700)
