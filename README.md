@@ -7,9 +7,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 - [Survey/Tutorial/Framework](#Survey-Tutorial-Framework) Total Papers: 8
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 78
-- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 213
+- [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 214
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 162
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 255
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 256
 
 
 ## Survey-Tutorial-Framework
@@ -1215,6 +1215,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 213. **EGRA: Toward Enhanced Behavior Graphs and Representation Alignment for Multimodal Recommendation** (Graph + DA + Multi-Modal + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.16170)
+
+214. **Improving Recommendation Fairness via Graph Structure and Representation Augmentation** (Graph + DA + CL)
+
+     CIKM 2025, [[PDF]](https://arxiv.org/pdf/2508.19547), [[Code]](https://github.com/LokHsu/FairDDA)
 
 
 ## Sequential Models with CL
@@ -2889,3 +2893,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 255. **Taming the One-Epoch Phenomenon in Online Recommendation System by Two-stage Contrastive ID Pre-training** (Online Rec + CL)
 
      RecSys 2024, [[PDF]](https://arxiv.org/pdf/2508.18700)
+
+256. **A Self-Supervised Mixture-of-Experts Framework for Multi-behavior Recommendation** (Multi-Behavior Rec + CL)
+
+     CIKM 2025, [[PDF]](https://arxiv.org/pdf/2508.19507), [[Code]](https://github.com/K-Kyungho/MEMBER)
