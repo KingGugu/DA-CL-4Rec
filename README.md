@@ -9,7 +9,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 78
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 214
 - [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 162
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 257
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 258
 
 
 ## Survey-Tutorial-Framework
@@ -2901,3 +2901,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 257. **Rethinking Purity and Diversity in Multi-Behavior Sequential Recommendation from the Frequency Perspective** (Multi-Behavior Rec + CL)
 
      arXiv 2025, [[PDF]](https://arxiv.org/pdf/2508.20427)
+
+258. **Unifying Isolated Processes for Enhanced Multi-modal Recommendations Using a Graph Transformer** (Multi-Modal + CL)
+
+     TORS 2025, [[PDF]](https://dl.acm.org/doi/10.1145/3760762), [[Code]](https://github.com/terrierteam/UGT4MMRec/)
