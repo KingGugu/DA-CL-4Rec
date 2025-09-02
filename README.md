@@ -357,9 +357,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      ACL 2025, [[PDF]](https://arxiv.org/pdf/2508.05657), [[Code]](https://github.com/xu1110/FNSCRS)
 
-78. **Beyond Random Augmentations: Pretraining with Hard Views** (CL + DA)
+78. **Mitigating Distribution Shifts in Sequential Recommendation: An Invariance Perspective** (Sequential + DA)
 
-     ICLR 2025, [[PDF]](https://arxiv.org/abs/2310.03940), [[Code]](https://github.com/automl/hvp)
+     SIGIR 2025, [[PDF]](https://dl.acm.org/doi/abs/10.1145/3726302.3730036), [[Code]](https://github.com/hermione314/IDEA)
 
 
 ## Graph Models with CL
